@@ -1,0 +1,5001 @@
+Incident_ID,Incident_Type,Unit_Type,Priority,Weather_Index,Hour_of_Day,TurnoutTime_Seconds
+1000,Medical,Ladder,2,Rain,6,61
+1001,False Alarm,Ladder,1,Clear,23,52
+1002,Traffic Accident,Rescue Squad,2,Clear,17,75
+1003,Structure Fire,Ladder,2,Clear,9,97
+1004,Medical,Chief,1,Clear,14,49
+1005,Medical,Ladder,2,Rain,4,63
+1006,Medical,Chief,2,Storm,23,88
+1007,Wellness Check,Ladder,3,Clear,10,96
+1008,Traffic Accident,Chief,2,Clear,7,73
+1009,Traffic Accident,Ladder,3,Clear,20,97
+1010,Medical,Ladder,2,Rain,7,94
+1011,False Alarm,Engine,1,Rain,5,69
+1012,Wellness Check,Chief,2,Rain,14,52
+1013,Medical,Chief,2,Clear,14,74
+1014,Medical,Chief,2,Fog,4,69
+1015,Medical,Ambulance,2,Clear,12,55
+1016,Medical,Ladder,2,Rain,13,61
+1017,Structure Fire,Chief,1,Rain,10,64
+1018,Medical,Ambulance,1,Rain,19,35
+1019,Medical,Engine,2,Clear,20,73
+1020,Traffic Accident,Chief,2,Rain,11,63
+1021,Medical,Chief,2,Clear,19,60
+1022,Medical,Ambulance,2,Rain,0,67
+1023,Medical,Ladder,1,Clear,2,45
+1024,Medical,Engine,2,Clear,7,112
+1025,Traffic Accident,Chief,2,Clear,22,51
+1026,Medical,Ladder,2,Snow,11,113
+1027,Structure Fire,Engine,2,Clear,14,55
+1028,Structure Fire,Rescue Squad,2,Rain,22,70
+1029,Medical,Rescue Squad,2,Rain,2,78
+1030,Traffic Accident,Engine,3,Snow,21,150
+1031,Medical,Ambulance,2,Clear,7,92
+1032,Medical,Engine,2,Rain,23,66
+1033,False Alarm,Engine,2,Clear,18,94
+1034,False Alarm,Ambulance,2,Clear,19,56
+1035,Wellness Check,Ambulance,2,Clear,5,47
+1036,Medical,Ladder,2,Clear,17,83
+1037,Medical,Ladder,2,Clear,10,79
+1038,Traffic Accident,Ambulance,1,Clear,11,36
+1039,Medical,Rescue Squad,3,Clear,22,57
+1040,Medical,Rescue Squad,2,Clear,1,47
+1041,Medical,Engine,2,Clear,4,78
+1042,Medical,Chief,2,Clear,3,42
+1043,False Alarm,Engine,1,Fog,8,71
+1044,Medical,Engine,1,Clear,12,51
+1045,Traffic Accident,Chief,1,Clear,12,47
+1046,Medical,Ambulance,2,Clear,14,62
+1047,Structure Fire,Rescue Squad,3,Clear,1,84
+1048,Structure Fire,Engine,2,Clear,22,68
+1049,Medical,Chief,2,Clear,12,50
+1050,False Alarm,Ladder,2,Storm,6,117
+1051,Traffic Accident,Engine,1,Rain,22,37
+1052,False Alarm,Rescue Squad,1,Rain,16,77
+1053,Wellness Check,Ambulance,2,Storm,7,121
+1054,Structure Fire,Engine,3,Fog,17,140
+1055,False Alarm,Engine,2,Rain,14,62
+1056,Medical,Chief,2,Rain,14,54
+1057,Medical,Ladder,3,Clear,4,90
+1058,Medical,Ladder,1,Clear,1,54
+1059,Medical,Ambulance,2,Clear,15,68
+1060,Medical,Rescue Squad,2,Clear,4,65
+1061,Medical,Ambulance,2,Storm,22,83
+1062,Wellness Check,Engine,1,Clear,5,54
+1063,Medical,Engine,2,Rain,11,79
+1064,Medical,Ladder,2,Clear,4,57
+1065,Structure Fire,Rescue Squad,1,Clear,19,42
+1066,Medical,Chief,2,Clear,7,92
+1067,Wellness Check,Rescue Squad,1,Clear,10,34
+1068,Medical,Engine,3,Clear,13,54
+1069,False Alarm,Chief,2,Clear,23,74
+1070,Traffic Accident,Rescue Squad,3,Clear,16,103
+1071,Medical,Rescue Squad,2,Clear,9,68
+1072,Medical,Chief,1,Rain,1,54
+1073,Wellness Check,Engine,1,Clear,2,52
+1074,Traffic Accident,Rescue Squad,1,Clear,12,34
+1075,Traffic Accident,Chief,1,Clear,16,64
+1076,Traffic Accident,Engine,2,Clear,2,70
+1077,Medical,Chief,1,Clear,9,57
+1078,Medical,Chief,2,Clear,7,80
+1079,Medical,Rescue Squad,2,Clear,3,49
+1080,Wellness Check,Engine,2,Fog,12,77
+1081,Traffic Accident,Rescue Squad,2,Clear,6,47
+1082,Medical,Ambulance,2,Clear,6,52
+1083,Medical,Ambulance,3,Clear,15,81
+1084,Medical,Engine,1,Clear,4,69
+1085,Medical,Chief,2,Clear,16,88
+1086,Traffic Accident,Rescue Squad,2,Snow,9,122
+1087,Traffic Accident,Rescue Squad,2,Snow,3,97
+1088,Wellness Check,Engine,2,Clear,22,79
+1089,Medical,Engine,2,Fog,13,89
+1090,Medical,Ambulance,2,Clear,4,55
+1091,Traffic Accident,Ladder,2,Rain,1,70
+1092,Traffic Accident,Engine,3,Rain,13,91
+1093,Structure Fire,Ladder,3,Rain,23,95
+1094,Traffic Accident,Engine,2,Clear,17,93
+1095,Medical,Chief,1,Clear,23,39
+1096,Structure Fire,Chief,3,Clear,10,79
+1097,Medical,Ambulance,3,Clear,15,104
+1098,Medical,Ambulance,1,Clear,17,72
+1099,Medical,Ladder,2,Clear,15,50
+1100,Medical,Engine,3,Clear,20,86
+1101,Traffic Accident,Rescue Squad,2,Rain,3,60
+1102,Medical,Ambulance,1,Clear,0,43
+1103,Structure Fire,Rescue Squad,2,Snow,13,87
+1104,False Alarm,Rescue Squad,3,Clear,11,82
+1105,Medical,Engine,3,Fog,23,95
+1106,Medical,Ladder,2,Clear,9,100
+1107,Traffic Accident,Engine,2,Clear,18,105
+1108,Medical,Ambulance,1,Fog,3,30
+1109,Medical,Rescue Squad,3,Clear,19,77
+1110,Medical,Engine,1,Clear,20,59
+1111,Medical,Engine,3,Clear,2,92
+1112,False Alarm,Engine,2,Clear,3,63
+1113,Wellness Check,Ambulance,3,Clear,14,74
+1114,Traffic Accident,Ladder,1,Clear,10,46
+1115,Wellness Check,Engine,2,Fog,15,79
+1116,Wellness Check,Ambulance,1,Rain,3,30
+1117,Medical,Rescue Squad,2,Clear,5,47
+1118,Wellness Check,Chief,3,Snow,7,139
+1119,Structure Fire,Ambulance,2,Clear,12,65
+1120,Wellness Check,Chief,2,Clear,22,44
+1121,Wellness Check,Engine,1,Clear,19,61
+1122,Medical,Engine,3,Rain,3,91
+1123,Medical,Ambulance,2,Clear,4,65
+1124,Medical,Chief,2,Rain,9,83
+1125,Medical,Engine,2,Clear,4,74
+1126,Wellness Check,Rescue Squad,2,Storm,11,88
+1127,Wellness Check,Ladder,2,Rain,0,74
+1128,Medical,Ladder,2,Clear,23,72
+1129,Structure Fire,Engine,2,Rain,9,85
+1130,Medical,Chief,3,Clear,4,79
+1131,Medical,Engine,3,Clear,18,117
+1132,Medical,Chief,1,Clear,18,81
+1133,Medical,Rescue Squad,2,Clear,19,79
+1134,False Alarm,Chief,1,Snow,11,90
+1135,Medical,Engine,1,Clear,22,58
+1136,Structure Fire,Rescue Squad,2,Clear,15,72
+1137,Traffic Accident,Ambulance,3,Clear,4,83
+1138,Medical,Ladder,1,Clear,16,69
+1139,False Alarm,Engine,2,Clear,13,62
+1140,False Alarm,Engine,3,Rain,11,108
+1141,Medical,Engine,3,Storm,12,106
+1142,Medical,Rescue Squad,2,Clear,20,65
+1143,Medical,Ambulance,2,Clear,13,50
+1144,Medical,Chief,2,Clear,4,72
+1145,Medical,Ambulance,1,Snow,21,62
+1146,Traffic Accident,Rescue Squad,1,Clear,22,45
+1147,Structure Fire,Engine,1,Clear,4,52
+1148,Medical,Ladder,2,Rain,17,95
+1149,Medical,Engine,3,Clear,13,91
+1150,False Alarm,Chief,2,Clear,17,96
+1151,Medical,Ladder,2,Rain,19,76
+1152,Medical,Engine,2,Clear,0,72
+1153,Medical,Ladder,1,Clear,6,61
+1154,False Alarm,Ambulance,2,Clear,16,96
+1155,Medical,Rescue Squad,3,Clear,2,76
+1156,Traffic Accident,Engine,1,Clear,9,68
+1157,Traffic Accident,Chief,1,Fog,6,60
+1158,Medical,Ambulance,2,Clear,11,67
+1159,Traffic Accident,Engine,2,Rain,21,74
+1160,Medical,Ambulance,2,Clear,14,51
+1161,Traffic Accident,Chief,2,Clear,22,42
+1162,Traffic Accident,Engine,2,Clear,20,67
+1163,Structure Fire,Chief,1,Clear,15,40
+1164,Medical,Ladder,2,Clear,7,93
+1165,Wellness Check,Chief,2,Clear,5,68
+1166,Medical,Ladder,3,Clear,3,105
+1167,Medical,Engine,3,Clear,10,101
+1168,Medical,Ladder,3,Storm,16,133
+1169,Structure Fire,Engine,2,Clear,1,75
+1170,Traffic Accident,Engine,2,Clear,5,65
+1171,Medical,Rescue Squad,2,Clear,3,41
+1172,Structure Fire,Engine,3,Clear,2,89
+1173,Medical,Ladder,1,Rain,6,67
+1174,Traffic Accident,Rescue Squad,2,Clear,6,56
+1175,Medical,Rescue Squad,2,Clear,15,68
+1176,Traffic Accident,Engine,2,Clear,1,63
+1177,Medical,Chief,1,Rain,7,75
+1178,False Alarm,Chief,2,Clear,14,57
+1179,Medical,Rescue Squad,2,Clear,15,75
+1180,Medical,Engine,2,Clear,0,66
+1181,Medical,Chief,2,Clear,9,81
+1182,False Alarm,Engine,2,Clear,6,84
+1183,Wellness Check,Engine,3,Fog,15,84
+1184,Medical,Rescue Squad,2,Rain,9,81
+1185,Traffic Accident,Rescue Squad,2,Clear,11,54
+1186,Wellness Check,Ambulance,1,Clear,16,82
+1187,Structure Fire,Chief,1,Clear,12,57
+1188,Structure Fire,Chief,2,Clear,11,53
+1189,Medical,Chief,2,Clear,14,65
+1190,Medical,Ladder,2,Clear,13,76
+1191,Wellness Check,Engine,1,Storm,18,98
+1192,False Alarm,Rescue Squad,3,Clear,18,112
+1193,Traffic Accident,Chief,2,Fog,13,75
+1194,Medical,Ambulance,1,Clear,17,64
+1195,Medical,Chief,2,Clear,4,72
+1196,Traffic Accident,Engine,3,Clear,19,95
+1197,Wellness Check,Engine,2,Rain,5,72
+1198,Wellness Check,Rescue Squad,2,Clear,17,78
+1199,Traffic Accident,Ladder,2,Snow,13,95
+1200,Traffic Accident,Rescue Squad,1,Snow,3,81
+1201,Medical,Chief,2,Rain,22,63
+1202,Medical,Ambulance,1,Rain,0,64
+1203,Wellness Check,Rescue Squad,2,Rain,12,53
+1204,Traffic Accident,Ladder,1,Rain,10,38
+1205,Medical,Rescue Squad,3,Clear,2,68
+1206,Medical,Engine,2,Rain,16,108
+1207,Traffic Accident,Chief,1,Fog,17,67
+1208,Medical,Chief,2,Clear,9,94
+1209,Medical,Chief,1,Fog,15,45
+1210,Structure Fire,Chief,2,Clear,20,50
+1211,Traffic Accident,Chief,2,Clear,12,80
+1212,Traffic Accident,Chief,1,Clear,19,58
+1213,Medical,Ambulance,1,Clear,11,43
+1214,Traffic Accident,Ladder,2,Snow,3,120
+1215,Medical,Chief,1,Fog,7,62
+1216,Medical,Ladder,2,Rain,11,74
+1217,Traffic Accident,Chief,2,Storm,18,139
+1218,Traffic Accident,Rescue Squad,2,Clear,14,44
+1219,Wellness Check,Chief,2,Clear,15,56
+1220,Traffic Accident,Engine,2,Clear,11,70
+1221,Structure Fire,Ambulance,3,Snow,19,125
+1222,Medical,Rescue Squad,1,Clear,17,50
+1223,Medical,Rescue Squad,1,Storm,21,89
+1224,Medical,Engine,1,Rain,11,43
+1225,Medical,Chief,1,Storm,15,63
+1226,False Alarm,Ambulance,1,Clear,19,42
+1227,Medical,Rescue Squad,2,Clear,10,78
+1228,Wellness Check,Ambulance,2,Rain,21,85
+1229,Traffic Accident,Rescue Squad,3,Rain,19,84
+1230,Traffic Accident,Chief,1,Clear,13,42
+1231,Structure Fire,Rescue Squad,2,Fog,1,61
+1232,Structure Fire,Rescue Squad,3,Fog,12,83
+1233,Medical,Ladder,3,Clear,13,104
+1234,Medical,Chief,2,Clear,5,47
+1235,Traffic Accident,Engine,2,Clear,11,81
+1236,Medical,Engine,3,Clear,6,75
+1237,Medical,Chief,2,Rain,3,55
+1238,Traffic Accident,Engine,1,Clear,6,54
+1239,Medical,Chief,3,Rain,12,84
+1240,False Alarm,Engine,2,Rain,10,69
+1241,False Alarm,Ladder,1,Clear,7,77
+1242,False Alarm,Engine,2,Clear,18,87
+1243,Medical,Rescue Squad,2,Clear,1,44
+1244,Medical,Chief,3,Clear,20,85
+1245,False Alarm,Ambulance,1,Clear,17,70
+1246,Medical,Ambulance,3,Storm,20,134
+1247,False Alarm,Chief,2,Clear,9,104
+1248,False Alarm,Ladder,2,Clear,5,74
+1249,Wellness Check,Engine,1,Clear,23,69
+1250,Medical,Ladder,2,Clear,21,70
+1251,Medical,Ambulance,3,Clear,3,65
+1252,Wellness Check,Chief,2,Rain,18,90
+1253,Medical,Chief,1,Clear,13,52
+1254,Medical,Ladder,2,Storm,13,110
+1255,Structure Fire,Ladder,2,Clear,17,85
+1256,False Alarm,Engine,1,Fog,16,84
+1257,Traffic Accident,Rescue Squad,2,Fog,17,84
+1258,Structure Fire,Rescue Squad,2,Clear,17,92
+1259,Medical,Engine,2,Clear,4,60
+1260,Traffic Accident,Rescue Squad,2,Clear,8,72
+1261,False Alarm,Ambulance,1,Rain,0,31
+1262,Medical,Rescue Squad,2,Fog,3,82
+1263,Structure Fire,Engine,2,Clear,6,70
+1264,Wellness Check,Rescue Squad,2,Clear,10,72
+1265,Traffic Accident,Chief,2,Snow,13,87
+1266,Traffic Accident,Ladder,1,Storm,9,111
+1267,Traffic Accident,Ambulance,3,Rain,18,108
+1268,Medical,Chief,2,Fog,7,101
+1269,Medical,Chief,2,Clear,2,53
+1270,Wellness Check,Engine,2,Rain,7,82
+1271,Wellness Check,Ladder,2,Rain,17,85
+1272,Wellness Check,Ladder,1,Rain,4,53
+1273,False Alarm,Ambulance,1,Clear,19,34
+1274,Structure Fire,Engine,1,Clear,10,40
+1275,Structure Fire,Ambulance,2,Clear,8,85
+1276,Traffic Accident,Rescue Squad,1,Clear,18,75
+1277,Traffic Accident,Chief,1,Clear,11,33
+1278,Traffic Accident,Ambulance,2,Rain,4,53
+1279,Traffic Accident,Chief,1,Clear,15,44
+1280,Wellness Check,Engine,2,Clear,12,87
+1281,Medical,Rescue Squad,2,Snow,5,69
+1282,Medical,Engine,1,Fog,15,59
+1283,Medical,Rescue Squad,2,Clear,17,95
+1284,Structure Fire,Rescue Squad,1,Clear,16,64
+1285,Medical,Chief,3,Fog,11,76
+1286,Medical,Engine,2,Fog,0,73
+1287,Structure Fire,Engine,1,Clear,6,54
+1288,Medical,Ambulance,1,Clear,13,61
+1289,Structure Fire,Engine,2,Clear,17,89
+1290,Medical,Ambulance,1,Rain,22,53
+1291,Medical,Ladder,1,Clear,0,59
+1292,Wellness Check,Ladder,2,Clear,19,76
+1293,Medical,Ladder,3,Clear,9,109
+1294,Medical,Engine,2,Fog,14,72
+1295,Structure Fire,Engine,2,Clear,10,69
+1296,Traffic Accident,Ambulance,3,Clear,3,72
+1297,Medical,Rescue Squad,1,Storm,14,77
+1298,Traffic Accident,Ambulance,3,Clear,20,59
+1299,Medical,Ladder,2,Clear,15,83
+1300,Medical,Ambulance,2,Rain,14,37
+1301,Structure Fire,Rescue Squad,3,Clear,16,102
+1302,Structure Fire,Engine,1,Snow,22,106
+1303,Traffic Accident,Ambulance,1,Clear,10,33
+1304,Traffic Accident,Ladder,2,Clear,17,90
+1305,False Alarm,Ladder,2,Fog,15,73
+1306,Structure Fire,Engine,2,Clear,14,73
+1307,Medical,Ambulance,1,Rain,10,41
+1308,Traffic Accident,Rescue Squad,2,Clear,12,55
+1309,Medical,Engine,2,Clear,17,82
+1310,Medical,Ambulance,2,Snow,7,121
+1311,Medical,Chief,3,Clear,8,108
+1312,Medical,Ladder,2,Clear,21,65
+1313,False Alarm,Rescue Squad,1,Clear,10,40
+1314,Wellness Check,Rescue Squad,2,Clear,16,96
+1315,Traffic Accident,Rescue Squad,2,Rain,0,58
+1316,Medical,Ladder,1,Snow,10,102
+1317,Medical,Ambulance,1,Rain,6,50
+1318,Medical,Engine,3,Rain,7,106
+1319,Medical,Ambulance,3,Clear,18,110
+1320,Structure Fire,Engine,2,Clear,3,79
+1321,Traffic Accident,Rescue Squad,1,Rain,3,54
+1322,Traffic Accident,Ambulance,3,Clear,18,106
+1323,Medical,Rescue Squad,3,Clear,23,59
+1324,False Alarm,Chief,2,Fog,8,66
+1325,Traffic Accident,Rescue Squad,3,Clear,16,101
+1326,Structure Fire,Rescue Squad,3,Clear,17,91
+1327,Traffic Accident,Engine,3,Clear,0,82
+1328,Medical,Chief,3,Rain,13,88
+1329,Medical,Rescue Squad,2,Clear,3,61
+1330,Medical,Rescue Squad,2,Clear,9,88
+1331,Traffic Accident,Chief,2,Storm,22,90
+1332,Medical,Chief,2,Rain,13,55
+1333,Medical,Ambulance,2,Snow,6,90
+1334,Medical,Engine,3,Clear,11,103
+1335,Medical,Chief,2,Clear,21,42
+1336,Wellness Check,Chief,2,Clear,15,72
+1337,Traffic Accident,Ladder,2,Clear,4,92
+1338,Medical,Chief,2,Clear,10,72
+1339,Medical,Engine,2,Clear,3,60
+1340,Medical,Rescue Squad,1,Clear,12,40
+1341,Medical,Rescue Squad,2,Rain,7,85
+1342,Medical,Rescue Squad,1,Rain,6,42
+1343,Medical,Rescue Squad,1,Clear,10,39
+1344,Medical,Ladder,2,Clear,10,68
+1345,Traffic Accident,Chief,1,Clear,16,63
+1346,Traffic Accident,Rescue Squad,2,Clear,21,58
+1347,Medical,Ambulance,1,Clear,13,32
+1348,Medical,Rescue Squad,1,Clear,1,52
+1349,Traffic Accident,Chief,2,Fog,19,51
+1350,Structure Fire,Rescue Squad,2,Snow,20,84
+1351,Wellness Check,Ladder,3,Rain,7,108
+1352,Traffic Accident,Engine,2,Fog,21,73
+1353,Medical,Engine,1,Rain,1,63
+1354,Medical,Chief,2,Snow,20,92
+1355,Traffic Accident,Engine,2,Clear,14,62
+1356,Medical,Engine,2,Clear,4,64
+1357,Structure Fire,Ambulance,3,Rain,5,103
+1358,False Alarm,Chief,2,Clear,16,90
+1359,Structure Fire,Chief,2,Rain,7,82
+1360,Medical,Engine,2,Fog,18,89
+1361,Traffic Accident,Engine,3,Rain,4,75
+1362,Medical,Engine,2,Clear,22,81
+1363,Structure Fire,Ladder,1,Clear,18,65
+1364,False Alarm,Rescue Squad,2,Snow,13,103
+1365,Medical,Ladder,2,Storm,9,139
+1366,False Alarm,Chief,3,Clear,12,93
+1367,False Alarm,Ambulance,2,Snow,21,91
+1368,Medical,Rescue Squad,1,Fog,4,42
+1369,Medical,Ambulance,3,Clear,6,80
+1370,Medical,Chief,3,Snow,9,126
+1371,Medical,Chief,1,Clear,10,42
+1372,Medical,Ambulance,3,Clear,2,63
+1373,Traffic Accident,Ambulance,2,Clear,12,38
+1374,Medical,Ambulance,2,Rain,1,67
+1375,Medical,Chief,3,Rain,3,78
+1376,Wellness Check,Engine,2,Clear,2,79
+1377,Medical,Ambulance,1,Fog,14,41
+1378,Wellness Check,Rescue Squad,2,Snow,3,83
+1379,Medical,Chief,2,Rain,22,69
+1380,Medical,Ladder,1,Clear,20,70
+1381,Traffic Accident,Ladder,2,Clear,3,66
+1382,Traffic Accident,Rescue Squad,2,Clear,14,49
+1383,Wellness Check,Engine,2,Fog,5,82
+1384,Traffic Accident,Ambulance,2,Clear,22,57
+1385,Wellness Check,Chief,3,Storm,4,104
+1386,Medical,Ambulance,2,Snow,11,89
+1387,Medical,Chief,2,Rain,6,52
+1388,Traffic Accident,Ladder,1,Rain,2,62
+1389,Wellness Check,Ambulance,2,Clear,6,46
+1390,False Alarm,Rescue Squad,3,Rain,11,81
+1391,Medical,Engine,2,Clear,14,72
+1392,Medical,Rescue Squad,2,Snow,18,99
+1393,Traffic Accident,Engine,2,Rain,5,85
+1394,Medical,Ambulance,2,Rain,7,98
+1395,False Alarm,Ambulance,1,Rain,5,40
+1396,Wellness Check,Engine,3,Clear,2,88
+1397,Medical,Ladder,1,Clear,4,63
+1398,Traffic Accident,Chief,2,Snow,8,132
+1399,Traffic Accident,Rescue Squad,2,Clear,23,74
+1400,Medical,Rescue Squad,2,Clear,15,65
+1401,False Alarm,Rescue Squad,1,Clear,21,47
+1402,Structure Fire,Ambulance,2,Clear,15,62
+1403,Wellness Check,Rescue Squad,1,Clear,8,95
+1404,Medical,Chief,1,Snow,17,82
+1405,Wellness Check,Chief,2,Rain,12,49
+1406,Medical,Engine,2,Clear,10,67
+1407,Medical,Ambulance,1,Fog,9,74
+1408,False Alarm,Chief,1,Clear,9,38
+1409,Medical,Ladder,3,Clear,5,70
+1410,Medical,Ambulance,3,Rain,15,76
+1411,False Alarm,Ambulance,1,Rain,11,66
+1412,False Alarm,Chief,2,Clear,3,60
+1413,Structure Fire,Ladder,2,Storm,4,91
+1414,Traffic Accident,Engine,2,Fog,1,78
+1415,Medical,Chief,3,Clear,18,114
+1416,Medical,Ladder,1,Clear,0,48
+1417,Medical,Ambulance,2,Snow,3,105
+1418,Traffic Accident,Ladder,2,Clear,11,71
+1419,Traffic Accident,Ambulance,2,Clear,1,65
+1420,Traffic Accident,Chief,2,Rain,11,55
+1421,Traffic Accident,Chief,3,Clear,15,86
+1422,Medical,Rescue Squad,1,Clear,1,53
+1423,Medical,Rescue Squad,1,Clear,16,78
+1424,Medical,Rescue Squad,1,Rain,1,30
+1425,Structure Fire,Chief,3,Clear,3,65
+1426,Medical,Engine,2,Clear,5,63
+1427,Wellness Check,Chief,2,Clear,22,62
+1428,Medical,Ladder,1,Clear,6,60
+1429,Medical,Chief,3,Fog,22,69
+1430,Medical,Chief,3,Fog,14,83
+1431,Traffic Accident,Ambulance,2,Clear,19,69
+1432,Traffic Accident,Ambulance,2,Rain,11,66
+1433,Medical,Ambulance,1,Rain,4,40
+1434,Medical,Chief,2,Snow,13,95
+1435,Traffic Accident,Engine,2,Clear,15,57
+1436,Medical,Ladder,1,Clear,10,72
+1437,Wellness Check,Ladder,2,Rain,11,74
+1438,Traffic Accident,Engine,1,Clear,18,66
+1439,Medical,Engine,2,Clear,16,100
+1440,Medical,Ladder,2,Rain,23,76
+1441,False Alarm,Rescue Squad,1,Storm,6,95
+1442,Medical,Ambulance,2,Clear,8,74
+1443,Medical,Ambulance,2,Rain,13,55
+1444,Wellness Check,Ladder,1,Clear,19,46
+1445,False Alarm,Engine,3,Fog,11,111
+1446,False Alarm,Rescue Squad,1,Clear,14,39
+1447,Traffic Accident,Ladder,2,Clear,11,60
+1448,Medical,Ambulance,1,Clear,20,38
+1449,Medical,Chief,1,Clear,20,41
+1450,Traffic Accident,Engine,1,Clear,22,70
+1451,Structure Fire,Chief,1,Clear,12,47
+1452,Medical,Ladder,2,Rain,8,107
+1453,False Alarm,Ambulance,1,Clear,23,47
+1454,Medical,Rescue Squad,2,Rain,6,58
+1455,Medical,Chief,1,Clear,0,34
+1456,Medical,Rescue Squad,1,Rain,9,77
+1457,Medical,Ambulance,2,Clear,5,69
+1458,Medical,Chief,3,Clear,14,90
+1459,Medical,Rescue Squad,2,Clear,14,69
+1460,Medical,Rescue Squad,2,Clear,8,78
+1461,Traffic Accident,Chief,1,Snow,12,91
+1462,Traffic Accident,Ambulance,3,Rain,22,90
+1463,Structure Fire,Rescue Squad,1,Clear,0,54
+1464,False Alarm,Ladder,1,Clear,8,72
+1465,Medical,Chief,2,Clear,2,79
+1466,Medical,Engine,2,Clear,8,91
+1467,Wellness Check,Engine,3,Rain,19,103
+1468,Medical,Ambulance,1,Clear,14,47
+1469,False Alarm,Ladder,3,Clear,23,86
+1470,Medical,Rescue Squad,2,Clear,6,69
+1471,False Alarm,Engine,2,Clear,3,77
+1472,Medical,Ambulance,1,Clear,19,48
+1473,Wellness Check,Ladder,1,Clear,16,63
+1474,Structure Fire,Ladder,3,Clear,21,100
+1475,False Alarm,Ambulance,2,Clear,3,52
+1476,Medical,Ambulance,2,Clear,18,89
+1477,Structure Fire,Rescue Squad,3,Rain,4,69
+1478,False Alarm,Ambulance,1,Clear,15,36
+1479,Structure Fire,Rescue Squad,2,Clear,2,62
+1480,Traffic Accident,Rescue Squad,2,Clear,10,65
+1481,Traffic Accident,Chief,1,Clear,21,47
+1482,Medical,Ladder,1,Clear,14,49
+1483,Traffic Accident,Ladder,2,Snow,18,135
+1484,Structure Fire,Ladder,2,Fog,20,71
+1485,False Alarm,Chief,2,Clear,23,61
+1486,Medical,Rescue Squad,1,Snow,13,75
+1487,Medical,Rescue Squad,3,Clear,15,72
+1488,False Alarm,Ambulance,1,Clear,23,56
+1489,Wellness Check,Chief,2,Storm,5,85
+1490,Medical,Ambulance,2,Snow,4,114
+1491,Traffic Accident,Chief,1,Storm,20,65
+1492,Medical,Ambulance,1,Clear,16,68
+1493,Medical,Engine,2,Clear,15,70
+1494,Medical,Ladder,3,Clear,1,88
+1495,Medical,Ladder,1,Rain,10,61
+1496,Structure Fire,Rescue Squad,2,Clear,3,67
+1497,Medical,Engine,2,Fog,5,75
+1498,False Alarm,Ladder,1,Clear,6,44
+1499,False Alarm,Rescue Squad,2,Clear,16,74
+1500,Traffic Accident,Engine,3,Rain,7,104
+1501,Structure Fire,Ladder,2,Rain,0,67
+1502,Medical,Ambulance,3,Clear,14,101
+1503,Wellness Check,Chief,1,Storm,19,64
+1504,Traffic Accident,Engine,2,Clear,11,91
+1505,Medical,Rescue Squad,2,Clear,14,59
+1506,False Alarm,Engine,2,Fog,22,71
+1507,Wellness Check,Rescue Squad,2,Storm,21,89
+1508,False Alarm,Engine,1,Snow,14,77
+1509,Traffic Accident,Rescue Squad,2,Fog,8,82
+1510,Traffic Accident,Ladder,2,Rain,15,52
+1511,Medical,Ambulance,1,Fog,1,36
+1512,False Alarm,Ladder,3,Clear,14,73
+1513,Wellness Check,Ambulance,2,Rain,14,67
+1514,Medical,Ladder,2,Rain,6,56
+1515,Medical,Ladder,1,Clear,20,69
+1516,Medical,Engine,1,Clear,12,58
+1517,Wellness Check,Chief,2,Clear,22,69
+1518,False Alarm,Rescue Squad,2,Rain,16,72
+1519,Medical,Rescue Squad,2,Clear,10,48
+1520,Structure Fire,Rescue Squad,2,Snow,9,120
+1521,Medical,Ambulance,1,Clear,0,55
+1522,False Alarm,Rescue Squad,2,Clear,13,81
+1523,Wellness Check,Rescue Squad,2,Fog,4,65
+1524,Wellness Check,Engine,2,Clear,7,74
+1525,Medical,Ladder,1,Clear,0,45
+1526,Medical,Rescue Squad,1,Clear,6,30
+1527,Medical,Chief,2,Rain,1,58
+1528,Medical,Rescue Squad,1,Storm,6,76
+1529,Wellness Check,Ambulance,1,Fog,6,43
+1530,Wellness Check,Ambulance,1,Rain,8,54
+1531,False Alarm,Ambulance,2,Clear,21,48
+1532,False Alarm,Rescue Squad,2,Clear,3,60
+1533,Structure Fire,Engine,2,Clear,22,74
+1534,Traffic Accident,Chief,1,Clear,6,33
+1535,False Alarm,Rescue Squad,2,Clear,19,64
+1536,Wellness Check,Engine,1,Clear,17,87
+1537,Medical,Engine,3,Rain,12,66
+1538,Medical,Rescue Squad,2,Clear,10,75
+1539,Medical,Rescue Squad,2,Rain,8,91
+1540,False Alarm,Engine,1,Fog,13,64
+1541,Traffic Accident,Engine,1,Rain,7,73
+1542,Medical,Engine,2,Rain,20,77
+1543,Traffic Accident,Rescue Squad,2,Rain,13,69
+1544,Traffic Accident,Engine,1,Clear,20,48
+1545,Medical,Ambulance,3,Clear,16,105
+1546,Medical,Rescue Squad,3,Clear,13,78
+1547,Traffic Accident,Ambulance,2,Clear,23,53
+1548,Structure Fire,Ladder,3,Rain,4,88
+1549,Traffic Accident,Rescue Squad,1,Fog,9,62
+1550,Structure Fire,Ladder,1,Storm,5,87
+1551,Wellness Check,Engine,1,Clear,9,67
+1552,Structure Fire,Engine,2,Storm,10,98
+1553,Structure Fire,Chief,1,Clear,23,50
+1554,Wellness Check,Engine,3,Snow,5,114
+1555,Medical,Ladder,1,Clear,9,62
+1556,Medical,Engine,2,Clear,13,64
+1557,Medical,Rescue Squad,3,Clear,19,71
+1558,Traffic Accident,Engine,1,Fog,2,72
+1559,Traffic Accident,Chief,1,Clear,6,46
+1560,Traffic Accident,Engine,2,Clear,1,67
+1561,Medical,Ladder,1,Fog,6,49
+1562,Medical,Ladder,1,Fog,16,73
+1563,Medical,Engine,1,Clear,12,62
+1564,Medical,Ladder,2,Rain,20,51
+1565,Structure Fire,Ladder,3,Clear,8,122
+1566,Medical,Chief,3,Clear,12,74
+1567,Medical,Rescue Squad,1,Clear,14,49
+1568,False Alarm,Chief,2,Clear,12,67
+1569,Medical,Ambulance,2,Clear,16,74
+1570,Structure Fire,Chief,3,Clear,7,84
+1571,Traffic Accident,Engine,1,Clear,8,76
+1572,Medical,Rescue Squad,2,Rain,8,91
+1573,Traffic Accident,Engine,2,Rain,7,100
+1574,Wellness Check,Ambulance,3,Clear,15,76
+1575,False Alarm,Rescue Squad,1,Clear,19,38
+1576,Medical,Ladder,1,Rain,6,49
+1577,False Alarm,Chief,1,Rain,16,54
+1578,Medical,Engine,1,Rain,6,62
+1579,Medical,Ambulance,2,Clear,5,69
+1580,Medical,Ladder,2,Clear,4,66
+1581,False Alarm,Chief,2,Rain,16,76
+1582,Medical,Ladder,1,Clear,7,74
+1583,Medical,Chief,1,Fog,0,40
+1584,Traffic Accident,Rescue Squad,1,Rain,15,37
+1585,Medical,Ladder,1,Clear,16,71
+1586,Medical,Ladder,2,Clear,2,77
+1587,Medical,Ladder,1,Snow,12,104
+1588,Medical,Rescue Squad,1,Clear,7,63
+1589,Medical,Ambulance,2,Clear,15,61
+1590,Medical,Chief,2,Rain,23,66
+1591,Traffic Accident,Ladder,2,Rain,6,60
+1592,Medical,Rescue Squad,3,Clear,20,81
+1593,Medical,Ambulance,1,Clear,14,57
+1594,Wellness Check,Chief,2,Fog,23,57
+1595,Medical,Rescue Squad,2,Storm,1,68
+1596,Traffic Accident,Chief,2,Rain,23,34
+1597,Medical,Ladder,3,Storm,1,117
+1598,Medical,Ambulance,1,Clear,9,65
+1599,Medical,Rescue Squad,2,Clear,4,61
+1600,Medical,Ambulance,1,Clear,3,49
+1601,Medical,Ladder,2,Clear,14,55
+1602,Medical,Ambulance,2,Clear,12,51
+1603,Medical,Ambulance,3,Clear,16,104
+1604,Medical,Engine,3,Snow,20,131
+1605,Medical,Ambulance,2,Rain,22,57
+1606,Medical,Chief,1,Rain,0,30
+1607,Medical,Rescue Squad,2,Clear,17,79
+1608,Structure Fire,Engine,2,Clear,14,70
+1609,Traffic Accident,Rescue Squad,1,Clear,13,34
+1610,Medical,Rescue Squad,2,Rain,8,68
+1611,Traffic Accident,Ladder,3,Clear,11,95
+1612,Traffic Accident,Ladder,2,Clear,4,63
+1613,Medical,Engine,2,Clear,22,71
+1614,Wellness Check,Ladder,3,Rain,1,91
+1615,False Alarm,Ladder,1,Fog,22,43
+1616,Medical,Ladder,1,Rain,22,59
+1617,Medical,Rescue Squad,2,Clear,6,51
+1618,Wellness Check,Engine,2,Clear,20,55
+1619,Traffic Accident,Rescue Squad,2,Clear,8,60
+1620,Medical,Chief,1,Clear,17,64
+1621,Medical,Rescue Squad,1,Clear,3,60
+1622,Medical,Chief,1,Clear,1,45
+1623,Medical,Ambulance,3,Clear,23,97
+1624,Traffic Accident,Ambulance,2,Clear,0,74
+1625,Medical,Chief,2,Clear,11,65
+1626,Medical,Chief,1,Rain,12,60
+1627,Traffic Accident,Rescue Squad,1,Storm,13,82
+1628,Medical,Chief,2,Fog,4,71
+1629,Medical,Engine,1,Clear,2,36
+1630,Traffic Accident,Ambulance,2,Clear,3,57
+1631,Wellness Check,Ambulance,2,Fog,16,71
+1632,Structure Fire,Chief,2,Clear,18,99
+1633,Structure Fire,Ladder,2,Snow,10,102
+1634,Medical,Ladder,2,Clear,7,105
+1635,Medical,Chief,1,Fog,11,46
+1636,Structure Fire,Engine,2,Fog,17,97
+1637,Medical,Ladder,2,Rain,17,93
+1638,Medical,Chief,1,Rain,8,69
+1639,Medical,Engine,3,Clear,4,92
+1640,Medical,Engine,1,Clear,20,54
+1641,Medical,Rescue Squad,1,Clear,16,68
+1642,Medical,Engine,1,Clear,12,50
+1643,Medical,Ladder,3,Clear,5,108
+1644,Medical,Ladder,2,Clear,23,89
+1645,Wellness Check,Chief,2,Fog,21,55
+1646,Structure Fire,Chief,1,Clear,13,53
+1647,Traffic Accident,Engine,2,Clear,14,61
+1648,Traffic Accident,Ambulance,2,Clear,22,56
+1649,Medical,Rescue Squad,3,Clear,13,69
+1650,Medical,Ambulance,1,Clear,3,55
+1651,Structure Fire,Engine,1,Storm,17,117
+1652,Structure Fire,Engine,1,Clear,0,61
+1653,Traffic Accident,Ambulance,3,Clear,11,88
+1654,Medical,Rescue Squad,2,Clear,21,51
+1655,Medical,Ambulance,2,Clear,8,77
+1656,Medical,Chief,2,Snow,9,113
+1657,Medical,Ladder,3,Clear,20,86
+1658,Traffic Accident,Chief,3,Clear,17,109
+1659,Structure Fire,Ladder,2,Clear,16,85
+1660,Medical,Engine,1,Storm,18,131
+1661,False Alarm,Rescue Squad,1,Clear,3,54
+1662,Traffic Accident,Ambulance,3,Fog,15,92
+1663,Medical,Rescue Squad,2,Clear,6,66
+1664,Medical,Ambulance,1,Clear,8,59
+1665,Medical,Chief,2,Rain,7,79
+1666,Medical,Chief,3,Clear,6,72
+1667,Medical,Ambulance,2,Clear,9,82
+1668,Medical,Rescue Squad,2,Clear,7,95
+1669,Medical,Ambulance,3,Clear,23,65
+1670,Medical,Engine,2,Snow,16,106
+1671,Wellness Check,Chief,1,Clear,11,41
+1672,Medical,Engine,3,Rain,13,76
+1673,Structure Fire,Chief,3,Clear,11,82
+1674,Medical,Chief,3,Clear,1,76
+1675,False Alarm,Ladder,2,Rain,11,81
+1676,Medical,Engine,1,Clear,13,52
+1677,Medical,Engine,3,Clear,6,94
+1678,False Alarm,Ladder,1,Clear,12,56
+1679,Wellness Check,Rescue Squad,3,Clear,20,55
+1680,Wellness Check,Engine,3,Fog,3,75
+1681,Medical,Ambulance,2,Clear,0,63
+1682,Medical,Ladder,3,Clear,16,123
+1683,Traffic Accident,Engine,2,Rain,2,69
+1684,False Alarm,Rescue Squad,1,Clear,16,73
+1685,Structure Fire,Engine,2,Clear,7,97
+1686,Structure Fire,Chief,1,Clear,2,60
+1687,Medical,Ambulance,2,Fog,9,56
+1688,Traffic Accident,Ladder,1,Storm,1,101
+1689,Medical,Chief,2,Rain,21,53
+1690,Medical,Rescue Squad,3,Clear,3,80
+1691,Medical,Chief,3,Rain,13,91
+1692,Structure Fire,Chief,2,Clear,10,38
+1693,Medical,Rescue Squad,2,Clear,13,57
+1694,Medical,Chief,2,Storm,12,109
+1695,Traffic Accident,Ladder,3,Clear,3,83
+1696,Medical,Engine,2,Clear,1,79
+1697,Structure Fire,Chief,2,Fog,1,66
+1698,Medical,Ladder,3,Rain,10,91
+1699,Medical,Engine,2,Clear,21,75
+1700,Structure Fire,Engine,3,Clear,4,102
+1701,Medical,Chief,3,Clear,8,112
+1702,Medical,Ladder,3,Clear,19,99
+1703,Medical,Chief,1,Clear,20,36
+1704,Medical,Rescue Squad,2,Clear,16,94
+1705,False Alarm,Engine,3,Storm,11,124
+1706,Medical,Chief,2,Clear,17,94
+1707,Wellness Check,Engine,2,Clear,2,58
+1708,Medical,Ladder,1,Clear,4,65
+1709,Traffic Accident,Ambulance,1,Clear,20,36
+1710,Traffic Accident,Chief,2,Clear,19,83
+1711,Structure Fire,Chief,2,Fog,13,51
+1712,Medical,Engine,2,Fog,15,58
+1713,Medical,Ladder,2,Clear,18,95
+1714,Medical,Rescue Squad,2,Fog,8,100
+1715,False Alarm,Ladder,2,Clear,16,103
+1716,Wellness Check,Chief,2,Rain,21,76
+1717,False Alarm,Rescue Squad,2,Clear,6,56
+1718,Medical,Ladder,2,Fog,9,90
+1719,Traffic Accident,Ambulance,1,Clear,3,37
+1720,False Alarm,Engine,2,Clear,9,81
+1721,Medical,Ladder,2,Rain,2,56
+1722,Medical,Ladder,2,Clear,23,63
+1723,Traffic Accident,Ambulance,2,Clear,8,63
+1724,Structure Fire,Chief,2,Clear,12,67
+1725,Wellness Check,Engine,1,Rain,0,69
+1726,Medical,Ladder,3,Clear,14,92
+1727,Traffic Accident,Rescue Squad,1,Clear,14,38
+1728,Medical,Ladder,3,Fog,10,97
+1729,Medical,Engine,2,Clear,9,96
+1730,Medical,Ladder,2,Clear,6,80
+1731,Wellness Check,Ambulance,1,Rain,0,35
+1732,Traffic Accident,Ladder,1,Rain,6,46
+1733,Structure Fire,Ladder,1,Storm,4,103
+1734,Medical,Rescue Squad,1,Clear,22,44
+1735,Wellness Check,Ambulance,2,Clear,15,69
+1736,Medical,Ambulance,2,Snow,7,109
+1737,Wellness Check,Ladder,2,Snow,21,110
+1738,Medical,Rescue Squad,1,Rain,1,50
+1739,Medical,Ladder,3,Clear,7,94
+1740,Medical,Ladder,2,Clear,13,69
+1741,Medical,Engine,1,Clear,3,34
+1742,Traffic Accident,Engine,2,Fog,23,84
+1743,Structure Fire,Rescue Squad,1,Clear,14,31
+1744,Medical,Chief,1,Clear,6,43
+1745,Wellness Check,Engine,2,Clear,19,69
+1746,Medical,Chief,2,Clear,7,72
+1747,Structure Fire,Ambulance,3,Clear,10,98
+1748,False Alarm,Engine,2,Rain,1,63
+1749,Traffic Accident,Engine,3,Clear,8,108
+1750,Medical,Rescue Squad,3,Clear,5,73
+1751,False Alarm,Chief,3,Clear,22,73
+1752,Traffic Accident,Engine,2,Snow,0,111
+1753,Medical,Engine,1,Storm,2,87
+1754,Medical,Rescue Squad,1,Rain,9,70
+1755,Traffic Accident,Rescue Squad,2,Rain,4,52
+1756,Traffic Accident,Chief,2,Clear,11,59
+1757,Structure Fire,Ambulance,1,Rain,22,31
+1758,Wellness Check,Ambulance,2,Storm,0,100
+1759,Traffic Accident,Ladder,1,Clear,8,74
+1760,Medical,Engine,2,Clear,20,65
+1761,Medical,Chief,1,Storm,12,59
+1762,Medical,Engine,2,Rain,18,93
+1763,Traffic Accident,Chief,2,Clear,6,76
+1764,Medical,Chief,1,Storm,15,73
+1765,Structure Fire,Chief,2,Clear,7,89
+1766,Traffic Accident,Engine,2,Clear,18,97
+1767,Wellness Check,Rescue Squad,1,Rain,6,30
+1768,Medical,Engine,1,Clear,22,55
+1769,Wellness Check,Chief,2,Rain,3,62
+1770,Medical,Ladder,2,Clear,9,99
+1771,Wellness Check,Ambulance,2,Clear,0,59
+1772,Medical,Chief,1,Clear,16,54
+1773,Medical,Ladder,2,Clear,20,69
+1774,Traffic Accident,Rescue Squad,1,Clear,12,41
+1775,Medical,Chief,3,Storm,18,142
+1776,Medical,Ladder,2,Clear,12,69
+1777,Traffic Accident,Chief,3,Clear,8,85
+1778,Traffic Accident,Engine,2,Clear,4,75
+1779,Traffic Accident,Ladder,2,Snow,22,89
+1780,Traffic Accident,Engine,2,Clear,0,66
+1781,Structure Fire,Engine,2,Clear,1,65
+1782,Medical,Ladder,2,Clear,10,72
+1783,Medical,Ambulance,2,Clear,3,46
+1784,Medical,Ladder,2,Clear,8,97
+1785,False Alarm,Ambulance,2,Rain,4,70
+1786,Structure Fire,Chief,2,Fog,4,60
+1787,Medical,Chief,3,Clear,7,96
+1788,Medical,Ladder,2,Fog,1,66
+1789,False Alarm,Chief,2,Fog,6,62
+1790,Medical,Rescue Squad,2,Fog,16,81
+1791,Structure Fire,Engine,2,Storm,10,112
+1792,Structure Fire,Engine,3,Snow,14,109
+1793,Traffic Accident,Ambulance,3,Clear,2,82
+1794,Medical,Chief,2,Clear,12,61
+1795,Wellness Check,Ambulance,2,Clear,17,77
+1796,False Alarm,Engine,2,Fog,19,73
+1797,Structure Fire,Engine,2,Clear,19,67
+1798,Traffic Accident,Chief,3,Clear,2,70
+1799,False Alarm,Rescue Squad,1,Clear,1,47
+1800,Traffic Accident,Rescue Squad,1,Snow,4,92
+1801,Medical,Chief,1,Rain,19,44
+1802,Structure Fire,Chief,2,Clear,4,70
+1803,Traffic Accident,Ambulance,3,Clear,12,77
+1804,Medical,Chief,1,Rain,7,74
+1805,Traffic Accident,Rescue Squad,2,Clear,15,44
+1806,False Alarm,Chief,2,Clear,17,104
+1807,False Alarm,Ambulance,2,Clear,15,57
+1808,Medical,Ambulance,2,Storm,0,98
+1809,Medical,Ambulance,3,Clear,7,98
+1810,False Alarm,Ambulance,1,Clear,20,35
+1811,Wellness Check,Ladder,2,Rain,1,58
+1812,Medical,Chief,1,Clear,23,45
+1813,False Alarm,Engine,2,Clear,4,71
+1814,Wellness Check,Chief,3,Clear,14,82
+1815,Structure Fire,Ladder,1,Fog,13,54
+1816,Structure Fire,Ambulance,1,Clear,2,44
+1817,Medical,Ladder,2,Rain,6,57
+1818,Medical,Rescue Squad,2,Storm,3,81
+1819,Medical,Rescue Squad,2,Snow,10,98
+1820,Wellness Check,Chief,1,Rain,11,39
+1821,Medical,Chief,1,Rain,14,47
+1822,Medical,Engine,2,Fog,5,68
+1823,Medical,Engine,1,Storm,23,87
+1824,Structure Fire,Rescue Squad,3,Storm,0,110
+1825,False Alarm,Ambulance,1,Rain,17,70
+1826,Medical,Ladder,2,Clear,13,77
+1827,Medical,Engine,1,Clear,23,74
+1828,Traffic Accident,Engine,1,Clear,6,63
+1829,Medical,Ambulance,2,Fog,9,66
+1830,Medical,Ambulance,2,Fog,8,68
+1831,Medical,Chief,1,Clear,1,42
+1832,Medical,Ladder,1,Clear,7,73
+1833,Medical,Ambulance,1,Clear,21,48
+1834,Medical,Engine,2,Clear,0,74
+1835,Medical,Engine,2,Rain,19,65
+1836,False Alarm,Rescue Squad,1,Clear,1,56
+1837,Medical,Ambulance,2,Clear,6,74
+1838,Structure Fire,Chief,2,Clear,15,41
+1839,Traffic Accident,Ladder,3,Clear,21,75
+1840,Medical,Chief,3,Storm,3,127
+1841,Traffic Accident,Engine,2,Clear,20,78
+1842,Medical,Chief,1,Fog,16,71
+1843,False Alarm,Engine,1,Clear,3,55
+1844,Medical,Engine,2,Clear,2,68
+1845,Medical,Engine,3,Rain,8,116
+1846,Medical,Engine,2,Rain,21,71
+1847,False Alarm,Engine,2,Clear,14,83
+1848,Structure Fire,Rescue Squad,2,Clear,19,53
+1849,Structure Fire,Chief,2,Clear,2,60
+1850,Medical,Rescue Squad,1,Rain,11,53
+1851,Traffic Accident,Rescue Squad,2,Clear,14,61
+1852,Medical,Ambulance,1,Clear,19,51
+1853,Wellness Check,Ambulance,1,Rain,7,72
+1854,Medical,Ambulance,2,Clear,11,55
+1855,Medical,Ladder,1,Clear,20,44
+1856,Medical,Ambulance,1,Clear,12,37
+1857,Medical,Chief,1,Storm,14,61
+1858,Structure Fire,Rescue Squad,3,Clear,10,61
+1859,Medical,Chief,2,Fog,16,87
+1860,Traffic Accident,Ambulance,1,Clear,20,30
+1861,Medical,Ladder,2,Rain,23,88
+1862,Structure Fire,Ladder,1,Clear,11,49
+1863,Medical,Rescue Squad,2,Clear,19,57
+1864,Medical,Chief,2,Snow,17,91
+1865,Structure Fire,Engine,3,Snow,15,127
+1866,Medical,Chief,2,Rain,2,57
+1867,Medical,Ambulance,3,Snow,8,140
+1868,Wellness Check,Engine,3,Clear,6,82
+1869,False Alarm,Ladder,3,Clear,18,123
+1870,Medical,Rescue Squad,2,Clear,4,51
+1871,Medical,Rescue Squad,2,Fog,18,88
+1872,Traffic Accident,Ladder,2,Clear,9,104
+1873,Medical,Ambulance,1,Fog,19,59
+1874,Medical,Ladder,1,Clear,11,63
+1875,Medical,Ambulance,2,Rain,7,89
+1876,Traffic Accident,Engine,2,Clear,2,69
+1877,Traffic Accident,Ladder,3,Clear,18,117
+1878,Medical,Ambulance,1,Rain,10,52
+1879,Medical,Engine,1,Clear,7,71
+1880,Medical,Ladder,2,Fog,12,79
+1881,Traffic Accident,Rescue Squad,2,Rain,22,50
+1882,Medical,Ladder,1,Clear,22,59
+1883,Medical,Chief,3,Fog,9,102
+1884,Traffic Accident,Ladder,2,Rain,17,89
+1885,Medical,Chief,2,Rain,11,44
+1886,Traffic Accident,Engine,3,Clear,6,87
+1887,Medical,Ladder,2,Clear,10,43
+1888,Medical,Engine,2,Rain,9,92
+1889,Medical,Engine,3,Fog,2,77
+1890,Traffic Accident,Ambulance,1,Clear,6,76
+1891,Wellness Check,Engine,2,Clear,3,80
+1892,Wellness Check,Engine,1,Clear,7,78
+1893,Medical,Ladder,1,Clear,7,93
+1894,Traffic Accident,Ladder,3,Rain,5,97
+1895,Medical,Rescue Squad,2,Rain,12,48
+1896,Medical,Ambulance,2,Clear,11,53
+1897,Wellness Check,Engine,3,Fog,2,100
+1898,Medical,Ambulance,3,Clear,5,70
+1899,Medical,Chief,3,Rain,21,83
+1900,Medical,Engine,2,Clear,18,98
+1901,Medical,Ambulance,2,Clear,10,57
+1902,Medical,Rescue Squad,1,Fog,3,46
+1903,Structure Fire,Rescue Squad,2,Clear,14,68
+1904,Medical,Engine,2,Clear,1,77
+1905,Wellness Check,Chief,2,Clear,14,64
+1906,Wellness Check,Rescue Squad,2,Clear,16,82
+1907,Medical,Rescue Squad,3,Clear,1,85
+1908,Medical,Chief,2,Clear,6,39
+1909,Medical,Ambulance,2,Fog,15,74
+1910,Structure Fire,Rescue Squad,2,Rain,4,58
+1911,Medical,Ladder,1,Clear,15,47
+1912,Traffic Accident,Rescue Squad,1,Rain,18,71
+1913,Medical,Ambulance,2,Clear,1,65
+1914,Structure Fire,Ambulance,1,Clear,14,35
+1915,Medical,Engine,2,Clear,3,70
+1916,Medical,Ladder,2,Clear,1,70
+1917,False Alarm,Ambulance,1,Fog,22,44
+1918,Traffic Accident,Chief,1,Clear,9,87
+1919,Medical,Ladder,2,Snow,21,111
+1920,Wellness Check,Ladder,2,Clear,23,68
+1921,Medical,Chief,2,Clear,4,53
+1922,Wellness Check,Rescue Squad,2,Rain,17,79
+1923,Traffic Accident,Chief,2,Clear,3,63
+1924,Medical,Chief,3,Clear,0,75
+1925,Medical,Rescue Squad,2,Clear,17,84
+1926,Medical,Rescue Squad,3,Clear,19,81
+1927,Structure Fire,Rescue Squad,1,Fog,5,45
+1928,Traffic Accident,Rescue Squad,2,Clear,19,61
+1929,Medical,Rescue Squad,2,Clear,19,61
+1930,Medical,Chief,1,Fog,13,51
+1931,Wellness Check,Engine,1,Clear,9,96
+1932,False Alarm,Engine,2,Clear,17,110
+1933,Structure Fire,Ambulance,1,Clear,8,60
+1934,Medical,Engine,1,Clear,11,67
+1935,Medical,Engine,3,Clear,9,107
+1936,Medical,Chief,3,Clear,23,74
+1937,False Alarm,Rescue Squad,2,Fog,23,67
+1938,Medical,Rescue Squad,2,Clear,20,66
+1939,Structure Fire,Chief,3,Clear,18,103
+1940,Medical,Engine,2,Clear,5,64
+1941,Structure Fire,Chief,1,Clear,13,39
+1942,Traffic Accident,Ambulance,3,Fog,7,102
+1943,Wellness Check,Rescue Squad,2,Clear,22,57
+1944,Medical,Ladder,2,Clear,13,78
+1945,Medical,Ambulance,2,Clear,10,57
+1946,Medical,Ambulance,2,Clear,23,56
+1947,False Alarm,Chief,3,Rain,15,63
+1948,Wellness Check,Engine,2,Clear,19,78
+1949,Structure Fire,Rescue Squad,3,Clear,5,83
+1950,Traffic Accident,Ladder,3,Clear,14,67
+1951,Traffic Accident,Ambulance,2,Clear,14,64
+1952,Medical,Ladder,2,Clear,13,65
+1953,False Alarm,Engine,2,Clear,20,77
+1954,Medical,Engine,1,Fog,11,53
+1955,Medical,Ladder,1,Clear,1,46
+1956,Structure Fire,Rescue Squad,2,Fog,7,103
+1957,Medical,Engine,2,Clear,18,110
+1958,Medical,Ladder,1,Rain,13,53
+1959,Traffic Accident,Ambulance,1,Clear,4,48
+1960,Medical,Ladder,3,Rain,23,85
+1961,Traffic Accident,Ladder,2,Clear,8,74
+1962,Medical,Chief,3,Clear,12,93
+1963,Medical,Engine,2,Rain,8,87
+1964,Medical,Rescue Squad,2,Clear,13,72
+1965,Medical,Rescue Squad,1,Clear,4,51
+1966,Traffic Accident,Chief,2,Clear,1,62
+1967,Medical,Rescue Squad,2,Clear,6,59
+1968,Structure Fire,Ladder,1,Clear,15,62
+1969,Medical,Chief,2,Clear,10,50
+1970,Traffic Accident,Ambulance,2,Clear,10,73
+1971,False Alarm,Engine,2,Clear,22,71
+1972,Traffic Accident,Engine,2,Clear,11,84
+1973,Medical,Engine,2,Clear,12,68
+1974,Medical,Ladder,2,Clear,7,94
+1975,Medical,Ambulance,3,Fog,23,82
+1976,Structure Fire,Chief,3,Clear,15,85
+1977,Medical,Chief,3,Fog,20,98
+1978,Medical,Engine,2,Rain,0,65
+1979,Structure Fire,Ambulance,2,Fog,12,58
+1980,Medical,Ambulance,2,Snow,10,86
+1981,Traffic Accident,Ambulance,1,Rain,3,30
+1982,Medical,Rescue Squad,3,Clear,3,74
+1983,Medical,Rescue Squad,2,Clear,14,55
+1984,Traffic Accident,Engine,1,Clear,2,81
+1985,Medical,Ambulance,1,Storm,23,83
+1986,Traffic Accident,Ambulance,3,Storm,18,135
+1987,Medical,Chief,1,Rain,20,30
+1988,Medical,Chief,1,Fog,1,44
+1989,Wellness Check,Engine,2,Fog,5,79
+1990,Traffic Accident,Ambulance,1,Clear,21,70
+1991,Traffic Accident,Engine,3,Rain,23,83
+1992,Medical,Chief,2,Clear,7,56
+1993,Structure Fire,Chief,2,Clear,16,75
+1994,Medical,Rescue Squad,3,Clear,4,72
+1995,Medical,Engine,2,Clear,1,62
+1996,False Alarm,Engine,2,Rain,11,79
+1997,Medical,Ambulance,2,Clear,4,63
+1998,False Alarm,Ambulance,2,Fog,9,69
+1999,Medical,Rescue Squad,2,Clear,8,93
+2000,Medical,Ladder,2,Clear,19,88
+2001,Structure Fire,Ladder,3,Snow,7,130
+2002,Wellness Check,Ladder,2,Rain,0,81
+2003,Traffic Accident,Engine,3,Clear,23,88
+2004,Wellness Check,Engine,2,Clear,5,60
+2005,Traffic Accident,Chief,2,Clear,23,45
+2006,Traffic Accident,Engine,3,Fog,21,85
+2007,Wellness Check,Engine,1,Rain,10,49
+2008,Medical,Engine,2,Clear,2,71
+2009,Medical,Rescue Squad,2,Clear,14,81
+2010,Medical,Engine,2,Fog,10,64
+2011,False Alarm,Ambulance,1,Rain,23,30
+2012,False Alarm,Ambulance,2,Snow,4,100
+2013,Medical,Chief,2,Clear,15,70
+2014,Traffic Accident,Rescue Squad,2,Fog,20,57
+2015,False Alarm,Ambulance,3,Rain,6,86
+2016,Medical,Rescue Squad,3,Rain,5,81
+2017,Structure Fire,Rescue Squad,2,Clear,8,88
+2018,False Alarm,Chief,3,Fog,6,95
+2019,Medical,Rescue Squad,2,Rain,2,50
+2020,Traffic Accident,Engine,2,Fog,10,59
+2021,Medical,Rescue Squad,2,Clear,11,50
+2022,False Alarm,Chief,2,Clear,20,63
+2023,False Alarm,Chief,1,Clear,10,45
+2024,False Alarm,Chief,2,Clear,1,67
+2025,Medical,Ambulance,2,Clear,0,59
+2026,Wellness Check,Engine,2,Clear,23,68
+2027,Wellness Check,Ambulance,3,Clear,23,83
+2028,Medical,Ladder,2,Snow,1,124
+2029,Wellness Check,Engine,1,Clear,13,43
+2030,Medical,Rescue Squad,2,Clear,12,50
+2031,Structure Fire,Chief,2,Fog,23,60
+2032,Medical,Ladder,2,Clear,4,90
+2033,Medical,Engine,1,Clear,1,44
+2034,Medical,Ambulance,2,Clear,22,59
+2035,Traffic Accident,Chief,3,Clear,22,71
+2036,Medical,Ambulance,2,Clear,18,86
+2037,Traffic Accident,Engine,3,Clear,16,90
+2038,Medical,Engine,3,Storm,10,100
+2039,Medical,Ladder,1,Clear,15,67
+2040,Structure Fire,Rescue Squad,2,Clear,19,60
+2041,Traffic Accident,Ambulance,2,Rain,17,72
+2042,Medical,Ladder,1,Clear,19,54
+2043,Traffic Accident,Chief,2,Clear,7,87
+2044,Wellness Check,Rescue Squad,2,Fog,1,65
+2045,Traffic Accident,Ladder,1,Clear,16,55
+2046,Medical,Ambulance,3,Fog,10,69
+2047,Medical,Engine,2,Clear,13,60
+2048,Wellness Check,Chief,3,Rain,15,86
+2049,Medical,Ambulance,2,Clear,14,59
+2050,Wellness Check,Rescue Squad,3,Clear,14,94
+2051,Structure Fire,Rescue Squad,2,Rain,2,68
+2052,False Alarm,Engine,1,Storm,6,83
+2053,Traffic Accident,Engine,2,Rain,11,69
+2054,False Alarm,Chief,2,Rain,21,72
+2055,Medical,Chief,2,Storm,21,101
+2056,Traffic Accident,Engine,2,Clear,22,69
+2057,Medical,Engine,1,Clear,23,45
+2058,Medical,Rescue Squad,2,Clear,2,38
+2059,Traffic Accident,Engine,2,Rain,18,68
+2060,Wellness Check,Ladder,2,Snow,9,120
+2061,False Alarm,Ambulance,2,Rain,7,86
+2062,Traffic Accident,Engine,3,Fog,15,83
+2063,Medical,Chief,2,Rain,15,73
+2064,Medical,Ladder,2,Clear,11,67
+2065,Traffic Accident,Chief,3,Clear,22,74
+2066,Medical,Ladder,2,Fog,4,81
+2067,Medical,Engine,1,Clear,19,65
+2068,Medical,Ambulance,1,Clear,5,44
+2069,Medical,Chief,2,Clear,5,65
+2070,Medical,Ladder,1,Clear,7,85
+2071,Medical,Rescue Squad,2,Rain,16,104
+2072,Medical,Engine,1,Clear,11,53
+2073,Medical,Ambulance,1,Fog,21,33
+2074,False Alarm,Engine,2,Clear,13,76
+2075,Medical,Rescue Squad,3,Rain,1,80
+2076,Medical,Ambulance,2,Rain,18,88
+2077,Traffic Accident,Rescue Squad,3,Rain,5,79
+2078,Medical,Engine,3,Fog,17,100
+2079,False Alarm,Ladder,1,Clear,3,57
+2080,Traffic Accident,Engine,2,Clear,21,66
+2081,Medical,Engine,2,Clear,4,66
+2082,Medical,Engine,3,Fog,5,86
+2083,Wellness Check,Chief,2,Storm,14,98
+2084,False Alarm,Rescue Squad,3,Clear,5,82
+2085,Medical,Rescue Squad,1,Rain,7,67
+2086,Traffic Accident,Rescue Squad,1,Clear,8,76
+2087,Medical,Chief,2,Clear,20,67
+2088,False Alarm,Ladder,2,Rain,21,69
+2089,Medical,Engine,1,Clear,5,44
+2090,False Alarm,Ladder,2,Clear,21,75
+2091,Traffic Accident,Chief,1,Rain,1,41
+2092,Traffic Accident,Rescue Squad,2,Rain,15,58
+2093,Structure Fire,Engine,3,Clear,19,76
+2094,Medical,Ambulance,3,Rain,0,84
+2095,Medical,Ambulance,2,Clear,15,85
+2096,Medical,Ladder,2,Clear,0,64
+2097,Medical,Rescue Squad,2,Rain,0,66
+2098,Traffic Accident,Ambulance,1,Clear,6,57
+2099,Medical,Ladder,2,Clear,15,64
+2100,Medical,Chief,1,Clear,16,49
+2101,False Alarm,Ladder,3,Fog,15,96
+2102,Wellness Check,Ladder,3,Clear,15,90
+2103,False Alarm,Ladder,2,Clear,5,73
+2104,False Alarm,Engine,2,Clear,17,86
+2105,Medical,Ladder,1,Clear,21,66
+2106,Medical,Ladder,2,Clear,21,69
+2107,Traffic Accident,Engine,2,Clear,2,91
+2108,Traffic Accident,Engine,2,Snow,7,122
+2109,Medical,Chief,1,Rain,3,55
+2110,Wellness Check,Rescue Squad,3,Rain,22,80
+2111,Medical,Ambulance,2,Clear,3,63
+2112,Medical,Ambulance,3,Clear,16,87
+2113,Structure Fire,Ladder,3,Clear,21,84
+2114,Structure Fire,Chief,3,Clear,4,90
+2115,Structure Fire,Ladder,1,Clear,13,54
+2116,Medical,Ambulance,1,Rain,14,33
+2117,Wellness Check,Engine,2,Clear,11,63
+2118,Medical,Rescue Squad,1,Clear,12,38
+2119,Medical,Chief,2,Clear,23,59
+2120,Wellness Check,Engine,2,Clear,22,61
+2121,False Alarm,Rescue Squad,2,Fog,17,89
+2122,Wellness Check,Chief,1,Clear,13,47
+2123,Wellness Check,Chief,3,Fog,23,66
+2124,Traffic Accident,Ambulance,1,Clear,18,86
+2125,Structure Fire,Engine,2,Fog,21,69
+2126,Medical,Chief,2,Clear,6,65
+2127,Medical,Chief,2,Fog,5,63
+2128,Medical,Rescue Squad,2,Clear,4,64
+2129,Medical,Ambulance,1,Clear,3,41
+2130,Traffic Accident,Ladder,2,Clear,17,96
+2131,Medical,Ambulance,1,Clear,13,43
+2132,Medical,Ladder,1,Clear,15,58
+2133,Medical,Engine,2,Rain,22,68
+2134,Traffic Accident,Engine,2,Clear,22,67
+2135,Medical,Chief,2,Clear,19,45
+2136,Wellness Check,Engine,2,Rain,13,69
+2137,Medical,Chief,3,Clear,4,82
+2138,Medical,Ambulance,3,Clear,21,98
+2139,Structure Fire,Engine,2,Fog,10,74
+2140,Wellness Check,Ambulance,1,Storm,11,69
+2141,Medical,Ambulance,2,Fog,17,71
+2142,Traffic Accident,Engine,1,Snow,3,90
+2143,Structure Fire,Ambulance,2,Clear,12,52
+2144,Medical,Engine,2,Storm,19,88
+2145,Wellness Check,Engine,2,Clear,12,62
+2146,Traffic Accident,Engine,2,Clear,3,66
+2147,Traffic Accident,Ladder,1,Snow,22,85
+2148,Wellness Check,Ambulance,2,Clear,22,40
+2149,Wellness Check,Rescue Squad,2,Clear,6,72
+2150,Traffic Accident,Engine,2,Clear,22,67
+2151,Wellness Check,Ambulance,2,Clear,1,53
+2152,Traffic Accident,Chief,2,Clear,20,68
+2153,Traffic Accident,Engine,2,Clear,17,87
+2154,Traffic Accident,Engine,2,Clear,20,59
+2155,Traffic Accident,Rescue Squad,1,Clear,5,30
+2156,Medical,Ladder,1,Clear,15,61
+2157,Wellness Check,Ladder,2,Clear,2,77
+2158,Wellness Check,Engine,1,Fog,21,50
+2159,Medical,Ambulance,2,Clear,14,73
+2160,Wellness Check,Chief,2,Fog,20,60
+2161,Medical,Chief,3,Clear,19,93
+2162,Medical,Ambulance,3,Clear,9,96
+2163,Traffic Accident,Engine,1,Clear,8,68
+2164,Medical,Chief,3,Clear,10,74
+2165,Wellness Check,Ladder,2,Clear,13,66
+2166,Wellness Check,Ambulance,2,Clear,23,71
+2167,Structure Fire,Rescue Squad,1,Clear,11,47
+2168,Medical,Engine,3,Clear,6,82
+2169,Medical,Ambulance,1,Rain,10,45
+2170,Traffic Accident,Chief,3,Storm,16,131
+2171,False Alarm,Engine,1,Clear,8,70
+2172,Traffic Accident,Ladder,2,Rain,21,69
+2173,Medical,Engine,2,Rain,22,68
+2174,Traffic Accident,Engine,1,Clear,12,47
+2175,Structure Fire,Ladder,1,Fog,15,47
+2176,Traffic Accident,Ladder,2,Storm,2,105
+2177,Medical,Engine,1,Clear,4,59
+2178,Traffic Accident,Ladder,2,Rain,22,79
+2179,Structure Fire,Ambulance,2,Rain,16,73
+2180,False Alarm,Ladder,3,Clear,0,79
+2181,Medical,Ladder,2,Clear,20,64
+2182,Traffic Accident,Engine,1,Fog,8,93
+2183,False Alarm,Ambulance,2,Rain,22,43
+2184,Medical,Rescue Squad,1,Clear,16,83
+2185,False Alarm,Rescue Squad,3,Clear,12,68
+2186,Traffic Accident,Chief,3,Fog,14,87
+2187,Medical,Ladder,2,Clear,20,59
+2188,Medical,Ladder,1,Rain,7,74
+2189,Traffic Accident,Ambulance,3,Clear,7,81
+2190,Medical,Rescue Squad,3,Clear,1,98
+2191,Structure Fire,Chief,3,Clear,22,85
+2192,Medical,Ambulance,3,Clear,9,112
+2193,Traffic Accident,Ladder,2,Clear,4,65
+2194,Medical,Rescue Squad,1,Clear,15,35
+2195,Wellness Check,Chief,2,Rain,18,91
+2196,False Alarm,Engine,2,Clear,0,57
+2197,False Alarm,Rescue Squad,2,Rain,12,58
+2198,Traffic Accident,Chief,2,Clear,3,47
+2199,Medical,Ambulance,1,Clear,6,46
+2200,Traffic Accident,Engine,2,Clear,0,50
+2201,Medical,Chief,2,Clear,1,45
+2202,Medical,Chief,1,Storm,15,57
+2203,Medical,Ladder,2,Rain,13,76
+2204,Medical,Rescue Squad,3,Clear,4,74
+2205,Traffic Accident,Ladder,3,Rain,13,99
+2206,Traffic Accident,Engine,2,Clear,16,113
+2207,Medical,Chief,2,Clear,11,56
+2208,Medical,Ladder,1,Clear,19,40
+2209,False Alarm,Rescue Squad,2,Rain,11,69
+2210,Medical,Engine,2,Clear,2,54
+2211,Medical,Ambulance,2,Fog,20,50
+2212,Medical,Ladder,3,Clear,20,72
+2213,Traffic Accident,Engine,2,Clear,1,79
+2214,Traffic Accident,Ambulance,1,Storm,20,78
+2215,Medical,Ladder,1,Clear,20,71
+2216,Medical,Engine,2,Snow,14,89
+2217,Traffic Accident,Engine,2,Snow,10,83
+2218,Traffic Accident,Ladder,3,Fog,9,110
+2219,Medical,Engine,2,Clear,17,82
+2220,False Alarm,Chief,2,Clear,22,74
+2221,Medical,Ladder,2,Rain,21,103
+2222,Medical,Engine,2,Clear,22,62
+2223,False Alarm,Ambulance,2,Clear,23,65
+2224,Medical,Ambulance,2,Clear,20,58
+2225,Traffic Accident,Chief,2,Clear,1,64
+2226,Medical,Ladder,1,Clear,6,65
+2227,Medical,Engine,3,Clear,6,78
+2228,False Alarm,Engine,2,Clear,23,65
+2229,Medical,Ambulance,1,Clear,6,57
+2230,Wellness Check,Chief,1,Clear,22,50
+2231,Medical,Ambulance,1,Rain,13,48
+2232,Medical,Ambulance,2,Rain,23,65
+2233,Medical,Chief,1,Clear,1,51
+2234,Traffic Accident,Ladder,1,Clear,1,66
+2235,Medical,Engine,2,Clear,22,77
+2236,Wellness Check,Ladder,2,Clear,14,69
+2237,Medical,Rescue Squad,1,Snow,10,86
+2238,False Alarm,Rescue Squad,2,Rain,9,88
+2239,Medical,Rescue Squad,2,Fog,2,52
+2240,Wellness Check,Chief,3,Clear,16,99
+2241,Traffic Accident,Ambulance,2,Clear,8,82
+2242,Traffic Accident,Ladder,1,Rain,14,38
+2243,Wellness Check,Engine,2,Clear,13,77
+2244,Traffic Accident,Rescue Squad,2,Clear,18,93
+2245,Traffic Accident,Ladder,1,Clear,16,90
+2246,Medical,Rescue Squad,3,Clear,21,88
+2247,Medical,Rescue Squad,2,Clear,19,58
+2248,False Alarm,Engine,3,Clear,16,104
+2249,Traffic Accident,Chief,2,Rain,15,69
+2250,Traffic Accident,Ambulance,2,Storm,19,93
+2251,Medical,Chief,2,Clear,7,66
+2252,Medical,Ladder,2,Clear,6,74
+2253,Medical,Chief,2,Clear,11,64
+2254,Traffic Accident,Ladder,3,Fog,0,99
+2255,Medical,Ladder,2,Clear,11,52
+2256,Medical,Ambulance,3,Fog,5,79
+2257,Medical,Engine,3,Clear,15,78
+2258,Medical,Ambulance,3,Snow,17,152
+2259,Structure Fire,Chief,2,Clear,18,100
+2260,Medical,Ladder,2,Clear,22,75
+2261,Traffic Accident,Rescue Squad,1,Clear,2,39
+2262,Medical,Rescue Squad,2,Clear,2,52
+2263,Medical,Ladder,1,Snow,4,71
+2264,Medical,Ambulance,1,Rain,2,36
+2265,Medical,Engine,1,Clear,18,69
+2266,Medical,Ambulance,3,Storm,4,94
+2267,Medical,Ladder,3,Clear,13,76
+2268,Traffic Accident,Ladder,2,Storm,20,108
+2269,Medical,Engine,2,Clear,15,74
+2270,Traffic Accident,Chief,2,Fog,0,76
+2271,Wellness Check,Chief,2,Clear,16,79
+2272,Traffic Accident,Engine,2,Clear,10,51
+2273,Medical,Chief,2,Clear,8,96
+2274,Medical,Rescue Squad,2,Clear,20,69
+2275,Medical,Chief,2,Clear,3,71
+2276,Medical,Chief,2,Clear,1,74
+2277,False Alarm,Chief,2,Storm,8,122
+2278,Medical,Rescue Squad,3,Storm,21,95
+2279,Medical,Chief,1,Storm,4,80
+2280,Traffic Accident,Rescue Squad,2,Storm,3,96
+2281,Traffic Accident,Engine,2,Rain,22,77
+2282,Structure Fire,Ambulance,1,Storm,4,87
+2283,Medical,Engine,2,Fog,23,60
+2284,Medical,Ambulance,1,Clear,23,56
+2285,Structure Fire,Engine,2,Rain,17,95
+2286,Medical,Ambulance,2,Fog,12,78
+2287,Medical,Ambulance,2,Rain,4,52
+2288,Medical,Ladder,2,Clear,23,59
+2289,Medical,Ambulance,1,Clear,18,59
+2290,Medical,Ambulance,2,Snow,22,95
+2291,Medical,Ladder,1,Storm,2,65
+2292,Structure Fire,Chief,3,Clear,21,89
+2293,Traffic Accident,Chief,3,Clear,17,122
+2294,Wellness Check,Ladder,2,Clear,5,68
+2295,Medical,Rescue Squad,3,Clear,5,76
+2296,Medical,Ambulance,2,Clear,23,60
+2297,Medical,Ambulance,3,Rain,4,68
+2298,Traffic Accident,Ladder,2,Storm,0,140
+2299,Traffic Accident,Ladder,1,Rain,7,78
+2300,Medical,Rescue Squad,3,Clear,0,67
+2301,False Alarm,Chief,1,Fog,20,36
+2302,Medical,Engine,1,Clear,5,56
+2303,Structure Fire,Chief,1,Clear,19,32
+2304,Traffic Accident,Ambulance,2,Clear,13,44
+2305,Wellness Check,Ladder,2,Rain,10,72
+2306,Traffic Accident,Rescue Squad,2,Snow,1,93
+2307,Wellness Check,Chief,3,Fog,20,89
+2308,Medical,Rescue Squad,1,Clear,3,44
+2309,Wellness Check,Chief,3,Clear,12,77
+2310,Medical,Ambulance,3,Clear,6,80
+2311,Wellness Check,Engine,1,Rain,5,64
+2312,Structure Fire,Rescue Squad,2,Rain,2,47
+2313,Wellness Check,Rescue Squad,3,Clear,8,97
+2314,Medical,Engine,2,Clear,13,66
+2315,Traffic Accident,Rescue Squad,2,Storm,19,94
+2316,Structure Fire,Rescue Squad,2,Fog,10,59
+2317,Traffic Accident,Chief,2,Clear,4,59
+2318,Medical,Chief,1,Rain,13,51
+2319,Medical,Engine,2,Rain,18,71
+2320,Medical,Ambulance,1,Clear,7,56
+2321,Medical,Rescue Squad,2,Clear,6,53
+2322,Wellness Check,Ambulance,3,Clear,6,88
+2323,Medical,Engine,2,Clear,23,63
+2324,False Alarm,Engine,3,Rain,22,89
+2325,Medical,Chief,2,Clear,2,61
+2326,Medical,Rescue Squad,2,Clear,2,63
+2327,Traffic Accident,Ladder,2,Clear,17,102
+2328,Traffic Accident,Engine,3,Clear,12,96
+2329,Medical,Rescue Squad,2,Rain,0,69
+2330,Structure Fire,Ambulance,1,Clear,4,43
+2331,Traffic Accident,Chief,3,Clear,3,94
+2332,Medical,Ambulance,2,Storm,15,103
+2333,False Alarm,Engine,1,Clear,14,35
+2334,False Alarm,Engine,2,Rain,17,112
+2335,Traffic Accident,Ambulance,3,Clear,16,96
+2336,Medical,Engine,2,Fog,13,75
+2337,Traffic Accident,Rescue Squad,2,Snow,13,77
+2338,Medical,Engine,3,Clear,18,129
+2339,Medical,Chief,2,Rain,5,52
+2340,Medical,Rescue Squad,2,Clear,12,56
+2341,Medical,Ladder,1,Storm,17,98
+2342,Wellness Check,Engine,1,Clear,14,58
+2343,Traffic Accident,Engine,2,Snow,22,99
+2344,Traffic Accident,Chief,3,Clear,6,64
+2345,Medical,Chief,1,Rain,18,69
+2346,Medical,Ambulance,2,Storm,16,105
+2347,Medical,Ambulance,1,Fog,8,72
+2348,False Alarm,Ambulance,2,Clear,10,41
+2349,Medical,Chief,1,Clear,4,47
+2350,Wellness Check,Ambulance,1,Clear,1,32
+2351,Structure Fire,Ambulance,1,Clear,14,53
+2352,Medical,Ladder,2,Clear,23,64
+2353,Traffic Accident,Ambulance,2,Clear,11,69
+2354,Medical,Engine,1,Clear,9,82
+2355,Wellness Check,Chief,3,Clear,9,96
+2356,False Alarm,Rescue Squad,1,Clear,19,57
+2357,Medical,Ladder,2,Clear,10,61
+2358,Medical,Chief,3,Clear,9,90
+2359,Structure Fire,Chief,2,Rain,6,65
+2360,False Alarm,Engine,2,Clear,13,56
+2361,Medical,Ambulance,1,Clear,12,37
+2362,Traffic Accident,Engine,2,Clear,4,54
+2363,Traffic Accident,Ambulance,2,Clear,18,96
+2364,Traffic Accident,Ambulance,3,Rain,9,87
+2365,Medical,Chief,1,Clear,7,62
+2366,Traffic Accident,Ambulance,2,Clear,17,70
+2367,False Alarm,Ladder,2,Fog,0,66
+2368,Medical,Ladder,3,Storm,4,113
+2369,Medical,Ladder,1,Clear,10,63
+2370,False Alarm,Chief,3,Clear,19,66
+2371,Medical,Engine,2,Clear,10,63
+2372,Wellness Check,Rescue Squad,2,Clear,15,74
+2373,Medical,Ambulance,1,Clear,9,72
+2374,Medical,Rescue Squad,2,Rain,14,53
+2375,Wellness Check,Engine,2,Clear,6,69
+2376,Medical,Engine,2,Fog,14,89
+2377,Structure Fire,Chief,1,Clear,15,33
+2378,Medical,Ladder,1,Clear,5,35
+2379,Structure Fire,Ladder,3,Rain,10,84
+2380,Medical,Engine,3,Clear,16,115
+2381,Medical,Chief,2,Clear,14,51
+2382,False Alarm,Chief,1,Clear,15,54
+2383,Medical,Ambulance,2,Clear,23,62
+2384,Traffic Accident,Ladder,2,Clear,1,63
+2385,Medical,Engine,3,Clear,3,84
+2386,Traffic Accident,Rescue Squad,2,Clear,18,72
+2387,Medical,Ladder,3,Clear,5,98
+2388,False Alarm,Ambulance,3,Storm,17,127
+2389,Medical,Chief,3,Clear,20,68
+2390,Medical,Engine,1,Clear,10,64
+2391,Medical,Ladder,1,Storm,8,109
+2392,Medical,Rescue Squad,2,Rain,2,46
+2393,Structure Fire,Ambulance,2,Clear,1,77
+2394,Medical,Ambulance,1,Clear,17,79
+2395,Wellness Check,Ladder,1,Rain,14,55
+2396,Medical,Rescue Squad,2,Clear,21,57
+2397,Medical,Ambulance,2,Rain,17,82
+2398,Traffic Accident,Engine,2,Storm,18,117
+2399,Traffic Accident,Ambulance,2,Clear,14,57
+2400,Medical,Rescue Squad,2,Clear,16,80
+2401,Medical,Chief,2,Rain,17,77
+2402,Medical,Chief,1,Clear,17,60
+2403,Traffic Accident,Ladder,2,Clear,10,72
+2404,Traffic Accident,Rescue Squad,2,Clear,17,84
+2405,Medical,Ambulance,1,Rain,22,37
+2406,Wellness Check,Ambulance,2,Clear,2,59
+2407,Wellness Check,Chief,2,Storm,12,98
+2408,Structure Fire,Chief,2,Snow,13,72
+2409,Wellness Check,Engine,2,Clear,3,75
+2410,Medical,Chief,2,Rain,17,70
+2411,Medical,Engine,2,Clear,4,65
+2412,Medical,Ambulance,3,Rain,13,51
+2413,Medical,Engine,1,Clear,11,60
+2414,Structure Fire,Engine,3,Clear,6,82
+2415,False Alarm,Ladder,2,Rain,11,65
+2416,Medical,Chief,1,Clear,7,63
+2417,Medical,Engine,1,Snow,20,65
+2418,Medical,Ambulance,2,Rain,20,60
+2419,False Alarm,Rescue Squad,2,Clear,2,66
+2420,Medical,Engine,1,Clear,21,56
+2421,Structure Fire,Chief,1,Fog,0,41
+2422,Medical,Ladder,2,Clear,2,70
+2423,Medical,Ambulance,1,Rain,10,44
+2424,False Alarm,Ladder,3,Rain,17,120
+2425,False Alarm,Rescue Squad,2,Fog,6,72
+2426,Medical,Engine,2,Rain,8,92
+2427,False Alarm,Engine,2,Clear,3,72
+2428,Traffic Accident,Chief,1,Fog,22,38
+2429,Wellness Check,Engine,3,Snow,23,130
+2430,Medical,Ambulance,1,Rain,9,71
+2431,Structure Fire,Rescue Squad,2,Clear,17,87
+2432,Medical,Ladder,2,Clear,22,75
+2433,Traffic Accident,Rescue Squad,1,Rain,15,45
+2434,Medical,Engine,2,Clear,11,69
+2435,Medical,Ladder,3,Clear,18,97
+2436,Medical,Chief,2,Clear,23,61
+2437,Traffic Accident,Rescue Squad,3,Clear,21,74
+2438,Medical,Ladder,3,Clear,2,98
+2439,Traffic Accident,Ladder,2,Clear,7,79
+2440,False Alarm,Ladder,2,Clear,18,92
+2441,Medical,Ambulance,2,Rain,8,75
+2442,Traffic Accident,Rescue Squad,2,Clear,18,87
+2443,Medical,Ladder,1,Clear,16,70
+2444,Wellness Check,Rescue Squad,3,Clear,12,71
+2445,Medical,Ladder,2,Clear,1,80
+2446,Traffic Accident,Chief,2,Rain,3,51
+2447,Wellness Check,Chief,2,Rain,10,66
+2448,False Alarm,Chief,2,Clear,1,43
+2449,Traffic Accident,Engine,3,Clear,3,87
+2450,Medical,Ladder,2,Fog,3,85
+2451,Traffic Accident,Engine,1,Clear,19,52
+2452,Wellness Check,Rescue Squad,1,Clear,0,45
+2453,Structure Fire,Engine,3,Clear,10,106
+2454,Medical,Rescue Squad,2,Clear,22,58
+2455,False Alarm,Rescue Squad,3,Clear,1,82
+2456,Traffic Accident,Rescue Squad,1,Clear,18,68
+2457,Traffic Accident,Engine,1,Clear,7,60
+2458,Medical,Ladder,1,Clear,22,50
+2459,Traffic Accident,Engine,2,Clear,19,71
+2460,Medical,Ladder,2,Clear,3,54
+2461,Traffic Accident,Ladder,1,Clear,15,68
+2462,Medical,Rescue Squad,2,Clear,14,67
+2463,Traffic Accident,Engine,2,Clear,4,76
+2464,False Alarm,Ladder,1,Rain,4,68
+2465,Medical,Chief,2,Rain,14,67
+2466,False Alarm,Ladder,2,Clear,22,67
+2467,Medical,Chief,1,Clear,16,53
+2468,Wellness Check,Engine,1,Rain,2,48
+2469,Traffic Accident,Engine,2,Clear,17,91
+2470,Structure Fire,Engine,2,Clear,10,76
+2471,Traffic Accident,Ladder,3,Rain,5,90
+2472,Wellness Check,Ambulance,2,Fog,11,44
+2473,Medical,Ladder,1,Clear,21,63
+2474,Medical,Ladder,3,Clear,16,130
+2475,Traffic Accident,Rescue Squad,3,Fog,13,94
+2476,Wellness Check,Rescue Squad,2,Clear,5,48
+2477,Traffic Accident,Ladder,3,Fog,9,110
+2478,Traffic Accident,Chief,2,Clear,15,49
+2479,Medical,Rescue Squad,2,Clear,17,102
+2480,Wellness Check,Ladder,2,Clear,19,70
+2481,Medical,Ambulance,2,Storm,5,77
+2482,Structure Fire,Chief,1,Fog,18,59
+2483,Medical,Engine,3,Clear,2,93
+2484,Medical,Ladder,3,Rain,11,95
+2485,Medical,Ladder,2,Clear,15,53
+2486,Medical,Chief,2,Rain,2,73
+2487,Traffic Accident,Rescue Squad,1,Snow,15,89
+2488,Medical,Rescue Squad,1,Clear,3,58
+2489,Medical,Rescue Squad,1,Clear,19,62
+2490,Medical,Engine,2,Storm,12,100
+2491,Medical,Chief,3,Fog,3,88
+2492,Medical,Chief,1,Clear,3,39
+2493,Medical,Rescue Squad,1,Clear,6,40
+2494,Traffic Accident,Rescue Squad,2,Storm,20,99
+2495,Traffic Accident,Ambulance,1,Clear,11,37
+2496,Traffic Accident,Ambulance,3,Clear,1,81
+2497,Medical,Ladder,2,Clear,15,60
+2498,Medical,Ladder,1,Fog,6,48
+2499,Wellness Check,Chief,1,Clear,18,61
+2500,Structure Fire,Chief,1,Clear,10,59
+2501,Medical,Engine,2,Clear,0,75
+2502,Medical,Engine,1,Fog,8,81
+2503,Medical,Ambulance,2,Rain,4,41
+2504,Medical,Ladder,2,Rain,16,91
+2505,Medical,Ambulance,1,Clear,0,41
+2506,Structure Fire,Ambulance,1,Fog,16,72
+2507,Structure Fire,Ladder,2,Rain,11,94
+2508,Traffic Accident,Engine,2,Rain,12,46
+2509,Traffic Accident,Ladder,3,Storm,23,122
+2510,Wellness Check,Rescue Squad,1,Clear,10,67
+2511,Traffic Accident,Rescue Squad,1,Rain,12,39
+2512,False Alarm,Rescue Squad,1,Fog,12,46
+2513,Medical,Chief,2,Rain,5,66
+2514,Medical,Engine,2,Clear,21,48
+2515,Medical,Engine,3,Clear,5,92
+2516,Traffic Accident,Chief,2,Rain,19,52
+2517,Wellness Check,Ambulance,1,Clear,20,65
+2518,Medical,Rescue Squad,2,Clear,9,86
+2519,False Alarm,Rescue Squad,3,Fog,18,96
+2520,Medical,Ambulance,2,Clear,2,68
+2521,False Alarm,Ladder,2,Clear,6,74
+2522,Medical,Ladder,3,Rain,4,98
+2523,Medical,Engine,2,Clear,7,116
+2524,Medical,Chief,2,Clear,4,54
+2525,Medical,Engine,1,Clear,11,72
+2526,Medical,Ladder,2,Clear,3,88
+2527,Medical,Ambulance,1,Clear,18,63
+2528,Wellness Check,Engine,2,Clear,17,88
+2529,Structure Fire,Rescue Squad,1,Clear,2,45
+2530,Medical,Rescue Squad,3,Clear,6,78
+2531,Traffic Accident,Ambulance,3,Clear,7,119
+2532,Traffic Accident,Ladder,2,Fog,14,61
+2533,Medical,Rescue Squad,1,Clear,20,47
+2534,Medical,Rescue Squad,1,Rain,16,52
+2535,Medical,Chief,2,Clear,18,85
+2536,Medical,Engine,2,Rain,3,91
+2537,Traffic Accident,Ladder,2,Rain,15,88
+2538,Medical,Engine,2,Clear,12,73
+2539,Structure Fire,Ladder,2,Clear,11,76
+2540,Traffic Accident,Rescue Squad,2,Clear,3,64
+2541,Medical,Chief,2,Rain,11,56
+2542,Structure Fire,Engine,2,Clear,16,109
+2543,Medical,Rescue Squad,2,Fog,8,89
+2544,False Alarm,Ladder,1,Clear,11,57
+2545,Medical,Engine,1,Clear,14,52
+2546,Wellness Check,Engine,2,Clear,19,68
+2547,Structure Fire,Rescue Squad,1,Fog,1,48
+2548,Medical,Engine,2,Clear,8,91
+2549,Traffic Accident,Chief,2,Rain,13,71
+2550,False Alarm,Chief,3,Clear,3,84
+2551,Traffic Accident,Rescue Squad,2,Clear,3,50
+2552,Wellness Check,Ladder,1,Rain,5,43
+2553,Wellness Check,Rescue Squad,1,Fog,23,54
+2554,Medical,Chief,3,Clear,4,68
+2555,Medical,Ambulance,1,Clear,23,41
+2556,Traffic Accident,Ambulance,2,Rain,16,81
+2557,Medical,Engine,2,Clear,12,57
+2558,Wellness Check,Engine,2,Rain,19,73
+2559,False Alarm,Ambulance,2,Clear,16,88
+2560,Medical,Chief,2,Clear,18,74
+2561,Medical,Engine,3,Snow,22,144
+2562,Traffic Accident,Rescue Squad,1,Clear,0,30
+2563,Medical,Rescue Squad,3,Storm,20,112
+2564,Wellness Check,Chief,2,Snow,16,99
+2565,Medical,Engine,3,Rain,21,76
+2566,Traffic Accident,Rescue Squad,1,Clear,2,67
+2567,Medical,Engine,1,Fog,13,77
+2568,Traffic Accident,Engine,3,Rain,11,83
+2569,Medical,Rescue Squad,3,Clear,14,92
+2570,Structure Fire,Ambulance,2,Clear,5,65
+2571,Medical,Rescue Squad,2,Clear,19,76
+2572,Traffic Accident,Chief,3,Storm,21,105
+2573,Wellness Check,Ladder,1,Fog,1,59
+2574,Medical,Rescue Squad,2,Fog,3,74
+2575,Medical,Engine,3,Rain,12,102
+2576,Medical,Engine,2,Clear,12,71
+2577,Traffic Accident,Rescue Squad,2,Clear,22,50
+2578,Traffic Accident,Ladder,2,Clear,21,62
+2579,Structure Fire,Rescue Squad,2,Clear,22,41
+2580,Medical,Ladder,1,Clear,16,91
+2581,Medical,Ladder,3,Fog,5,92
+2582,Structure Fire,Chief,2,Storm,10,86
+2583,Medical,Engine,3,Clear,18,109
+2584,False Alarm,Engine,3,Rain,15,78
+2585,Medical,Ladder,1,Clear,7,80
+2586,Traffic Accident,Engine,1,Clear,0,61
+2587,Medical,Ambulance,2,Rain,9,79
+2588,Medical,Ladder,2,Clear,1,69
+2589,Traffic Accident,Engine,2,Fog,18,92
+2590,Traffic Accident,Ambulance,2,Rain,13,57
+2591,False Alarm,Chief,2,Rain,2,48
+2592,Medical,Engine,1,Clear,22,52
+2593,Medical,Ambulance,2,Clear,23,76
+2594,Traffic Accident,Rescue Squad,2,Clear,8,76
+2595,Structure Fire,Rescue Squad,2,Rain,22,53
+2596,Medical,Ambulance,1,Fog,7,67
+2597,Medical,Ladder,2,Clear,10,68
+2598,Medical,Ladder,1,Rain,14,72
+2599,Wellness Check,Engine,2,Clear,5,84
+2600,Medical,Rescue Squad,2,Clear,1,58
+2601,Medical,Ladder,1,Rain,0,48
+2602,Medical,Ladder,2,Rain,2,52
+2603,Medical,Rescue Squad,2,Clear,22,50
+2604,Medical,Chief,1,Clear,17,42
+2605,Structure Fire,Ladder,1,Clear,13,62
+2606,Medical,Ambulance,3,Clear,16,110
+2607,Wellness Check,Engine,2,Fog,1,66
+2608,Medical,Ladder,3,Clear,18,123
+2609,Structure Fire,Ladder,2,Clear,21,59
+2610,Wellness Check,Chief,2,Clear,8,63
+2611,Traffic Accident,Ambulance,2,Storm,7,107
+2612,Structure Fire,Engine,2,Rain,9,100
+2613,Medical,Ladder,1,Rain,8,99
+2614,Medical,Engine,2,Clear,7,118
+2615,Traffic Accident,Rescue Squad,2,Fog,6,57
+2616,False Alarm,Ladder,1,Clear,21,64
+2617,Traffic Accident,Ladder,1,Rain,23,58
+2618,Structure Fire,Rescue Squad,1,Storm,5,79
+2619,Traffic Accident,Chief,2,Clear,1,59
+2620,Medical,Ladder,2,Clear,8,96
+2621,Medical,Engine,3,Clear,8,111
+2622,Structure Fire,Ambulance,1,Clear,18,85
+2623,False Alarm,Engine,1,Clear,8,83
+2624,Medical,Chief,2,Fog,1,77
+2625,Traffic Accident,Ambulance,3,Clear,18,92
+2626,Medical,Engine,1,Rain,15,30
+2627,Structure Fire,Engine,2,Fog,21,65
+2628,Medical,Rescue Squad,2,Storm,13,73
+2629,Medical,Chief,1,Clear,19,30
+2630,Traffic Accident,Rescue Squad,2,Clear,23,73
+2631,Medical,Ambulance,1,Clear,0,31
+2632,Traffic Accident,Rescue Squad,3,Clear,12,85
+2633,Traffic Accident,Chief,2,Rain,21,80
+2634,False Alarm,Ladder,2,Clear,1,58
+2635,Medical,Ladder,2,Clear,21,67
+2636,Medical,Ambulance,2,Clear,13,73
+2637,Medical,Ladder,2,Rain,0,65
+2638,False Alarm,Rescue Squad,1,Clear,14,48
+2639,False Alarm,Ambulance,2,Clear,17,86
+2640,Structure Fire,Chief,1,Clear,8,71
+2641,Wellness Check,Ambulance,2,Clear,21,55
+2642,Structure Fire,Ambulance,1,Rain,7,55
+2643,Traffic Accident,Engine,2,Clear,6,59
+2644,Medical,Engine,1,Snow,8,104
+2645,Traffic Accident,Ambulance,3,Clear,8,88
+2646,Medical,Ladder,2,Clear,10,81
+2647,Wellness Check,Engine,2,Clear,3,85
+2648,Traffic Accident,Chief,3,Clear,6,68
+2649,Traffic Accident,Rescue Squad,2,Rain,20,67
+2650,Medical,Engine,3,Clear,6,110
+2651,Medical,Ambulance,1,Rain,3,36
+2652,Medical,Ladder,2,Clear,11,82
+2653,Medical,Rescue Squad,2,Storm,16,123
+2654,Medical,Engine,3,Rain,19,99
+2655,False Alarm,Ladder,1,Rain,2,47
+2656,Structure Fire,Ladder,3,Clear,8,125
+2657,Medical,Ladder,2,Storm,4,100
+2658,Medical,Ambulance,3,Storm,19,127
+2659,Medical,Chief,2,Clear,15,59
+2660,Traffic Accident,Ladder,1,Clear,7,75
+2661,Structure Fire,Rescue Squad,3,Clear,20,70
+2662,False Alarm,Engine,3,Clear,15,77
+2663,Medical,Rescue Squad,2,Clear,18,81
+2664,False Alarm,Ambulance,1,Clear,15,41
+2665,Wellness Check,Ambulance,1,Fog,17,70
+2666,Medical,Rescue Squad,2,Clear,14,65
+2667,False Alarm,Chief,1,Snow,23,59
+2668,Medical,Ambulance,2,Clear,17,101
+2669,Wellness Check,Ambulance,2,Rain,13,61
+2670,Medical,Rescue Squad,2,Clear,23,67
+2671,Wellness Check,Ambulance,1,Rain,15,50
+2672,Wellness Check,Chief,2,Clear,4,65
+2673,Wellness Check,Chief,2,Clear,7,67
+2674,Traffic Accident,Chief,2,Fog,15,71
+2675,Medical,Engine,2,Clear,20,72
+2676,Medical,Chief,2,Clear,0,55
+2677,Medical,Chief,2,Clear,10,58
+2678,Medical,Engine,3,Fog,10,93
+2679,Traffic Accident,Ladder,2,Clear,1,71
+2680,Medical,Ambulance,3,Rain,21,85
+2681,False Alarm,Chief,2,Clear,18,94
+2682,Traffic Accident,Ambulance,2,Clear,23,49
+2683,Wellness Check,Rescue Squad,1,Fog,4,52
+2684,Medical,Ambulance,2,Clear,2,58
+2685,Wellness Check,Engine,2,Rain,22,81
+2686,False Alarm,Ambulance,1,Clear,7,79
+2687,Medical,Ambulance,2,Clear,3,61
+2688,Traffic Accident,Ambulance,1,Clear,12,51
+2689,Traffic Accident,Ladder,2,Clear,21,82
+2690,Medical,Ladder,2,Rain,13,79
+2691,Structure Fire,Rescue Squad,2,Rain,0,72
+2692,Medical,Engine,3,Clear,4,87
+2693,Medical,Ambulance,2,Clear,20,54
+2694,Medical,Ambulance,2,Clear,6,48
+2695,Medical,Ambulance,2,Rain,22,58
+2696,Medical,Ambulance,3,Snow,5,101
+2697,Medical,Ladder,2,Clear,14,68
+2698,False Alarm,Rescue Squad,2,Clear,14,64
+2699,Structure Fire,Chief,1,Clear,7,78
+2700,False Alarm,Engine,2,Storm,1,113
+2701,Medical,Ambulance,1,Snow,13,92
+2702,Medical,Rescue Squad,2,Clear,15,68
+2703,Structure Fire,Chief,3,Clear,22,72
+2704,Medical,Rescue Squad,2,Clear,9,97
+2705,Medical,Ladder,2,Clear,14,63
+2706,Traffic Accident,Chief,2,Rain,22,74
+2707,Medical,Rescue Squad,2,Clear,3,61
+2708,Traffic Accident,Ladder,2,Fog,11,70
+2709,Traffic Accident,Rescue Squad,2,Clear,9,69
+2710,Medical,Rescue Squad,1,Clear,1,51
+2711,Medical,Chief,1,Rain,3,45
+2712,Traffic Accident,Ladder,2,Clear,19,71
+2713,Medical,Ambulance,2,Fog,5,59
+2714,Medical,Engine,1,Clear,13,61
+2715,False Alarm,Chief,2,Clear,22,68
+2716,Medical,Ladder,1,Rain,2,59
+2717,Traffic Accident,Rescue Squad,1,Clear,14,58
+2718,False Alarm,Ladder,2,Clear,0,62
+2719,Medical,Engine,2,Storm,18,127
+2720,Medical,Engine,2,Clear,0,74
+2721,Medical,Ambulance,2,Clear,12,66
+2722,Medical,Ambulance,3,Fog,7,103
+2723,Medical,Engine,2,Clear,17,77
+2724,Traffic Accident,Chief,1,Clear,21,32
+2725,Medical,Chief,2,Clear,2,58
+2726,Structure Fire,Rescue Squad,1,Clear,22,30
+2727,False Alarm,Ambulance,3,Storm,17,146
+2728,Wellness Check,Rescue Squad,1,Clear,19,44
+2729,Traffic Accident,Ambulance,2,Clear,8,75
+2730,Medical,Engine,1,Clear,5,49
+2731,Traffic Accident,Chief,3,Clear,19,81
+2732,Structure Fire,Chief,2,Rain,1,45
+2733,Medical,Engine,3,Clear,3,83
+2734,Medical,Rescue Squad,1,Rain,17,69
+2735,Wellness Check,Rescue Squad,1,Clear,6,42
+2736,Medical,Ladder,1,Rain,10,52
+2737,Medical,Ambulance,3,Clear,4,93
+2738,Medical,Rescue Squad,3,Clear,7,111
+2739,Medical,Engine,1,Rain,10,48
+2740,Wellness Check,Rescue Squad,1,Clear,23,34
+2741,Traffic Accident,Chief,2,Clear,19,55
+2742,Traffic Accident,Ambulance,1,Clear,19,57
+2743,Medical,Ladder,1,Clear,14,33
+2744,Medical,Ambulance,1,Rain,23,45
+2745,Medical,Chief,1,Clear,2,41
+2746,Medical,Chief,1,Fog,6,56
+2747,Medical,Chief,1,Clear,23,54
+2748,Traffic Accident,Chief,2,Fog,7,71
+2749,Medical,Engine,3,Clear,10,101
+2750,Structure Fire,Ladder,2,Fog,9,76
+2751,Medical,Chief,2,Clear,19,66
+2752,Medical,Chief,1,Clear,8,69
+2753,Medical,Rescue Squad,2,Fog,14,76
+2754,False Alarm,Ladder,2,Clear,19,72
+2755,Wellness Check,Ambulance,2,Clear,23,53
+2756,False Alarm,Ladder,1,Rain,21,44
+2757,Medical,Ladder,3,Clear,4,104
+2758,Medical,Ladder,1,Clear,14,71
+2759,Structure Fire,Chief,2,Clear,3,55
+2760,Medical,Chief,3,Rain,4,80
+2761,Wellness Check,Engine,2,Clear,14,83
+2762,Medical,Ambulance,2,Fog,16,96
+2763,Medical,Rescue Squad,3,Rain,22,78
+2764,Medical,Ladder,2,Rain,7,85
+2765,Medical,Ambulance,1,Clear,18,61
+2766,Traffic Accident,Ambulance,3,Fog,8,117
+2767,Medical,Engine,1,Clear,9,72
+2768,Medical,Rescue Squad,3,Fog,4,75
+2769,Medical,Ladder,1,Clear,9,82
+2770,Medical,Rescue Squad,2,Rain,21,60
+2771,Traffic Accident,Engine,2,Clear,0,73
+2772,Wellness Check,Chief,3,Clear,21,76
+2773,False Alarm,Ambulance,2,Clear,23,56
+2774,Traffic Accident,Ladder,1,Clear,3,47
+2775,Medical,Chief,2,Clear,20,67
+2776,Traffic Accident,Engine,1,Clear,4,55
+2777,Medical,Rescue Squad,2,Clear,22,62
+2778,Medical,Ambulance,3,Rain,6,69
+2779,Wellness Check,Ladder,2,Clear,22,76
+2780,Medical,Chief,2,Clear,4,63
+2781,False Alarm,Chief,1,Rain,19,52
+2782,Medical,Ambulance,2,Fog,7,86
+2783,Traffic Accident,Rescue Squad,2,Clear,16,78
+2784,Traffic Accident,Engine,2,Clear,0,51
+2785,Wellness Check,Rescue Squad,1,Clear,21,56
+2786,Traffic Accident,Rescue Squad,2,Rain,17,69
+2787,Traffic Accident,Rescue Squad,1,Rain,11,55
+2788,Medical,Ambulance,2,Rain,2,59
+2789,Structure Fire,Ambulance,1,Clear,19,30
+2790,Medical,Engine,3,Snow,13,116
+2791,Traffic Accident,Rescue Squad,1,Clear,15,30
+2792,Structure Fire,Ambulance,2,Clear,17,99
+2793,Traffic Accident,Engine,1,Clear,9,66
+2794,Medical,Engine,2,Clear,22,59
+2795,Medical,Rescue Squad,2,Rain,14,66
+2796,Traffic Accident,Ladder,2,Rain,9,91
+2797,Medical,Rescue Squad,1,Storm,0,93
+2798,Medical,Ladder,2,Clear,18,97
+2799,Medical,Engine,1,Storm,1,104
+2800,False Alarm,Ambulance,1,Rain,12,40
+2801,Traffic Accident,Chief,2,Clear,15,44
+2802,Medical,Engine,1,Fog,7,67
+2803,Medical,Ambulance,1,Rain,2,49
+2804,Medical,Engine,3,Clear,20,83
+2805,Traffic Accident,Rescue Squad,3,Fog,18,112
+2806,Traffic Accident,Ladder,2,Rain,13,58
+2807,Medical,Engine,1,Rain,10,65
+2808,Medical,Ambulance,1,Fog,11,40
+2809,Medical,Rescue Squad,2,Clear,10,73
+2810,Traffic Accident,Chief,1,Rain,10,50
+2811,Traffic Accident,Rescue Squad,3,Rain,21,81
+2812,Medical,Ladder,1,Clear,20,61
+2813,Medical,Rescue Squad,3,Clear,17,112
+2814,Medical,Chief,2,Rain,9,75
+2815,False Alarm,Ambulance,2,Clear,15,41
+2816,Medical,Engine,1,Rain,7,93
+2817,Traffic Accident,Ladder,3,Fog,5,87
+2818,Traffic Accident,Chief,1,Clear,18,90
+2819,Medical,Ladder,2,Clear,12,63
+2820,Medical,Rescue Squad,3,Clear,14,76
+2821,Medical,Ladder,1,Clear,12,62
+2822,Traffic Accident,Chief,2,Fog,0,67
+2823,Traffic Accident,Engine,2,Clear,20,74
+2824,Traffic Accident,Engine,2,Clear,1,64
+2825,Structure Fire,Ladder,2,Rain,12,58
+2826,Medical,Ambulance,2,Rain,1,53
+2827,False Alarm,Ladder,2,Clear,10,54
+2828,Traffic Accident,Rescue Squad,2,Rain,12,80
+2829,Medical,Engine,2,Clear,9,84
+2830,False Alarm,Engine,1,Rain,22,52
+2831,Traffic Accident,Engine,3,Clear,21,96
+2832,Structure Fire,Ambulance,3,Clear,14,80
+2833,Traffic Accident,Ambulance,2,Fog,0,54
+2834,Wellness Check,Chief,2,Clear,13,58
+2835,Traffic Accident,Ladder,2,Clear,9,84
+2836,Medical,Ladder,2,Fog,17,89
+2837,Medical,Rescue Squad,2,Rain,10,63
+2838,False Alarm,Engine,1,Clear,6,44
+2839,Medical,Ambulance,2,Rain,14,70
+2840,Medical,Rescue Squad,1,Fog,2,45
+2841,Medical,Rescue Squad,1,Rain,1,39
+2842,Medical,Ambulance,2,Clear,21,56
+2843,Traffic Accident,Ladder,2,Rain,7,104
+2844,False Alarm,Engine,2,Rain,7,105
+2845,Medical,Ladder,2,Snow,10,97
+2846,Medical,Rescue Squad,3,Clear,15,73
+2847,Medical,Engine,2,Rain,1,75
+2848,Wellness Check,Chief,2,Clear,21,60
+2849,Traffic Accident,Rescue Squad,1,Rain,4,62
+2850,Medical,Ladder,1,Storm,6,84
+2851,Wellness Check,Ladder,2,Clear,19,86
+2852,Wellness Check,Ladder,2,Clear,12,71
+2853,Wellness Check,Ambulance,2,Clear,1,49
+2854,False Alarm,Rescue Squad,2,Rain,2,92
+2855,Medical,Engine,2,Clear,8,72
+2856,Traffic Accident,Ladder,1,Rain,9,51
+2857,Medical,Ladder,1,Fog,23,34
+2858,Wellness Check,Ambulance,3,Rain,12,107
+2859,Traffic Accident,Engine,2,Rain,20,91
+2860,Traffic Accident,Rescue Squad,1,Clear,12,46
+2861,Traffic Accident,Chief,2,Fog,4,64
+2862,Medical,Ambulance,2,Clear,22,62
+2863,Structure Fire,Rescue Squad,2,Clear,6,42
+2864,False Alarm,Chief,1,Clear,16,83
+2865,False Alarm,Ladder,2,Rain,14,83
+2866,Medical,Ladder,1,Fog,4,42
+2867,Medical,Engine,3,Clear,23,93
+2868,Medical,Chief,2,Snow,6,83
+2869,Traffic Accident,Ladder,2,Snow,1,89
+2870,Wellness Check,Ladder,2,Clear,23,63
+2871,Medical,Engine,1,Rain,17,82
+2872,Structure Fire,Rescue Squad,1,Clear,9,62
+2873,Wellness Check,Ladder,3,Clear,0,100
+2874,Traffic Accident,Ambulance,1,Fog,13,44
+2875,Structure Fire,Ambulance,1,Clear,18,55
+2876,Structure Fire,Rescue Squad,3,Clear,15,79
+2877,Structure Fire,Chief,2,Rain,18,74
+2878,Medical,Engine,2,Fog,5,68
+2879,Structure Fire,Ambulance,1,Rain,11,51
+2880,Traffic Accident,Ambulance,2,Clear,2,57
+2881,Wellness Check,Rescue Squad,2,Clear,6,54
+2882,Traffic Accident,Chief,2,Rain,23,46
+2883,Traffic Accident,Chief,1,Clear,2,44
+2884,Medical,Rescue Squad,2,Clear,16,89
+2885,Medical,Ambulance,2,Clear,14,58
+2886,Medical,Engine,2,Rain,18,87
+2887,Medical,Ambulance,2,Clear,18,77
+2888,Traffic Accident,Chief,1,Clear,22,30
+2889,False Alarm,Ambulance,1,Clear,10,56
+2890,Medical,Engine,2,Clear,20,74
+2891,Medical,Ladder,2,Clear,19,77
+2892,Wellness Check,Ambulance,3,Clear,1,82
+2893,Medical,Rescue Squad,2,Clear,6,51
+2894,Structure Fire,Ladder,2,Clear,18,91
+2895,Traffic Accident,Rescue Squad,3,Clear,6,74
+2896,Traffic Accident,Rescue Squad,1,Clear,9,57
+2897,Medical,Rescue Squad,2,Clear,11,55
+2898,Medical,Ambulance,1,Clear,22,56
+2899,Traffic Accident,Chief,1,Clear,17,89
+2900,Structure Fire,Ladder,2,Clear,22,61
+2901,Medical,Engine,2,Storm,5,98
+2902,Traffic Accident,Chief,2,Clear,19,62
+2903,Medical,Ambulance,2,Fog,20,50
+2904,Traffic Accident,Rescue Squad,2,Clear,7,82
+2905,Medical,Engine,1,Clear,4,58
+2906,False Alarm,Ladder,2,Rain,2,69
+2907,Medical,Chief,2,Clear,1,66
+2908,Medical,Chief,3,Clear,21,80
+2909,Medical,Engine,1,Storm,5,66
+2910,Medical,Ambulance,1,Clear,6,35
+2911,Wellness Check,Ladder,2,Clear,7,104
+2912,False Alarm,Engine,3,Clear,3,95
+2913,Medical,Rescue Squad,2,Fog,11,31
+2914,Medical,Ladder,2,Fog,23,54
+2915,Traffic Accident,Chief,3,Clear,11,87
+2916,Wellness Check,Engine,3,Clear,16,101
+2917,Structure Fire,Chief,2,Snow,21,74
+2918,Medical,Chief,2,Clear,21,70
+2919,Medical,Chief,1,Clear,18,70
+2920,Traffic Accident,Ambulance,3,Rain,8,91
+2921,Medical,Chief,2,Clear,11,72
+2922,Traffic Accident,Rescue Squad,3,Rain,20,72
+2923,Medical,Rescue Squad,1,Fog,16,64
+2924,Traffic Accident,Ladder,2,Rain,22,65
+2925,Medical,Chief,2,Clear,9,66
+2926,Structure Fire,Chief,2,Clear,18,91
+2927,Medical,Engine,1,Clear,10,60
+2928,Traffic Accident,Ambulance,2,Clear,19,55
+2929,Medical,Ladder,2,Clear,21,77
+2930,Structure Fire,Chief,2,Clear,23,44
+2931,Structure Fire,Engine,1,Clear,12,61
+2932,Structure Fire,Ambulance,2,Clear,3,63
+2933,Traffic Accident,Ladder,1,Clear,14,48
+2934,Traffic Accident,Ladder,1,Clear,11,59
+2935,Wellness Check,Chief,2,Clear,23,51
+2936,Medical,Ladder,3,Clear,9,118
+2937,Wellness Check,Engine,2,Rain,21,75
+2938,Medical,Ladder,2,Rain,6,73
+2939,Medical,Rescue Squad,2,Clear,23,55
+2940,Medical,Engine,2,Clear,1,77
+2941,Medical,Ambulance,1,Clear,20,57
+2942,Traffic Accident,Ambulance,3,Clear,6,96
+2943,Traffic Accident,Chief,3,Clear,7,94
+2944,Traffic Accident,Chief,2,Storm,20,91
+2945,Structure Fire,Rescue Squad,2,Clear,18,97
+2946,Medical,Ambulance,2,Rain,5,57
+2947,Medical,Ambulance,2,Clear,20,74
+2948,Medical,Ambulance,1,Clear,7,65
+2949,Medical,Ambulance,1,Clear,21,34
+2950,Medical,Ladder,2,Rain,19,62
+2951,Medical,Engine,3,Clear,3,75
+2952,Structure Fire,Engine,1,Clear,19,54
+2953,Traffic Accident,Rescue Squad,1,Storm,23,80
+2954,False Alarm,Ladder,2,Clear,8,86
+2955,False Alarm,Ambulance,3,Clear,4,93
+2956,Traffic Accident,Ambulance,1,Clear,5,44
+2957,Medical,Chief,1,Clear,18,58
+2958,Traffic Accident,Chief,2,Clear,11,58
+2959,Traffic Accident,Rescue Squad,2,Clear,4,41
+2960,Medical,Ambulance,1,Clear,4,51
+2961,Medical,Rescue Squad,1,Clear,17,64
+2962,Wellness Check,Ladder,2,Rain,5,70
+2963,Medical,Engine,2,Rain,8,97
+2964,Structure Fire,Ambulance,3,Clear,10,81
+2965,Structure Fire,Ladder,2,Clear,22,56
+2966,Medical,Ambulance,1,Clear,13,44
+2967,Medical,Chief,2,Clear,23,53
+2968,Medical,Rescue Squad,2,Clear,1,60
+2969,Medical,Chief,1,Clear,13,34
+2970,Medical,Engine,3,Storm,18,166
+2971,Wellness Check,Chief,3,Clear,9,101
+2972,Medical,Ambulance,1,Storm,4,53
+2973,Structure Fire,Chief,1,Clear,22,54
+2974,Medical,Ambulance,1,Clear,3,39
+2975,False Alarm,Engine,1,Clear,6,51
+2976,Medical,Chief,2,Clear,23,67
+2977,Medical,Rescue Squad,2,Clear,12,70
+2978,Wellness Check,Rescue Squad,3,Clear,9,94
+2979,Wellness Check,Rescue Squad,1,Storm,9,100
+2980,Medical,Chief,2,Clear,3,66
+2981,Wellness Check,Chief,3,Clear,15,92
+2982,Medical,Chief,2,Rain,14,60
+2983,Medical,Ambulance,1,Rain,20,49
+2984,Medical,Engine,1,Rain,10,45
+2985,Medical,Rescue Squad,2,Clear,18,64
+2986,Traffic Accident,Ambulance,3,Clear,20,85
+2987,Medical,Rescue Squad,3,Clear,23,71
+2988,Medical,Ambulance,3,Clear,2,70
+2989,Traffic Accident,Chief,3,Clear,14,86
+2990,Traffic Accident,Rescue Squad,2,Clear,15,58
+2991,Medical,Chief,3,Fog,13,82
+2992,Traffic Accident,Rescue Squad,3,Fog,4,67
+2993,Medical,Ladder,2,Clear,16,76
+2994,Traffic Accident,Ambulance,1,Clear,17,83
+2995,Traffic Accident,Ladder,2,Clear,18,81
+2996,False Alarm,Ambulance,1,Clear,0,42
+2997,Medical,Engine,1,Clear,8,73
+2998,Medical,Rescue Squad,3,Fog,20,69
+2999,Medical,Engine,3,Clear,13,103
+3000,Medical,Engine,1,Clear,19,55
+3001,Medical,Ambulance,2,Clear,20,57
+3002,False Alarm,Ladder,3,Storm,19,130
+3003,Medical,Chief,2,Fog,20,69
+3004,Medical,Ambulance,2,Rain,22,79
+3005,Traffic Accident,Chief,2,Clear,10,55
+3006,Medical,Engine,3,Clear,23,111
+3007,Traffic Accident,Chief,3,Clear,1,86
+3008,Medical,Ladder,2,Clear,19,86
+3009,Medical,Ambulance,1,Rain,23,54
+3010,Medical,Ladder,3,Clear,22,83
+3011,Medical,Ladder,1,Clear,4,46
+3012,False Alarm,Ambulance,2,Clear,21,41
+3013,Medical,Ladder,1,Clear,23,34
+3014,Structure Fire,Rescue Squad,2,Clear,14,53
+3015,Medical,Rescue Squad,2,Clear,11,72
+3016,Medical,Rescue Squad,1,Clear,13,40
+3017,Wellness Check,Chief,3,Clear,10,73
+3018,Medical,Ladder,1,Fog,20,61
+3019,Traffic Accident,Ambulance,3,Clear,8,91
+3020,False Alarm,Ambulance,3,Clear,19,98
+3021,Structure Fire,Chief,2,Clear,7,80
+3022,False Alarm,Ambulance,2,Rain,11,69
+3023,Medical,Rescue Squad,1,Snow,2,81
+3024,Medical,Ladder,2,Clear,20,70
+3025,Medical,Ambulance,2,Clear,14,71
+3026,Traffic Accident,Ambulance,2,Storm,7,111
+3027,False Alarm,Engine,2,Rain,6,84
+3028,Medical,Engine,2,Clear,16,77
+3029,Traffic Accident,Engine,3,Clear,11,77
+3030,Medical,Ladder,1,Clear,19,37
+3031,Structure Fire,Rescue Squad,2,Rain,17,94
+3032,Medical,Rescue Squad,1,Clear,17,77
+3033,False Alarm,Rescue Squad,3,Clear,14,77
+3034,Traffic Accident,Ladder,1,Clear,22,57
+3035,Medical,Ladder,2,Clear,2,80
+3036,Medical,Engine,1,Snow,18,120
+3037,Medical,Ambulance,2,Fog,14,42
+3038,Medical,Chief,3,Clear,15,62
+3039,Medical,Chief,2,Rain,21,49
+3040,Wellness Check,Ambulance,2,Clear,21,61
+3041,Structure Fire,Engine,2,Fog,16,77
+3042,Structure Fire,Ambulance,3,Rain,0,90
+3043,Medical,Ambulance,2,Storm,10,80
+3044,Wellness Check,Chief,3,Storm,5,102
+3045,Traffic Accident,Engine,2,Clear,22,51
+3046,Medical,Ladder,2,Rain,8,87
+3047,Traffic Accident,Chief,1,Clear,19,45
+3048,Structure Fire,Ladder,2,Clear,15,80
+3049,Medical,Engine,1,Clear,5,56
+3050,Medical,Ambulance,3,Clear,11,87
+3051,Medical,Rescue Squad,2,Rain,18,88
+3052,Medical,Rescue Squad,3,Clear,12,83
+3053,False Alarm,Engine,1,Fog,12,46
+3054,Wellness Check,Rescue Squad,1,Rain,3,49
+3055,Traffic Accident,Ladder,3,Rain,8,127
+3056,Medical,Rescue Squad,2,Clear,13,56
+3057,Medical,Engine,2,Clear,13,75
+3058,Traffic Accident,Engine,3,Clear,16,112
+3059,Structure Fire,Ladder,2,Clear,4,66
+3060,Medical,Rescue Squad,1,Snow,22,92
+3061,Structure Fire,Rescue Squad,3,Rain,18,100
+3062,Wellness Check,Ambulance,1,Clear,1,49
+3063,Medical,Chief,3,Snow,12,99
+3064,Medical,Engine,1,Clear,10,55
+3065,Traffic Accident,Ambulance,2,Clear,1,69
+3066,Medical,Engine,1,Clear,0,35
+3067,Medical,Ambulance,2,Clear,20,66
+3068,Medical,Chief,1,Rain,2,52
+3069,Medical,Ambulance,3,Rain,11,74
+3070,Traffic Accident,Engine,2,Rain,6,69
+3071,Structure Fire,Rescue Squad,1,Clear,0,35
+3072,Medical,Engine,2,Clear,8,90
+3073,Wellness Check,Ladder,2,Clear,17,96
+3074,Wellness Check,Ladder,1,Storm,23,109
+3075,Wellness Check,Ladder,1,Clear,19,61
+3076,Medical,Ladder,2,Clear,5,61
+3077,Medical,Chief,1,Fog,8,68
+3078,False Alarm,Rescue Squad,1,Rain,22,50
+3079,Traffic Accident,Rescue Squad,1,Snow,7,84
+3080,Medical,Engine,2,Storm,22,109
+3081,Medical,Ambulance,2,Clear,17,74
+3082,Medical,Engine,1,Clear,14,56
+3083,False Alarm,Engine,3,Clear,0,89
+3084,Structure Fire,Engine,3,Clear,13,91
+3085,Medical,Engine,1,Clear,17,61
+3086,Medical,Rescue Squad,1,Clear,18,70
+3087,Traffic Accident,Ambulance,3,Rain,18,106
+3088,Wellness Check,Engine,2,Clear,9,97
+3089,Medical,Rescue Squad,2,Clear,19,53
+3090,Traffic Accident,Engine,2,Rain,20,67
+3091,False Alarm,Ladder,2,Clear,5,66
+3092,Medical,Engine,1,Rain,16,96
+3093,Structure Fire,Engine,2,Storm,13,102
+3094,Medical,Chief,2,Rain,12,50
+3095,Traffic Accident,Ladder,2,Clear,7,99
+3096,Structure Fire,Ambulance,3,Fog,21,69
+3097,Traffic Accident,Engine,1,Clear,9,85
+3098,Traffic Accident,Ambulance,2,Rain,8,90
+3099,Medical,Ladder,2,Clear,4,50
+3100,False Alarm,Engine,2,Clear,22,59
+3101,Structure Fire,Chief,1,Storm,3,72
+3102,Medical,Rescue Squad,2,Clear,5,56
+3103,Traffic Accident,Chief,1,Snow,5,67
+3104,Traffic Accident,Chief,1,Clear,12,44
+3105,Medical,Rescue Squad,1,Snow,3,49
+3106,Wellness Check,Rescue Squad,2,Storm,21,86
+3107,False Alarm,Rescue Squad,1,Clear,7,58
+3108,Medical,Engine,2,Clear,4,72
+3109,False Alarm,Ambulance,1,Rain,1,40
+3110,Medical,Ambulance,1,Fog,8,88
+3111,Medical,Rescue Squad,2,Clear,10,58
+3112,Medical,Chief,1,Rain,19,48
+3113,Wellness Check,Ladder,2,Clear,19,75
+3114,Traffic Accident,Rescue Squad,2,Clear,10,63
+3115,Medical,Chief,3,Clear,6,79
+3116,Medical,Chief,3,Rain,13,70
+3117,Traffic Accident,Engine,2,Fog,5,68
+3118,Medical,Engine,2,Clear,3,51
+3119,Wellness Check,Ambulance,1,Clear,5,49
+3120,Wellness Check,Ambulance,2,Rain,2,89
+3121,Structure Fire,Ladder,2,Clear,22,71
+3122,False Alarm,Ladder,1,Fog,5,58
+3123,Medical,Ladder,1,Clear,2,39
+3124,False Alarm,Ladder,1,Clear,0,46
+3125,Traffic Accident,Chief,2,Clear,20,68
+3126,Traffic Accident,Chief,2,Fog,17,67
+3127,Medical,Ambulance,2,Storm,22,92
+3128,Wellness Check,Engine,2,Clear,22,75
+3129,Medical,Engine,2,Clear,3,78
+3130,Medical,Rescue Squad,2,Clear,5,58
+3131,Medical,Chief,1,Rain,16,68
+3132,Structure Fire,Ladder,2,Rain,17,92
+3133,Structure Fire,Ladder,2,Storm,5,77
+3134,Traffic Accident,Rescue Squad,2,Snow,1,93
+3135,Wellness Check,Engine,2,Fog,11,72
+3136,Medical,Ladder,2,Clear,11,69
+3137,Traffic Accident,Engine,1,Clear,3,35
+3138,Medical,Rescue Squad,2,Rain,15,75
+3139,Wellness Check,Engine,3,Clear,19,79
+3140,Wellness Check,Engine,2,Clear,9,87
+3141,Structure Fire,Engine,1,Clear,9,84
+3142,Traffic Accident,Ladder,1,Clear,6,50
+3143,Medical,Ambulance,3,Clear,13,82
+3144,Medical,Chief,1,Clear,6,37
+3145,Wellness Check,Engine,1,Clear,11,76
+3146,Medical,Engine,2,Clear,10,67
+3147,Medical,Engine,3,Clear,16,117
+3148,Medical,Ambulance,2,Rain,10,49
+3149,Wellness Check,Rescue Squad,2,Clear,20,67
+3150,Medical,Ladder,2,Snow,2,99
+3151,Medical,Ambulance,1,Rain,18,55
+3152,Traffic Accident,Engine,3,Rain,21,79
+3153,Wellness Check,Ambulance,2,Rain,3,51
+3154,Medical,Ambulance,2,Clear,7,85
+3155,Medical,Ambulance,3,Clear,13,108
+3156,Medical,Rescue Squad,3,Rain,19,107
+3157,Medical,Chief,2,Clear,23,56
+3158,Medical,Ladder,1,Clear,13,64
+3159,Traffic Accident,Rescue Squad,3,Clear,15,67
+3160,Traffic Accident,Rescue Squad,2,Fog,14,38
+3161,Traffic Accident,Chief,3,Clear,11,80
+3162,Medical,Rescue Squad,3,Clear,15,85
+3163,Wellness Check,Ambulance,1,Storm,19,79
+3164,Medical,Ambulance,3,Snow,18,145
+3165,False Alarm,Engine,2,Clear,4,66
+3166,Traffic Accident,Rescue Squad,2,Fog,11,60
+3167,Medical,Engine,1,Clear,4,63
+3168,Traffic Accident,Ladder,3,Rain,9,117
+3169,Medical,Ambulance,2,Clear,16,68
+3170,Traffic Accident,Ladder,2,Clear,14,72
+3171,Medical,Chief,3,Rain,7,110
+3172,Medical,Ambulance,2,Clear,7,88
+3173,Wellness Check,Ladder,2,Clear,7,84
+3174,Medical,Chief,3,Rain,9,104
+3175,Wellness Check,Ladder,2,Clear,19,75
+3176,Medical,Chief,3,Storm,12,106
+3177,Traffic Accident,Chief,3,Clear,15,68
+3178,Traffic Accident,Ambulance,2,Clear,8,96
+3179,Structure Fire,Engine,2,Rain,15,71
+3180,Medical,Chief,1,Clear,9,78
+3181,Medical,Chief,2,Clear,2,62
+3182,Medical,Ambulance,2,Clear,22,70
+3183,Medical,Engine,2,Storm,21,111
+3184,Traffic Accident,Rescue Squad,1,Clear,13,50
+3185,False Alarm,Rescue Squad,1,Clear,12,33
+3186,Wellness Check,Engine,1,Clear,3,37
+3187,Traffic Accident,Ladder,1,Clear,3,50
+3188,Traffic Accident,Ambulance,2,Clear,5,45
+3189,Traffic Accident,Engine,1,Snow,23,78
+3190,Medical,Rescue Squad,1,Storm,18,93
+3191,False Alarm,Chief,1,Clear,10,30
+3192,Traffic Accident,Rescue Squad,2,Clear,7,90
+3193,Structure Fire,Chief,3,Storm,13,114
+3194,Medical,Ambulance,1,Clear,7,54
+3195,Medical,Chief,2,Clear,13,62
+3196,Medical,Engine,2,Fog,22,88
+3197,Wellness Check,Chief,1,Rain,6,40
+3198,Structure Fire,Ladder,2,Clear,20,76
+3199,Medical,Engine,1,Clear,17,95
+3200,False Alarm,Ambulance,2,Clear,11,43
+3201,Medical,Engine,1,Clear,13,44
+3202,Medical,Ladder,3,Rain,14,95
+3203,Medical,Ambulance,1,Clear,17,87
+3204,Traffic Accident,Rescue Squad,2,Rain,11,52
+3205,False Alarm,Ladder,3,Clear,9,133
+3206,Medical,Ambulance,1,Clear,11,46
+3207,Wellness Check,Chief,2,Clear,7,60
+3208,Medical,Engine,2,Snow,5,118
+3209,False Alarm,Ambulance,2,Rain,23,55
+3210,Traffic Accident,Engine,1,Clear,18,79
+3211,Wellness Check,Chief,1,Clear,0,30
+3212,Medical,Ambulance,2,Snow,12,86
+3213,False Alarm,Rescue Squad,2,Clear,21,45
+3214,Traffic Accident,Ladder,2,Clear,15,53
+3215,Medical,Ambulance,1,Clear,17,64
+3216,Wellness Check,Chief,2,Clear,11,65
+3217,Medical,Ambulance,2,Snow,4,90
+3218,Wellness Check,Engine,2,Clear,20,55
+3219,Medical,Ambulance,2,Rain,12,47
+3220,Traffic Accident,Rescue Squad,1,Fog,7,76
+3221,Structure Fire,Ambulance,1,Storm,5,71
+3222,Medical,Ladder,1,Clear,2,58
+3223,Medical,Ambulance,2,Clear,19,75
+3224,Medical,Engine,1,Clear,3,60
+3225,Medical,Ambulance,2,Clear,11,64
+3226,Medical,Rescue Squad,2,Rain,12,83
+3227,Structure Fire,Chief,2,Fog,1,57
+3228,Medical,Ambulance,2,Rain,18,106
+3229,Medical,Ambulance,1,Clear,3,59
+3230,Traffic Accident,Ladder,2,Clear,22,67
+3231,Medical,Rescue Squad,3,Clear,12,88
+3232,False Alarm,Chief,2,Snow,18,117
+3233,Wellness Check,Engine,2,Clear,7,76
+3234,Traffic Accident,Ambulance,3,Clear,7,104
+3235,Structure Fire,Chief,2,Clear,15,45
+3236,Wellness Check,Engine,1,Storm,10,78
+3237,Medical,Rescue Squad,2,Rain,17,88
+3238,Medical,Rescue Squad,1,Fog,3,42
+3239,Medical,Chief,2,Rain,23,62
+3240,Traffic Accident,Engine,2,Clear,0,72
+3241,Medical,Rescue Squad,2,Clear,0,68
+3242,Structure Fire,Chief,2,Clear,13,60
+3243,False Alarm,Rescue Squad,2,Clear,3,56
+3244,Wellness Check,Rescue Squad,2,Fog,10,67
+3245,Structure Fire,Rescue Squad,3,Clear,17,104
+3246,Medical,Ladder,2,Clear,15,48
+3247,Wellness Check,Engine,3,Clear,16,101
+3248,Structure Fire,Chief,1,Clear,23,39
+3249,Medical,Chief,2,Rain,1,61
+3250,Medical,Engine,1,Clear,3,55
+3251,False Alarm,Engine,1,Clear,2,35
+3252,Traffic Accident,Engine,3,Clear,14,75
+3253,Wellness Check,Engine,3,Clear,1,80
+3254,Wellness Check,Ambulance,1,Clear,23,45
+3255,Structure Fire,Chief,1,Clear,18,78
+3256,Structure Fire,Ambulance,1,Fog,8,53
+3257,Medical,Rescue Squad,3,Clear,9,99
+3258,Medical,Rescue Squad,1,Clear,20,44
+3259,Medical,Chief,1,Rain,18,52
+3260,Traffic Accident,Rescue Squad,1,Clear,4,45
+3261,Traffic Accident,Engine,2,Clear,13,76
+3262,Wellness Check,Ambulance,3,Storm,9,141
+3263,Medical,Engine,1,Rain,15,58
+3264,Traffic Accident,Rescue Squad,2,Rain,5,58
+3265,Traffic Accident,Ambulance,1,Clear,7,53
+3266,Structure Fire,Engine,2,Clear,1,68
+3267,Traffic Accident,Chief,2,Clear,17,83
+3268,Medical,Engine,1,Clear,20,69
+3269,Structure Fire,Rescue Squad,1,Storm,20,95
+3270,Medical,Ambulance,3,Clear,20,74
+3271,Medical,Chief,1,Clear,19,38
+3272,Medical,Ambulance,2,Fog,7,88
+3273,Traffic Accident,Chief,2,Rain,4,54
+3274,False Alarm,Ambulance,1,Storm,16,115
+3275,Traffic Accident,Rescue Squad,2,Rain,15,61
+3276,Traffic Accident,Chief,3,Clear,4,80
+3277,Structure Fire,Ladder,2,Snow,16,126
+3278,Traffic Accident,Ambulance,1,Clear,3,46
+3279,Medical,Ambulance,2,Clear,0,63
+3280,Medical,Engine,2,Rain,21,72
+3281,Medical,Chief,2,Rain,5,58
+3282,Medical,Ladder,2,Fog,0,60
+3283,Medical,Rescue Squad,1,Storm,23,89
+3284,Medical,Engine,2,Fog,3,60
+3285,Medical,Ladder,2,Clear,1,86
+3286,False Alarm,Chief,2,Rain,12,63
+3287,Medical,Ladder,2,Rain,13,63
+3288,Medical,Ambulance,1,Storm,16,108
+3289,Medical,Ambulance,2,Clear,10,67
+3290,Traffic Accident,Engine,3,Clear,2,107
+3291,Medical,Chief,2,Fog,6,46
+3292,Medical,Chief,2,Clear,9,76
+3293,Structure Fire,Ladder,2,Clear,10,83
+3294,Medical,Engine,3,Clear,9,118
+3295,Medical,Chief,3,Clear,7,112
+3296,Medical,Ambulance,2,Rain,4,74
+3297,Medical,Ladder,1,Clear,22,53
+3298,Medical,Rescue Squad,3,Rain,1,56
+3299,Medical,Ambulance,2,Clear,14,56
+3300,Wellness Check,Engine,2,Clear,15,90
+3301,Structure Fire,Chief,3,Clear,3,82
+3302,Structure Fire,Ambulance,2,Rain,21,51
+3303,Medical,Rescue Squad,1,Clear,15,58
+3304,False Alarm,Rescue Squad,3,Rain,11,88
+3305,Medical,Engine,2,Rain,13,71
+3306,Medical,Ambulance,2,Rain,11,65
+3307,Traffic Accident,Ladder,1,Rain,20,44
+3308,Medical,Ambulance,2,Clear,15,56
+3309,Medical,Rescue Squad,1,Clear,15,44
+3310,Structure Fire,Engine,2,Clear,21,80
+3311,Wellness Check,Engine,2,Clear,11,64
+3312,Medical,Ladder,3,Fog,1,89
+3313,Traffic Accident,Engine,2,Snow,22,122
+3314,False Alarm,Engine,2,Clear,23,95
+3315,Medical,Engine,2,Clear,13,61
+3316,Medical,Engine,2,Fog,10,71
+3317,Medical,Engine,1,Clear,8,59
+3318,Medical,Rescue Squad,3,Rain,21,79
+3319,Medical,Ambulance,2,Clear,6,57
+3320,False Alarm,Chief,1,Clear,11,57
+3321,Traffic Accident,Engine,1,Fog,16,71
+3322,Traffic Accident,Chief,2,Clear,8,63
+3323,Medical,Chief,1,Rain,5,60
+3324,Wellness Check,Rescue Squad,1,Fog,11,38
+3325,False Alarm,Engine,2,Rain,19,71
+3326,Wellness Check,Chief,3,Rain,9,98
+3327,Medical,Engine,2,Clear,8,79
+3328,Traffic Accident,Ladder,1,Rain,11,47
+3329,Medical,Ladder,1,Snow,0,89
+3330,Medical,Ladder,2,Storm,1,98
+3331,Medical,Chief,1,Rain,18,69
+3332,Traffic Accident,Ladder,2,Rain,0,68
+3333,Traffic Accident,Rescue Squad,1,Clear,15,48
+3334,Medical,Rescue Squad,3,Snow,15,118
+3335,Medical,Chief,2,Rain,17,97
+3336,Medical,Engine,1,Rain,17,80
+3337,Medical,Ambulance,3,Clear,22,84
+3338,Medical,Engine,1,Fog,12,62
+3339,Medical,Engine,2,Clear,21,77
+3340,Traffic Accident,Engine,3,Clear,11,104
+3341,Medical,Engine,2,Rain,8,96
+3342,Medical,Ambulance,2,Rain,4,54
+3343,Medical,Ladder,2,Clear,8,84
+3344,False Alarm,Engine,1,Rain,12,61
+3345,Traffic Accident,Rescue Squad,1,Clear,15,43
+3346,Traffic Accident,Chief,2,Clear,9,107
+3347,Medical,Chief,2,Clear,15,60
+3348,Structure Fire,Rescue Squad,1,Fog,13,35
+3349,Medical,Engine,1,Clear,1,58
+3350,Traffic Accident,Ambulance,3,Clear,18,119
+3351,False Alarm,Ladder,3,Rain,10,81
+3352,Traffic Accident,Chief,2,Clear,18,80
+3353,Wellness Check,Ladder,3,Rain,10,88
+3354,Traffic Accident,Ambulance,2,Fog,13,53
+3355,Medical,Chief,1,Snow,14,57
+3356,False Alarm,Ladder,1,Clear,6,39
+3357,Medical,Ambulance,1,Clear,14,47
+3358,Structure Fire,Ladder,3,Rain,23,97
+3359,Medical,Engine,2,Clear,22,62
+3360,Medical,Ambulance,2,Clear,7,75
+3361,Medical,Ladder,1,Clear,3,56
+3362,Medical,Engine,2,Clear,17,83
+3363,Medical,Engine,2,Storm,13,117
+3364,Structure Fire,Ambulance,3,Rain,20,82
+3365,Medical,Rescue Squad,1,Clear,17,69
+3366,Medical,Chief,2,Clear,3,66
+3367,Structure Fire,Ambulance,1,Storm,1,103
+3368,Medical,Engine,2,Clear,20,59
+3369,Traffic Accident,Engine,2,Rain,5,61
+3370,Traffic Accident,Ambulance,1,Clear,10,61
+3371,Wellness Check,Rescue Squad,2,Fog,0,66
+3372,Traffic Accident,Chief,1,Rain,14,45
+3373,Medical,Ladder,3,Clear,11,85
+3374,Traffic Accident,Ambulance,1,Clear,23,42
+3375,Medical,Chief,2,Clear,17,73
+3376,Medical,Chief,3,Fog,4,65
+3377,Traffic Accident,Engine,2,Clear,10,79
+3378,Medical,Ladder,2,Rain,23,49
+3379,Traffic Accident,Ambulance,2,Clear,20,51
+3380,Wellness Check,Engine,1,Fog,18,80
+3381,Wellness Check,Engine,2,Rain,21,91
+3382,False Alarm,Rescue Squad,2,Clear,0,58
+3383,Medical,Chief,3,Clear,16,99
+3384,Medical,Ambulance,3,Clear,7,87
+3385,Structure Fire,Ambulance,2,Rain,22,68
+3386,Medical,Ambulance,2,Clear,15,89
+3387,Traffic Accident,Engine,3,Clear,10,94
+3388,Traffic Accident,Rescue Squad,2,Storm,18,99
+3389,Traffic Accident,Ladder,1,Clear,23,34
+3390,Medical,Engine,2,Rain,10,76
+3391,Medical,Ladder,3,Clear,14,80
+3392,Medical,Rescue Squad,2,Clear,7,68
+3393,Medical,Chief,2,Clear,13,69
+3394,Wellness Check,Ambulance,1,Rain,0,40
+3395,Medical,Ladder,3,Clear,9,115
+3396,Medical,Engine,2,Fog,6,77
+3397,Medical,Ladder,2,Clear,17,91
+3398,Traffic Accident,Chief,1,Clear,11,32
+3399,Traffic Accident,Ambulance,1,Fog,1,49
+3400,Medical,Ladder,2,Clear,17,96
+3401,Medical,Chief,3,Clear,20,74
+3402,Medical,Engine,2,Clear,6,63
+3403,Medical,Rescue Squad,1,Rain,19,33
+3404,Traffic Accident,Engine,2,Snow,11,112
+3405,Traffic Accident,Ambulance,1,Clear,19,64
+3406,Medical,Engine,1,Clear,13,64
+3407,Medical,Engine,2,Rain,9,84
+3408,False Alarm,Engine,3,Fog,8,117
+3409,Medical,Engine,1,Clear,22,46
+3410,Traffic Accident,Ambulance,2,Fog,14,63
+3411,Medical,Chief,1,Clear,19,34
+3412,Medical,Ladder,1,Clear,23,53
+3413,Medical,Rescue Squad,1,Clear,9,75
+3414,Structure Fire,Ladder,2,Clear,18,96
+3415,False Alarm,Ladder,1,Clear,18,85
+3416,Medical,Rescue Squad,2,Fog,11,64
+3417,Medical,Ambulance,1,Clear,22,37
+3418,Medical,Rescue Squad,1,Clear,11,46
+3419,Medical,Ambulance,1,Clear,8,69
+3420,Medical,Ladder,3,Rain,19,87
+3421,Medical,Ambulance,2,Fog,3,57
+3422,Traffic Accident,Chief,3,Clear,0,75
+3423,Medical,Rescue Squad,2,Clear,15,57
+3424,Medical,Chief,2,Clear,0,52
+3425,False Alarm,Ladder,2,Clear,12,70
+3426,Medical,Rescue Squad,1,Clear,2,41
+3427,False Alarm,Ladder,2,Clear,11,55
+3428,Medical,Chief,2,Rain,22,86
+3429,Wellness Check,Ladder,2,Clear,8,87
+3430,Traffic Accident,Rescue Squad,2,Clear,3,58
+3431,Wellness Check,Rescue Squad,2,Clear,1,60
+3432,False Alarm,Ladder,3,Rain,21,84
+3433,Medical,Rescue Squad,2,Clear,21,59
+3434,False Alarm,Rescue Squad,2,Clear,8,76
+3435,Medical,Ladder,2,Snow,19,115
+3436,Medical,Chief,3,Clear,23,79
+3437,Medical,Rescue Squad,2,Clear,12,67
+3438,Structure Fire,Rescue Squad,2,Clear,13,74
+3439,Medical,Rescue Squad,1,Storm,2,85
+3440,Structure Fire,Rescue Squad,2,Clear,17,96
+3441,Structure Fire,Ladder,1,Fog,8,93
+3442,Traffic Accident,Chief,2,Clear,14,58
+3443,Wellness Check,Chief,3,Clear,21,86
+3444,Medical,Ambulance,3,Rain,23,75
+3445,Medical,Rescue Squad,2,Clear,9,94
+3446,Medical,Rescue Squad,3,Clear,16,95
+3447,Medical,Ambulance,1,Clear,12,52
+3448,Medical,Chief,3,Fog,0,89
+3449,Medical,Engine,2,Clear,10,58
+3450,Medical,Engine,2,Clear,4,63
+3451,False Alarm,Chief,3,Clear,8,98
+3452,Structure Fire,Rescue Squad,3,Clear,6,90
+3453,Medical,Engine,1,Clear,6,43
+3454,Structure Fire,Ladder,2,Clear,1,73
+3455,Medical,Ladder,1,Clear,18,85
+3456,Medical,Ambulance,3,Rain,19,81
+3457,Traffic Accident,Chief,2,Clear,17,101
+3458,Medical,Chief,1,Clear,9,44
+3459,Medical,Engine,2,Rain,4,76
+3460,False Alarm,Rescue Squad,2,Storm,15,85
+3461,Wellness Check,Chief,2,Rain,22,44
+3462,Traffic Accident,Engine,1,Clear,4,44
+3463,Structure Fire,Engine,1,Rain,14,70
+3464,Traffic Accident,Chief,2,Fog,21,66
+3465,Medical,Engine,1,Clear,15,63
+3466,Medical,Ambulance,2,Clear,3,69
+3467,Medical,Ambulance,2,Clear,13,46
+3468,Medical,Chief,1,Fog,23,47
+3469,Structure Fire,Rescue Squad,2,Clear,16,90
+3470,Medical,Ambulance,2,Clear,16,83
+3471,False Alarm,Ambulance,2,Clear,20,73
+3472,False Alarm,Chief,2,Snow,15,76
+3473,Traffic Accident,Ladder,2,Clear,8,93
+3474,Structure Fire,Engine,2,Rain,1,73
+3475,Wellness Check,Ambulance,3,Snow,10,118
+3476,Medical,Ladder,1,Clear,14,52
+3477,Traffic Accident,Rescue Squad,3,Clear,2,90
+3478,Medical,Ladder,2,Clear,23,74
+3479,Traffic Accident,Chief,3,Fog,15,63
+3480,Medical,Rescue Squad,2,Rain,20,78
+3481,Wellness Check,Rescue Squad,2,Fog,18,66
+3482,False Alarm,Ladder,3,Clear,21,109
+3483,Medical,Chief,1,Clear,5,43
+3484,Medical,Ambulance,1,Clear,13,41
+3485,False Alarm,Ladder,1,Clear,4,58
+3486,Medical,Ambulance,3,Fog,4,73
+3487,Wellness Check,Ladder,2,Clear,5,51
+3488,Structure Fire,Ambulance,2,Clear,17,80
+3489,Medical,Ladder,2,Clear,21,73
+3490,Medical,Rescue Squad,2,Clear,17,98
+3491,Medical,Engine,2,Clear,18,74
+3492,Traffic Accident,Rescue Squad,2,Clear,1,65
+3493,Medical,Ambulance,3,Snow,16,141
+3494,Structure Fire,Chief,1,Clear,0,45
+3495,Medical,Rescue Squad,1,Rain,8,84
+3496,Structure Fire,Engine,2,Clear,12,64
+3497,Wellness Check,Ambulance,2,Rain,3,61
+3498,False Alarm,Rescue Squad,2,Clear,4,70
+3499,Medical,Ladder,2,Fog,22,80
+3500,Wellness Check,Chief,1,Rain,17,55
+3501,Traffic Accident,Ambulance,2,Clear,9,76
+3502,Structure Fire,Rescue Squad,2,Clear,3,58
+3503,False Alarm,Ambulance,1,Clear,12,53
+3504,Medical,Ladder,2,Rain,12,67
+3505,Medical,Engine,2,Clear,16,90
+3506,Wellness Check,Rescue Squad,2,Clear,7,102
+3507,Medical,Ambulance,1,Clear,3,41
+3508,Wellness Check,Ambulance,3,Fog,22,94
+3509,Wellness Check,Ambulance,2,Fog,2,43
+3510,Medical,Engine,1,Clear,10,51
+3511,Wellness Check,Ambulance,2,Clear,11,46
+3512,Medical,Chief,3,Snow,8,129
+3513,Structure Fire,Chief,2,Rain,14,67
+3514,Traffic Accident,Ambulance,3,Clear,12,78
+3515,False Alarm,Chief,1,Clear,4,40
+3516,Medical,Rescue Squad,3,Rain,4,66
+3517,Medical,Chief,2,Clear,18,91
+3518,Traffic Accident,Ambulance,1,Clear,10,44
+3519,Traffic Accident,Ladder,2,Snow,8,110
+3520,Traffic Accident,Rescue Squad,3,Clear,2,95
+3521,Medical,Engine,2,Fog,17,92
+3522,Medical,Ambulance,2,Clear,12,50
+3523,Medical,Engine,1,Fog,11,47
+3524,Wellness Check,Ladder,2,Clear,8,84
+3525,Medical,Engine,1,Rain,9,67
+3526,Medical,Ambulance,1,Clear,12,38
+3527,False Alarm,Ambulance,2,Clear,19,84
+3528,Medical,Ladder,3,Clear,19,78
+3529,False Alarm,Ambulance,2,Rain,12,45
+3530,Traffic Accident,Ladder,1,Clear,21,57
+3531,Wellness Check,Ladder,2,Clear,8,88
+3532,Medical,Ambulance,3,Clear,23,86
+3533,Medical,Chief,2,Clear,9,81
+3534,Traffic Accident,Ladder,2,Rain,18,76
+3535,Wellness Check,Ambulance,3,Storm,5,125
+3536,Traffic Accident,Chief,2,Clear,6,43
+3537,Medical,Ladder,1,Clear,14,58
+3538,Traffic Accident,Chief,2,Storm,21,103
+3539,Traffic Accident,Rescue Squad,3,Rain,18,116
+3540,Traffic Accident,Rescue Squad,2,Rain,13,56
+3541,Traffic Accident,Chief,1,Clear,15,32
+3542,Wellness Check,Ladder,2,Clear,13,84
+3543,Traffic Accident,Ambulance,2,Clear,19,55
+3544,Medical,Engine,3,Clear,1,105
+3545,Medical,Ambulance,2,Snow,8,112
+3546,Medical,Engine,2,Clear,2,65
+3547,Medical,Engine,3,Clear,5,93
+3548,Medical,Ladder,2,Fog,4,81
+3549,Medical,Chief,1,Clear,13,45
+3550,Medical,Ambulance,3,Fog,14,72
+3551,Medical,Chief,2,Clear,17,65
+3552,Wellness Check,Rescue Squad,2,Clear,16,83
+3553,False Alarm,Ladder,2,Clear,8,93
+3554,Medical,Ladder,1,Clear,18,66
+3555,False Alarm,Rescue Squad,3,Clear,22,86
+3556,Structure Fire,Ambulance,2,Clear,8,78
+3557,Medical,Rescue Squad,2,Clear,15,67
+3558,Medical,Ambulance,1,Rain,5,30
+3559,Structure Fire,Engine,2,Clear,7,71
+3560,Traffic Accident,Ladder,3,Clear,2,85
+3561,Traffic Accident,Ambulance,2,Clear,21,78
+3562,Medical,Chief,3,Clear,4,72
+3563,Medical,Chief,2,Clear,6,58
+3564,Medical,Ladder,2,Clear,22,91
+3565,Medical,Rescue Squad,2,Clear,0,64
+3566,Medical,Rescue Squad,3,Clear,21,88
+3567,Medical,Ambulance,2,Clear,20,53
+3568,Wellness Check,Rescue Squad,2,Storm,3,95
+3569,False Alarm,Ladder,2,Clear,15,83
+3570,Medical,Ambulance,1,Clear,13,50
+3571,False Alarm,Engine,2,Fog,0,69
+3572,Medical,Rescue Squad,3,Fog,3,85
+3573,Medical,Rescue Squad,1,Fog,9,58
+3574,Medical,Ambulance,1,Clear,10,55
+3575,Traffic Accident,Chief,1,Rain,6,36
+3576,False Alarm,Rescue Squad,2,Snow,3,82
+3577,Traffic Accident,Ladder,2,Snow,0,126
+3578,Medical,Rescue Squad,1,Clear,0,55
+3579,Traffic Accident,Engine,2,Clear,16,71
+3580,Medical,Rescue Squad,2,Storm,9,118
+3581,Wellness Check,Chief,2,Clear,4,66
+3582,Structure Fire,Rescue Squad,2,Clear,6,42
+3583,Medical,Ambulance,2,Clear,7,90
+3584,Structure Fire,Rescue Squad,2,Clear,1,61
+3585,Traffic Accident,Chief,1,Clear,8,82
+3586,Medical,Ambulance,1,Clear,3,37
+3587,Traffic Accident,Ladder,2,Storm,11,91
+3588,Medical,Ambulance,2,Clear,10,70
+3589,Traffic Accident,Engine,2,Clear,4,67
+3590,Wellness Check,Ambulance,1,Snow,11,62
+3591,Wellness Check,Ladder,1,Clear,20,60
+3592,Structure Fire,Rescue Squad,3,Clear,3,64
+3593,Structure Fire,Ambulance,2,Clear,12,74
+3594,Medical,Ambulance,2,Clear,21,61
+3595,Traffic Accident,Ambulance,3,Clear,0,71
+3596,Medical,Ambulance,2,Rain,17,93
+3597,Medical,Ladder,2,Fog,3,81
+3598,Medical,Chief,2,Rain,3,60
+3599,Medical,Chief,1,Clear,7,89
+3600,Traffic Accident,Ambulance,2,Clear,19,82
+3601,Medical,Ladder,2,Clear,5,73
+3602,Traffic Accident,Ladder,2,Clear,3,80
+3603,Medical,Ambulance,2,Clear,3,73
+3604,Medical,Engine,2,Fog,10,58
+3605,Structure Fire,Ambulance,1,Clear,8,72
+3606,Medical,Engine,1,Clear,13,48
+3607,Medical,Ambulance,1,Clear,3,36
+3608,Traffic Accident,Engine,1,Clear,12,56
+3609,Medical,Engine,2,Rain,5,71
+3610,Wellness Check,Ambulance,2,Fog,12,43
+3611,Medical,Engine,1,Clear,2,58
+3612,Medical,Rescue Squad,3,Clear,22,77
+3613,Traffic Accident,Chief,3,Storm,6,133
+3614,Medical,Ladder,2,Rain,0,81
+3615,Medical,Engine,2,Storm,10,89
+3616,Medical,Engine,2,Clear,1,83
+3617,Medical,Ladder,1,Clear,4,60
+3618,Wellness Check,Engine,3,Clear,23,87
+3619,Medical,Ladder,1,Clear,21,49
+3620,Traffic Accident,Ambulance,3,Rain,13,68
+3621,Wellness Check,Rescue Squad,2,Clear,12,47
+3622,Medical,Rescue Squad,2,Clear,15,41
+3623,False Alarm,Chief,2,Clear,22,60
+3624,Medical,Engine,2,Snow,14,92
+3625,False Alarm,Chief,1,Clear,2,36
+3626,Medical,Ambulance,2,Clear,5,66
+3627,Traffic Accident,Rescue Squad,2,Rain,8,104
+3628,Medical,Ambulance,2,Clear,2,48
+3629,Medical,Ambulance,1,Clear,12,51
+3630,Traffic Accident,Engine,2,Clear,12,66
+3631,Traffic Accident,Ambulance,3,Fog,21,74
+3632,Medical,Rescue Squad,2,Rain,6,61
+3633,Medical,Chief,2,Rain,4,53
+3634,Traffic Accident,Rescue Squad,3,Storm,7,115
+3635,Traffic Accident,Engine,2,Storm,7,125
+3636,False Alarm,Rescue Squad,2,Rain,21,71
+3637,Traffic Accident,Ladder,3,Clear,6,103
+3638,False Alarm,Chief,2,Rain,18,73
+3639,Traffic Accident,Ladder,1,Clear,6,52
+3640,Medical,Ladder,1,Storm,22,89
+3641,Medical,Engine,2,Rain,3,68
+3642,Traffic Accident,Ambulance,1,Clear,9,77
+3643,Traffic Accident,Ladder,3,Clear,12,99
+3644,Medical,Rescue Squad,1,Clear,3,55
+3645,Medical,Ambulance,2,Clear,18,84
+3646,False Alarm,Rescue Squad,1,Clear,9,50
+3647,Structure Fire,Rescue Squad,2,Clear,6,58
+3648,Medical,Ambulance,3,Clear,4,74
+3649,Medical,Ambulance,2,Rain,2,67
+3650,Medical,Rescue Squad,3,Clear,21,95
+3651,Medical,Engine,1,Clear,21,70
+3652,Medical,Chief,1,Clear,21,53
+3653,Medical,Chief,3,Fog,1,70
+3654,Traffic Accident,Engine,3,Clear,10,104
+3655,Medical,Ambulance,3,Clear,9,112
+3656,Wellness Check,Rescue Squad,2,Clear,22,51
+3657,Wellness Check,Chief,2,Clear,12,68
+3658,Medical,Rescue Squad,1,Clear,6,42
+3659,Traffic Accident,Engine,3,Clear,9,95
+3660,Medical,Rescue Squad,2,Clear,3,50
+3661,Wellness Check,Engine,2,Rain,21,69
+3662,Medical,Ambulance,2,Rain,19,58
+3663,Traffic Accident,Engine,1,Clear,15,44
+3664,Traffic Accident,Engine,3,Rain,19,97
+3665,Medical,Chief,1,Clear,5,50
+3666,Medical,Rescue Squad,2,Clear,8,66
+3667,Traffic Accident,Chief,2,Clear,12,86
+3668,Traffic Accident,Ladder,2,Clear,6,57
+3669,Medical,Engine,2,Clear,17,90
+3670,Traffic Accident,Ladder,1,Rain,13,58
+3671,Medical,Chief,2,Fog,21,55
+3672,Traffic Accident,Rescue Squad,2,Clear,4,74
+3673,Medical,Chief,2,Clear,21,58
+3674,Wellness Check,Rescue Squad,1,Clear,12,35
+3675,Medical,Rescue Squad,1,Clear,23,51
+3676,Medical,Ambulance,1,Clear,7,32
+3677,Medical,Engine,2,Storm,14,107
+3678,Medical,Chief,1,Clear,18,75
+3679,Structure Fire,Rescue Squad,3,Rain,8,72
+3680,Medical,Chief,2,Clear,5,55
+3681,Wellness Check,Chief,2,Snow,22,71
+3682,Medical,Rescue Squad,3,Fog,13,80
+3683,Medical,Ladder,1,Rain,22,77
+3684,Medical,Engine,3,Fog,9,109
+3685,Medical,Engine,2,Clear,8,92
+3686,Medical,Ambulance,3,Clear,16,76
+3687,Medical,Ambulance,3,Rain,12,68
+3688,Medical,Ambulance,1,Clear,16,60
+3689,Medical,Engine,2,Fog,18,86
+3690,Structure Fire,Ladder,2,Clear,12,73
+3691,Structure Fire,Engine,2,Clear,8,104
+3692,Medical,Engine,1,Clear,0,45
+3693,Medical,Engine,1,Fog,0,55
+3694,False Alarm,Engine,2,Fog,4,65
+3695,Structure Fire,Ladder,2,Clear,7,75
+3696,Traffic Accident,Ambulance,3,Clear,17,91
+3697,Medical,Chief,2,Rain,3,65
+3698,Traffic Accident,Ambulance,2,Rain,21,34
+3699,Traffic Accident,Ambulance,1,Clear,0,30
+3700,Structure Fire,Chief,1,Rain,14,76
+3701,False Alarm,Engine,2,Clear,19,63
+3702,Medical,Ladder,3,Clear,3,104
+3703,Medical,Ladder,2,Clear,8,91
+3704,Traffic Accident,Ambulance,2,Rain,21,54
+3705,Wellness Check,Chief,3,Snow,23,127
+3706,Medical,Rescue Squad,3,Rain,19,80
+3707,Medical,Engine,1,Rain,9,80
+3708,Medical,Ambulance,1,Clear,23,44
+3709,Medical,Ladder,2,Rain,14,73
+3710,Traffic Accident,Chief,2,Clear,2,53
+3711,Structure Fire,Chief,3,Rain,1,75
+3712,Medical,Ambulance,1,Clear,21,35
+3713,Medical,Rescue Squad,1,Rain,4,32
+3714,Medical,Ladder,3,Rain,23,108
+3715,Medical,Ambulance,2,Rain,0,50
+3716,Traffic Accident,Rescue Squad,3,Rain,10,89
+3717,False Alarm,Chief,2,Clear,11,56
+3718,Wellness Check,Engine,2,Snow,2,113
+3719,Medical,Ladder,1,Clear,22,54
+3720,Wellness Check,Ladder,1,Storm,15,63
+3721,Traffic Accident,Rescue Squad,2,Rain,13,60
+3722,Traffic Accident,Ambulance,2,Clear,11,66
+3723,Medical,Chief,1,Snow,19,73
+3724,Medical,Rescue Squad,3,Clear,15,103
+3725,Medical,Engine,1,Storm,20,89
+3726,Medical,Engine,2,Rain,7,96
+3727,Medical,Engine,1,Clear,16,87
+3728,Medical,Rescue Squad,3,Clear,16,81
+3729,Medical,Chief,1,Clear,6,52
+3730,Traffic Accident,Ladder,2,Snow,14,114
+3731,Medical,Ambulance,1,Rain,8,68
+3732,Medical,Ladder,2,Clear,3,67
+3733,False Alarm,Chief,2,Rain,7,75
+3734,False Alarm,Ladder,1,Clear,9,70
+3735,Traffic Accident,Rescue Squad,1,Clear,14,31
+3736,False Alarm,Engine,3,Clear,22,85
+3737,Structure Fire,Chief,3,Clear,17,93
+3738,False Alarm,Chief,1,Clear,13,43
+3739,Medical,Ladder,1,Clear,4,57
+3740,Medical,Rescue Squad,1,Clear,8,49
+3741,Medical,Ladder,1,Fog,12,47
+3742,Medical,Ladder,3,Clear,18,111
+3743,Medical,Chief,2,Clear,10,53
+3744,Traffic Accident,Ladder,2,Clear,11,70
+3745,Traffic Accident,Engine,3,Clear,2,91
+3746,Structure Fire,Ladder,2,Clear,1,65
+3747,Medical,Engine,2,Clear,22,63
+3748,Wellness Check,Chief,2,Rain,21,59
+3749,Traffic Accident,Rescue Squad,2,Rain,14,74
+3750,Medical,Engine,2,Clear,4,55
+3751,Traffic Accident,Rescue Squad,1,Clear,6,56
+3752,Medical,Rescue Squad,1,Clear,3,30
+3753,Medical,Engine,1,Clear,4,58
+3754,False Alarm,Chief,1,Rain,15,55
+3755,Medical,Ambulance,2,Snow,14,84
+3756,Medical,Rescue Squad,2,Rain,15,63
+3757,Wellness Check,Rescue Squad,2,Clear,3,49
+3758,Traffic Accident,Chief,1,Fog,5,56
+3759,Medical,Chief,2,Clear,17,67
+3760,Medical,Ladder,1,Clear,2,46
+3761,Medical,Chief,2,Clear,21,61
+3762,Traffic Accident,Rescue Squad,2,Rain,23,67
+3763,Medical,Engine,1,Snow,4,83
+3764,Medical,Ambulance,2,Clear,1,64
+3765,False Alarm,Ladder,2,Clear,22,64
+3766,Structure Fire,Engine,1,Rain,15,44
+3767,Medical,Ambulance,1,Fog,5,59
+3768,Structure Fire,Ambulance,3,Clear,14,84
+3769,Traffic Accident,Ambulance,1,Snow,17,86
+3770,Medical,Engine,3,Clear,5,73
+3771,Medical,Ladder,2,Rain,12,82
+3772,Wellness Check,Ladder,1,Clear,23,67
+3773,Medical,Ambulance,1,Clear,12,42
+3774,Structure Fire,Engine,2,Rain,0,63
+3775,Medical,Ambulance,2,Fog,15,57
+3776,Medical,Chief,2,Clear,3,57
+3777,Medical,Ladder,3,Clear,16,116
+3778,Medical,Rescue Squad,3,Clear,17,88
+3779,Medical,Ambulance,1,Clear,15,39
+3780,Medical,Chief,3,Rain,0,78
+3781,Wellness Check,Ladder,3,Clear,5,92
+3782,False Alarm,Engine,3,Rain,10,98
+3783,Traffic Accident,Ladder,2,Clear,5,73
+3784,Wellness Check,Engine,2,Storm,16,137
+3785,Medical,Engine,2,Clear,3,60
+3786,False Alarm,Ambulance,2,Clear,13,74
+3787,Medical,Ambulance,3,Clear,13,70
+3788,False Alarm,Ladder,1,Snow,19,91
+3789,False Alarm,Chief,1,Clear,7,66
+3790,Traffic Accident,Ladder,3,Clear,21,101
+3791,False Alarm,Rescue Squad,1,Fog,1,41
+3792,Structure Fire,Engine,3,Fog,4,93
+3793,Medical,Engine,2,Snow,3,98
+3794,Medical,Ambulance,1,Clear,9,48
+3795,Structure Fire,Chief,2,Clear,19,59
+3796,Medical,Ambulance,2,Rain,23,47
+3797,Traffic Accident,Rescue Squad,2,Clear,20,72
+3798,False Alarm,Ladder,3,Clear,2,102
+3799,Medical,Ladder,3,Clear,15,81
+3800,Traffic Accident,Chief,2,Storm,9,102
+3801,False Alarm,Ambulance,1,Clear,14,38
+3802,False Alarm,Ambulance,3,Rain,3,85
+3803,False Alarm,Rescue Squad,2,Clear,0,65
+3804,Structure Fire,Ladder,1,Rain,21,89
+3805,False Alarm,Ambulance,3,Rain,14,76
+3806,Traffic Accident,Chief,3,Clear,9,103
+3807,Medical,Ladder,2,Clear,19,89
+3808,Medical,Rescue Squad,2,Rain,21,62
+3809,Traffic Accident,Chief,2,Clear,17,76
+3810,Medical,Engine,2,Rain,15,73
+3811,Traffic Accident,Rescue Squad,3,Rain,20,87
+3812,Traffic Accident,Chief,3,Clear,8,106
+3813,Medical,Ambulance,2,Clear,23,67
+3814,Structure Fire,Engine,2,Clear,18,101
+3815,Traffic Accident,Rescue Squad,3,Rain,16,102
+3816,Medical,Ambulance,1,Clear,9,75
+3817,Medical,Engine,1,Storm,18,118
+3818,Medical,Ladder,3,Storm,7,155
+3819,Medical,Ambulance,1,Clear,18,61
+3820,False Alarm,Chief,1,Clear,4,30
+3821,Medical,Rescue Squad,1,Clear,1,48
+3822,Traffic Accident,Engine,2,Storm,14,116
+3823,Medical,Ambulance,1,Clear,16,72
+3824,Medical,Ladder,2,Clear,9,79
+3825,Wellness Check,Rescue Squad,3,Rain,20,82
+3826,Traffic Accident,Rescue Squad,2,Clear,20,51
+3827,Medical,Ambulance,2,Clear,21,70
+3828,Medical,Ladder,1,Clear,1,52
+3829,Medical,Engine,2,Rain,8,75
+3830,Medical,Ambulance,2,Clear,1,65
+3831,Traffic Accident,Engine,2,Clear,17,96
+3832,Medical,Rescue Squad,1,Fog,11,42
+3833,Medical,Engine,2,Clear,14,59
+3834,Medical,Ladder,3,Rain,20,107
+3835,False Alarm,Chief,2,Clear,19,55
+3836,False Alarm,Ladder,2,Clear,5,78
+3837,Medical,Engine,2,Clear,17,93
+3838,Traffic Accident,Ambulance,2,Clear,12,66
+3839,Medical,Rescue Squad,2,Clear,3,60
+3840,Medical,Chief,1,Clear,11,45
+3841,Traffic Accident,Ambulance,2,Clear,8,77
+3842,False Alarm,Ambulance,3,Clear,1,85
+3843,False Alarm,Ladder,2,Clear,15,84
+3844,Structure Fire,Engine,1,Clear,0,44
+3845,Medical,Ladder,1,Clear,3,46
+3846,Traffic Accident,Engine,2,Rain,14,99
+3847,Medical,Ladder,3,Clear,19,79
+3848,Structure Fire,Ambulance,2,Clear,0,54
+3849,Medical,Rescue Squad,2,Snow,19,99
+3850,Traffic Accident,Engine,1,Clear,14,69
+3851,Medical,Chief,2,Clear,2,35
+3852,Medical,Chief,2,Clear,12,67
+3853,False Alarm,Ambulance,3,Fog,17,100
+3854,Medical,Ladder,2,Clear,12,68
+3855,Structure Fire,Ladder,2,Snow,9,149
+3856,Medical,Ambulance,2,Rain,19,56
+3857,Medical,Chief,2,Clear,23,54
+3858,Medical,Chief,3,Rain,6,76
+3859,Medical,Ladder,1,Clear,7,80
+3860,Wellness Check,Engine,2,Clear,0,73
+3861,Medical,Rescue Squad,2,Clear,17,100
+3862,False Alarm,Engine,2,Rain,11,74
+3863,Structure Fire,Chief,1,Clear,17,69
+3864,Medical,Engine,2,Clear,23,75
+3865,Structure Fire,Rescue Squad,2,Rain,11,67
+3866,Structure Fire,Engine,3,Rain,19,95
+3867,Traffic Accident,Engine,1,Storm,8,96
+3868,Medical,Engine,3,Clear,1,94
+3869,Medical,Engine,1,Clear,13,33
+3870,Wellness Check,Ambulance,1,Clear,3,60
+3871,False Alarm,Chief,1,Rain,14,60
+3872,Wellness Check,Rescue Squad,3,Clear,16,113
+3873,Medical,Chief,1,Fog,18,78
+3874,Traffic Accident,Ambulance,2,Clear,5,59
+3875,Medical,Ambulance,2,Fog,8,79
+3876,Medical,Ambulance,3,Rain,16,93
+3877,Medical,Ambulance,3,Fog,14,90
+3878,Structure Fire,Engine,2,Clear,4,62
+3879,Medical,Chief,3,Clear,17,95
+3880,Medical,Ladder,2,Clear,22,72
+3881,Wellness Check,Rescue Squad,3,Clear,3,79
+3882,Medical,Ambulance,1,Clear,20,47
+3883,Medical,Chief,1,Rain,23,30
+3884,Medical,Ambulance,2,Clear,1,57
+3885,False Alarm,Ambulance,2,Fog,18,93
+3886,Structure Fire,Ambulance,2,Clear,4,55
+3887,Medical,Ambulance,2,Clear,3,51
+3888,Wellness Check,Ambulance,2,Clear,4,69
+3889,Wellness Check,Rescue Squad,2,Rain,18,78
+3890,Medical,Chief,1,Clear,12,46
+3891,Traffic Accident,Ambulance,3,Fog,15,77
+3892,Traffic Accident,Ambulance,3,Clear,11,79
+3893,Traffic Accident,Ambulance,3,Fog,8,115
+3894,Medical,Ambulance,2,Clear,23,65
+3895,Wellness Check,Engine,2,Clear,15,57
+3896,Structure Fire,Engine,3,Rain,13,86
+3897,Medical,Ladder,3,Snow,21,116
+3898,Medical,Ambulance,2,Clear,0,62
+3899,Medical,Ladder,2,Fog,19,79
+3900,Medical,Rescue Squad,2,Clear,22,60
+3901,Traffic Accident,Ladder,2,Rain,20,70
+3902,Medical,Chief,1,Clear,3,30
+3903,Medical,Engine,2,Clear,8,111
+3904,Structure Fire,Engine,3,Clear,23,88
+3905,Medical,Ambulance,2,Fog,18,82
+3906,False Alarm,Ambulance,2,Storm,13,89
+3907,Medical,Rescue Squad,2,Clear,21,52
+3908,Medical,Rescue Squad,3,Fog,11,77
+3909,Medical,Chief,2,Clear,3,52
+3910,Medical,Ambulance,2,Rain,6,73
+3911,Medical,Ambulance,2,Clear,16,58
+3912,Traffic Accident,Rescue Squad,2,Clear,0,50
+3913,False Alarm,Rescue Squad,2,Clear,13,56
+3914,Medical,Rescue Squad,2,Clear,14,74
+3915,Traffic Accident,Engine,2,Clear,11,77
+3916,Traffic Accident,Ladder,2,Snow,11,78
+3917,Wellness Check,Ladder,1,Clear,5,53
+3918,Medical,Ambulance,1,Fog,12,52
+3919,Medical,Engine,1,Snow,15,110
+3920,Medical,Rescue Squad,3,Clear,13,76
+3921,Traffic Accident,Ambulance,1,Clear,6,33
+3922,Wellness Check,Engine,1,Rain,15,58
+3923,Medical,Chief,1,Fog,22,44
+3924,Medical,Engine,2,Storm,8,125
+3925,False Alarm,Ambulance,1,Rain,13,51
+3926,Wellness Check,Ladder,2,Clear,23,73
+3927,False Alarm,Rescue Squad,1,Rain,6,50
+3928,Traffic Accident,Chief,3,Clear,11,96
+3929,Medical,Engine,3,Clear,2,87
+3930,Structure Fire,Ambulance,3,Rain,13,67
+3931,Traffic Accident,Ambulance,2,Fog,18,81
+3932,Medical,Rescue Squad,2,Storm,10,82
+3933,Structure Fire,Ambulance,2,Clear,4,48
+3934,Traffic Accident,Ambulance,2,Rain,22,51
+3935,Medical,Rescue Squad,2,Fog,12,47
+3936,Traffic Accident,Chief,1,Rain,9,73
+3937,Structure Fire,Ladder,2,Clear,6,70
+3938,False Alarm,Ladder,1,Rain,16,91
+3939,Medical,Engine,2,Clear,15,75
+3940,Medical,Chief,2,Rain,7,79
+3941,Traffic Accident,Engine,2,Rain,16,106
+3942,Medical,Ladder,3,Snow,12,124
+3943,Traffic Accident,Rescue Squad,2,Clear,10,58
+3944,Traffic Accident,Ambulance,2,Clear,19,52
+3945,Medical,Ladder,2,Clear,17,109
+3946,Structure Fire,Chief,1,Clear,4,43
+3947,Structure Fire,Ladder,2,Storm,5,116
+3948,Medical,Chief,3,Clear,19,74
+3949,False Alarm,Chief,3,Clear,13,88
+3950,Wellness Check,Chief,2,Fog,11,67
+3951,Traffic Accident,Engine,1,Clear,3,38
+3952,Traffic Accident,Rescue Squad,1,Snow,6,67
+3953,Medical,Ladder,2,Clear,10,71
+3954,False Alarm,Rescue Squad,3,Clear,19,77
+3955,Traffic Accident,Ambulance,2,Fog,1,73
+3956,Traffic Accident,Ladder,3,Clear,3,77
+3957,Wellness Check,Rescue Squad,2,Clear,6,55
+3958,Medical,Rescue Squad,1,Clear,0,36
+3959,Wellness Check,Ambulance,1,Clear,14,55
+3960,Medical,Chief,1,Fog,19,34
+3961,Medical,Ladder,2,Rain,21,51
+3962,Medical,Ladder,1,Clear,23,59
+3963,False Alarm,Ambulance,2,Rain,7,83
+3964,Wellness Check,Chief,2,Rain,4,70
+3965,Traffic Accident,Ladder,2,Fog,13,78
+3966,Traffic Accident,Ladder,1,Clear,17,73
+3967,Structure Fire,Ladder,1,Fog,2,40
+3968,False Alarm,Chief,2,Clear,1,48
+3969,Medical,Ambulance,2,Rain,21,42
+3970,Medical,Ladder,2,Storm,15,108
+3971,Medical,Rescue Squad,3,Clear,13,73
+3972,Traffic Accident,Chief,2,Clear,15,58
+3973,Traffic Accident,Engine,2,Clear,10,71
+3974,Medical,Ambulance,2,Clear,16,108
+3975,Medical,Rescue Squad,3,Clear,2,85
+3976,Wellness Check,Ladder,2,Rain,22,70
+3977,Medical,Engine,2,Clear,22,54
+3978,Traffic Accident,Ambulance,2,Clear,4,60
+3979,False Alarm,Chief,2,Clear,2,68
+3980,Medical,Engine,2,Clear,14,73
+3981,Medical,Engine,2,Clear,22,59
+3982,Traffic Accident,Rescue Squad,3,Rain,4,76
+3983,Wellness Check,Ambulance,3,Clear,21,80
+3984,Structure Fire,Rescue Squad,1,Storm,2,83
+3985,False Alarm,Rescue Squad,1,Clear,5,38
+3986,Medical,Ladder,1,Fog,22,33
+3987,Structure Fire,Chief,2,Clear,13,52
+3988,Traffic Accident,Engine,2,Rain,23,72
+3989,Wellness Check,Ambulance,1,Rain,1,53
+3990,Medical,Chief,1,Snow,17,89
+3991,Wellness Check,Chief,2,Rain,5,70
+3992,Structure Fire,Ambulance,1,Storm,23,73
+3993,Medical,Chief,1,Rain,4,36
+3994,Medical,Ladder,2,Rain,13,65
+3995,Wellness Check,Chief,1,Fog,16,66
+3996,Medical,Ladder,1,Rain,10,52
+3997,Medical,Engine,3,Clear,0,83
+3998,Medical,Engine,3,Clear,9,90
+3999,Wellness Check,Rescue Squad,2,Fog,8,71
+4000,Traffic Accident,Ladder,1,Clear,19,51
+4001,Traffic Accident,Engine,2,Rain,11,64
+4002,Medical,Chief,2,Clear,0,50
+4003,Traffic Accident,Ambulance,1,Clear,23,60
+4004,Structure Fire,Ambulance,1,Rain,17,80
+4005,Wellness Check,Ladder,1,Clear,11,76
+4006,False Alarm,Rescue Squad,2,Clear,1,43
+4007,Medical,Chief,3,Clear,0,83
+4008,Traffic Accident,Ladder,2,Clear,0,65
+4009,Medical,Ambulance,2,Rain,0,60
+4010,Structure Fire,Ladder,2,Clear,21,88
+4011,Medical,Chief,2,Rain,11,42
+4012,Medical,Engine,2,Clear,6,64
+4013,Medical,Chief,1,Storm,3,71
+4014,Traffic Accident,Engine,2,Clear,20,64
+4015,Medical,Engine,3,Clear,19,68
+4016,Traffic Accident,Engine,2,Clear,3,82
+4017,Medical,Ladder,3,Clear,14,103
+4018,Medical,Ambulance,2,Clear,0,65
+4019,Traffic Accident,Ladder,2,Snow,5,92
+4020,Medical,Ambulance,1,Clear,13,47
+4021,Medical,Chief,2,Clear,13,68
+4022,Traffic Accident,Rescue Squad,3,Clear,9,105
+4023,Medical,Chief,2,Fog,6,59
+4024,Medical,Ladder,1,Clear,22,69
+4025,Medical,Ladder,1,Clear,23,47
+4026,False Alarm,Ambulance,2,Clear,22,58
+4027,Traffic Accident,Ladder,2,Rain,21,76
+4028,Traffic Accident,Engine,2,Snow,11,109
+4029,Traffic Accident,Ladder,3,Clear,23,95
+4030,Medical,Ambulance,2,Clear,18,94
+4031,Medical,Ambulance,2,Clear,8,89
+4032,Traffic Accident,Engine,1,Rain,2,51
+4033,Medical,Ambulance,1,Clear,3,38
+4034,Medical,Rescue Squad,2,Fog,12,61
+4035,Medical,Chief,3,Clear,9,111
+4036,Medical,Ladder,2,Clear,13,69
+4037,False Alarm,Rescue Squad,2,Clear,5,65
+4038,Medical,Ladder,1,Snow,7,118
+4039,Structure Fire,Rescue Squad,3,Rain,18,121
+4040,Medical,Ladder,3,Storm,9,140
+4041,False Alarm,Engine,2,Clear,21,76
+4042,Medical,Ambulance,1,Clear,4,37
+4043,Medical,Ambulance,2,Clear,4,48
+4044,Traffic Accident,Engine,3,Clear,4,89
+4045,Traffic Accident,Rescue Squad,2,Clear,8,88
+4046,Medical,Chief,2,Clear,22,66
+4047,Medical,Rescue Squad,1,Clear,8,52
+4048,Medical,Ambulance,1,Clear,14,52
+4049,Medical,Chief,1,Rain,8,49
+4050,Medical,Ladder,3,Clear,13,98
+4051,Medical,Chief,2,Snow,5,93
+4052,Medical,Rescue Squad,2,Clear,21,58
+4053,Medical,Engine,1,Snow,19,91
+4054,Traffic Accident,Ladder,3,Clear,7,116
+4055,False Alarm,Rescue Squad,3,Clear,1,81
+4056,Traffic Accident,Ladder,1,Storm,4,62
+4057,Medical,Chief,3,Clear,16,104
+4058,Medical,Ambulance,1,Rain,9,74
+4059,False Alarm,Rescue Squad,1,Rain,13,31
+4060,Medical,Engine,1,Clear,17,90
+4061,Medical,Chief,3,Rain,0,59
+4062,Structure Fire,Rescue Squad,3,Fog,21,68
+4063,Traffic Accident,Engine,2,Clear,1,66
+4064,Traffic Accident,Rescue Squad,2,Rain,3,61
+4065,Medical,Chief,2,Rain,12,54
+4066,Medical,Rescue Squad,3,Clear,15,73
+4067,False Alarm,Ladder,1,Clear,4,66
+4068,Medical,Chief,2,Clear,22,71
+4069,Traffic Accident,Rescue Squad,2,Rain,9,85
+4070,Traffic Accident,Ambulance,1,Snow,16,86
+4071,Traffic Accident,Rescue Squad,2,Rain,10,57
+4072,Medical,Ladder,2,Clear,4,92
+4073,Medical,Engine,1,Clear,14,55
+4074,Structure Fire,Engine,3,Snow,3,129
+4075,Wellness Check,Engine,1,Clear,6,62
+4076,False Alarm,Ambulance,3,Snow,9,135
+4077,Medical,Ladder,1,Rain,22,48
+4078,Medical,Chief,1,Clear,23,52
+4079,False Alarm,Engine,1,Clear,3,47
+4080,Traffic Accident,Ladder,2,Clear,19,66
+4081,Wellness Check,Rescue Squad,2,Rain,4,66
+4082,Medical,Ambulance,1,Fog,4,42
+4083,Structure Fire,Ladder,1,Rain,10,51
+4084,Traffic Accident,Ladder,2,Clear,18,85
+4085,Traffic Accident,Chief,2,Clear,4,53
+4086,Medical,Ladder,2,Rain,20,74
+4087,Medical,Chief,1,Clear,7,63
+4088,Structure Fire,Ambulance,2,Rain,6,46
+4089,Medical,Ambulance,2,Clear,7,75
+4090,Medical,Rescue Squad,3,Clear,12,76
+4091,False Alarm,Chief,2,Clear,4,56
+4092,Medical,Chief,1,Clear,17,67
+4093,Wellness Check,Engine,1,Rain,23,47
+4094,Medical,Engine,2,Clear,8,124
+4095,Traffic Accident,Rescue Squad,2,Fog,1,73
+4096,False Alarm,Ambulance,3,Clear,15,93
+4097,Medical,Engine,2,Clear,13,59
+4098,Medical,Ladder,2,Clear,16,77
+4099,Medical,Ambulance,2,Clear,5,56
+4100,Medical,Ladder,2,Clear,2,72
+4101,Traffic Accident,Chief,1,Storm,16,97
+4102,False Alarm,Ambulance,1,Clear,12,39
+4103,Medical,Rescue Squad,2,Clear,5,42
+4104,Medical,Chief,1,Clear,7,62
+4105,Medical,Chief,1,Clear,5,42
+4106,Traffic Accident,Ladder,1,Clear,15,50
+4107,Medical,Chief,1,Fog,5,39
+4108,Structure Fire,Engine,1,Clear,16,73
+4109,Traffic Accident,Ambulance,2,Clear,20,76
+4110,Traffic Accident,Engine,2,Storm,2,110
+4111,Medical,Ladder,2,Clear,22,79
+4112,Traffic Accident,Ladder,2,Clear,11,72
+4113,Medical,Ambulance,3,Clear,5,66
+4114,Medical,Chief,1,Clear,20,52
+4115,Wellness Check,Rescue Squad,2,Clear,6,73
+4116,Traffic Accident,Ladder,1,Snow,10,102
+4117,Medical,Ambulance,2,Snow,8,127
+4118,Medical,Rescue Squad,3,Rain,15,80
+4119,Medical,Chief,2,Clear,4,59
+4120,Medical,Ladder,2,Snow,14,103
+4121,Medical,Ambulance,2,Clear,20,43
+4122,Medical,Ambulance,2,Clear,3,66
+4123,Medical,Ambulance,1,Clear,4,40
+4124,Traffic Accident,Ladder,2,Clear,6,92
+4125,Traffic Accident,Rescue Squad,2,Fog,2,56
+4126,Traffic Accident,Ambulance,2,Rain,3,61
+4127,Medical,Chief,1,Rain,14,46
+4128,False Alarm,Ambulance,3,Rain,1,73
+4129,Wellness Check,Rescue Squad,1,Rain,23,49
+4130,Wellness Check,Ladder,1,Clear,4,58
+4131,Wellness Check,Ambulance,2,Clear,6,70
+4132,False Alarm,Ambulance,1,Snow,21,80
+4133,Structure Fire,Chief,2,Clear,16,80
+4134,Medical,Chief,2,Storm,7,105
+4135,Traffic Accident,Ambulance,2,Clear,8,75
+4136,Traffic Accident,Ambulance,2,Clear,9,97
+4137,Traffic Accident,Chief,2,Clear,10,60
+4138,Structure Fire,Rescue Squad,3,Snow,0,141
+4139,Medical,Engine,2,Clear,14,61
+4140,Medical,Engine,2,Rain,7,108
+4141,False Alarm,Ambulance,3,Clear,18,94
+4142,Structure Fire,Chief,1,Rain,11,40
+4143,Structure Fire,Ladder,2,Clear,5,74
+4144,Medical,Ladder,1,Clear,9,88
+4145,Medical,Engine,1,Clear,23,61
+4146,Wellness Check,Rescue Squad,1,Clear,4,30
+4147,Traffic Accident,Engine,2,Clear,23,64
+4148,Traffic Accident,Ambulance,2,Rain,6,48
+4149,Medical,Rescue Squad,1,Clear,6,31
+4150,Traffic Accident,Ladder,3,Clear,22,89
+4151,Medical,Chief,2,Clear,21,38
+4152,Traffic Accident,Chief,3,Clear,21,89
+4153,Medical,Ambulance,3,Clear,8,108
+4154,Medical,Engine,2,Clear,14,86
+4155,Traffic Accident,Ambulance,3,Clear,5,69
+4156,False Alarm,Chief,2,Clear,15,50
+4157,Medical,Ladder,3,Clear,6,100
+4158,Wellness Check,Chief,1,Rain,14,56
+4159,Medical,Rescue Squad,2,Clear,22,73
+4160,Medical,Chief,2,Clear,1,71
+4161,Medical,Chief,2,Clear,7,83
+4162,Medical,Rescue Squad,3,Clear,11,75
+4163,Structure Fire,Engine,3,Clear,10,97
+4164,Medical,Chief,1,Rain,5,40
+4165,Medical,Ambulance,3,Clear,19,81
+4166,False Alarm,Chief,1,Storm,12,81
+4167,Medical,Ambulance,2,Clear,22,62
+4168,Traffic Accident,Rescue Squad,2,Rain,15,72
+4169,Medical,Chief,1,Rain,7,60
+4170,Traffic Accident,Rescue Squad,2,Clear,16,83
+4171,Medical,Rescue Squad,2,Clear,12,58
+4172,Medical,Engine,1,Clear,3,43
+4173,Medical,Chief,2,Fog,19,66
+4174,Medical,Ambulance,2,Clear,9,89
+4175,Medical,Ambulance,2,Clear,21,59
+4176,Traffic Accident,Chief,1,Clear,19,48
+4177,Wellness Check,Engine,3,Clear,15,75
+4178,Wellness Check,Engine,3,Fog,16,128
+4179,Traffic Accident,Engine,1,Rain,7,76
+4180,Medical,Ambulance,1,Clear,10,41
+4181,Medical,Rescue Squad,3,Clear,4,88
+4182,Medical,Engine,2,Clear,20,76
+4183,Medical,Ambulance,1,Snow,15,100
+4184,Structure Fire,Ambulance,2,Fog,23,50
+4185,Structure Fire,Rescue Squad,2,Clear,7,73
+4186,Medical,Chief,2,Clear,20,48
+4187,Medical,Chief,1,Fog,15,46
+4188,Wellness Check,Engine,2,Clear,3,67
+4189,Traffic Accident,Engine,1,Clear,5,48
+4190,Medical,Rescue Squad,3,Clear,20,79
+4191,False Alarm,Engine,2,Clear,7,89
+4192,False Alarm,Rescue Squad,2,Clear,8,94
+4193,Medical,Ambulance,2,Storm,12,76
+4194,Medical,Engine,2,Clear,16,83
+4195,Structure Fire,Ambulance,3,Clear,8,80
+4196,False Alarm,Ladder,1,Clear,12,38
+4197,Wellness Check,Rescue Squad,3,Rain,8,91
+4198,Medical,Ladder,1,Clear,5,51
+4199,Medical,Engine,2,Clear,9,105
+4200,Structure Fire,Ambulance,2,Clear,4,45
+4201,Structure Fire,Engine,2,Rain,6,74
+4202,Medical,Ladder,3,Clear,10,96
+4203,Wellness Check,Engine,2,Clear,23,76
+4204,Traffic Accident,Chief,2,Clear,8,91
+4205,Wellness Check,Ladder,3,Clear,9,106
+4206,Wellness Check,Engine,1,Storm,10,86
+4207,Traffic Accident,Ambulance,3,Rain,2,97
+4208,Medical,Engine,2,Clear,7,103
+4209,Traffic Accident,Ambulance,2,Clear,16,94
+4210,Medical,Chief,1,Clear,6,47
+4211,Traffic Accident,Engine,2,Clear,11,64
+4212,Medical,Chief,1,Rain,15,30
+4213,Traffic Accident,Ladder,1,Clear,14,42
+4214,Medical,Ambulance,1,Clear,20,39
+4215,Medical,Ladder,2,Storm,12,92
+4216,Medical,Ambulance,2,Clear,17,74
+4217,Medical,Chief,3,Clear,17,112
+4218,Traffic Accident,Rescue Squad,1,Rain,23,46
+4219,Traffic Accident,Engine,2,Snow,4,100
+4220,Structure Fire,Chief,2,Rain,13,67
+4221,Medical,Ambulance,2,Rain,10,55
+4222,Medical,Ambulance,3,Clear,2,90
+4223,Medical,Ambulance,2,Clear,16,72
+4224,Medical,Ambulance,3,Clear,22,76
+4225,Wellness Check,Engine,2,Rain,11,73
+4226,Medical,Ladder,2,Clear,2,50
+4227,Medical,Rescue Squad,2,Clear,22,54
+4228,Medical,Engine,3,Fog,1,97
+4229,Medical,Ambulance,3,Clear,3,75
+4230,Structure Fire,Engine,2,Clear,17,73
+4231,Traffic Accident,Chief,3,Clear,19,71
+4232,Medical,Ambulance,1,Clear,20,31
+4233,Medical,Rescue Squad,3,Clear,13,84
+4234,Medical,Ambulance,1,Clear,7,61
+4235,Medical,Rescue Squad,1,Clear,1,30
+4236,Medical,Rescue Squad,1,Clear,18,51
+4237,False Alarm,Ladder,3,Clear,9,98
+4238,Traffic Accident,Ladder,3,Clear,4,90
+4239,Structure Fire,Engine,3,Clear,10,83
+4240,Medical,Engine,3,Clear,8,121
+4241,Medical,Rescue Squad,2,Clear,15,63
+4242,Structure Fire,Ambulance,3,Fog,4,85
+4243,Traffic Accident,Chief,3,Fog,14,65
+4244,Traffic Accident,Chief,2,Clear,13,57
+4245,Medical,Ambulance,1,Clear,8,82
+4246,Structure Fire,Ambulance,2,Clear,19,53
+4247,Medical,Ladder,3,Rain,4,81
+4248,Wellness Check,Chief,3,Storm,14,104
+4249,Traffic Accident,Rescue Squad,3,Clear,8,99
+4250,Structure Fire,Engine,3,Rain,3,91
+4251,Medical,Ladder,3,Fog,20,84
+4252,Traffic Accident,Chief,2,Clear,20,39
+4253,Medical,Ambulance,2,Clear,3,71
+4254,Medical,Chief,1,Clear,19,50
+4255,Medical,Rescue Squad,2,Clear,20,61
+4256,Traffic Accident,Ladder,2,Clear,21,69
+4257,Medical,Ambulance,3,Rain,6,76
+4258,Medical,Rescue Squad,2,Clear,14,52
+4259,Wellness Check,Engine,1,Clear,21,36
+4260,Medical,Ladder,1,Fog,16,87
+4261,Structure Fire,Rescue Squad,2,Clear,17,85
+4262,Medical,Rescue Squad,2,Clear,6,43
+4263,Medical,Ambulance,2,Clear,18,77
+4264,Traffic Accident,Engine,1,Clear,9,85
+4265,Medical,Rescue Squad,2,Clear,12,62
+4266,Medical,Ladder,1,Snow,1,74
+4267,Structure Fire,Rescue Squad,2,Clear,21,49
+4268,Traffic Accident,Chief,2,Clear,19,54
+4269,Traffic Accident,Ladder,2,Clear,10,50
+4270,Medical,Ladder,2,Fog,4,65
+4271,Medical,Rescue Squad,1,Rain,5,40
+4272,Traffic Accident,Ambulance,3,Fog,2,95
+4273,Structure Fire,Ladder,2,Clear,0,65
+4274,Wellness Check,Chief,1,Snow,2,74
+4275,Wellness Check,Ambulance,1,Fog,2,60
+4276,Wellness Check,Ambulance,2,Rain,21,49
+4277,Medical,Ambulance,1,Clear,3,38
+4278,Medical,Ladder,1,Clear,6,49
+4279,Traffic Accident,Ambulance,2,Clear,14,43
+4280,Medical,Rescue Squad,2,Clear,10,57
+4281,Medical,Ambulance,2,Rain,17,94
+4282,Wellness Check,Chief,2,Clear,11,68
+4283,Wellness Check,Engine,1,Clear,3,66
+4284,Medical,Chief,3,Clear,23,73
+4285,Medical,Ladder,1,Clear,10,43
+4286,Medical,Ambulance,2,Clear,5,82
+4287,Wellness Check,Ambulance,1,Clear,18,76
+4288,False Alarm,Rescue Squad,3,Rain,17,92
+4289,Medical,Ambulance,2,Clear,14,85
+4290,Medical,Chief,1,Rain,2,44
+4291,Wellness Check,Ladder,2,Clear,16,60
+4292,Medical,Engine,1,Fog,0,69
+4293,Structure Fire,Ambulance,2,Clear,1,36
+4294,False Alarm,Engine,2,Clear,18,99
+4295,Medical,Ambulance,1,Clear,8,82
+4296,Traffic Accident,Ladder,2,Clear,7,95
+4297,Medical,Chief,1,Clear,11,60
+4298,Medical,Ladder,2,Rain,14,80
+4299,Wellness Check,Engine,2,Clear,22,88
+4300,Medical,Ambulance,2,Clear,6,59
+4301,False Alarm,Engine,3,Rain,20,85
+4302,Structure Fire,Chief,1,Clear,15,41
+4303,Medical,Ladder,3,Clear,6,103
+4304,Medical,Engine,2,Snow,19,104
+4305,Medical,Engine,1,Clear,20,63
+4306,Medical,Chief,2,Rain,11,51
+4307,Medical,Ambulance,2,Rain,16,70
+4308,Medical,Engine,2,Snow,10,110
+4309,Medical,Chief,1,Rain,3,49
+4310,Traffic Accident,Ambulance,1,Clear,18,41
+4311,Traffic Accident,Ambulance,2,Clear,1,51
+4312,Traffic Accident,Ladder,2,Storm,1,76
+4313,Medical,Chief,2,Clear,23,56
+4314,Medical,Ambulance,1,Clear,16,69
+4315,Traffic Accident,Ladder,3,Snow,23,118
+4316,Medical,Rescue Squad,3,Clear,8,108
+4317,Medical,Chief,1,Clear,21,49
+4318,Wellness Check,Rescue Squad,1,Clear,0,69
+4319,Traffic Accident,Ambulance,3,Clear,9,104
+4320,Structure Fire,Chief,3,Clear,22,85
+4321,Medical,Ladder,2,Storm,14,106
+4322,Traffic Accident,Ambulance,3,Rain,20,77
+4323,Structure Fire,Chief,2,Rain,14,53
+4324,Traffic Accident,Chief,1,Clear,22,42
+4325,Traffic Accident,Rescue Squad,2,Clear,20,58
+4326,Wellness Check,Ambulance,2,Clear,1,59
+4327,Structure Fire,Ladder,3,Clear,13,96
+4328,Medical,Ladder,1,Clear,3,58
+4329,Traffic Accident,Ambulance,2,Clear,17,78
+4330,Traffic Accident,Ambulance,2,Clear,8,76
+4331,Traffic Accident,Engine,2,Clear,1,72
+4332,Medical,Rescue Squad,2,Storm,1,72
+4333,Medical,Ambulance,3,Clear,17,102
+4334,Wellness Check,Ambulance,2,Rain,16,83
+4335,Traffic Accident,Engine,2,Clear,8,116
+4336,False Alarm,Engine,3,Clear,7,103
+4337,Traffic Accident,Chief,1,Clear,1,37
+4338,Structure Fire,Ladder,3,Clear,1,84
+4339,Traffic Accident,Rescue Squad,2,Clear,4,55
+4340,Wellness Check,Chief,2,Clear,11,69
+4341,Structure Fire,Ambulance,2,Snow,15,100
+4342,Traffic Accident,Engine,3,Clear,13,76
+4343,Medical,Ladder,1,Clear,19,69
+4344,Medical,Chief,2,Clear,1,62
+4345,Traffic Accident,Ladder,2,Clear,23,74
+4346,Medical,Engine,1,Rain,7,86
+4347,Medical,Chief,2,Clear,3,47
+4348,Medical,Chief,3,Clear,19,79
+4349,Medical,Ladder,3,Clear,8,123
+4350,Medical,Engine,2,Rain,19,63
+4351,Medical,Ambulance,2,Clear,18,88
+4352,False Alarm,Chief,2,Fog,1,65
+4353,Structure Fire,Ambulance,1,Clear,15,30
+4354,Medical,Engine,3,Rain,10,79
+4355,Medical,Chief,3,Fog,7,76
+4356,Traffic Accident,Chief,3,Rain,11,82
+4357,Medical,Ambulance,2,Clear,2,78
+4358,Wellness Check,Rescue Squad,2,Clear,12,53
+4359,Traffic Accident,Ambulance,1,Clear,1,43
+4360,Traffic Accident,Ambulance,2,Clear,12,70
+4361,Medical,Rescue Squad,2,Clear,7,86
+4362,Traffic Accident,Engine,3,Rain,14,80
+4363,Medical,Engine,3,Clear,23,105
+4364,False Alarm,Chief,3,Clear,20,81
+4365,Traffic Accident,Ladder,3,Rain,8,115
+4366,Medical,Ladder,1,Clear,10,53
+4367,Medical,Chief,2,Rain,21,65
+4368,Medical,Ladder,1,Fog,20,48
+4369,Traffic Accident,Ambulance,1,Fog,2,60
+4370,Medical,Ambulance,2,Rain,6,72
+4371,Structure Fire,Rescue Squad,2,Clear,13,60
+4372,Medical,Rescue Squad,2,Clear,14,60
+4373,Traffic Accident,Chief,1,Clear,8,55
+4374,Wellness Check,Chief,1,Clear,19,38
+4375,Traffic Accident,Chief,1,Clear,10,33
+4376,Traffic Accident,Ambulance,1,Rain,6,42
+4377,Medical,Ladder,1,Clear,11,55
+4378,Medical,Chief,2,Clear,18,72
+4379,Traffic Accident,Chief,3,Rain,17,111
+4380,Medical,Ambulance,2,Clear,12,51
+4381,Medical,Ambulance,2,Clear,10,64
+4382,Medical,Ambulance,1,Clear,0,53
+4383,Medical,Ladder,3,Rain,5,103
+4384,Medical,Chief,2,Rain,20,70
+4385,Wellness Check,Engine,3,Rain,1,106
+4386,Medical,Engine,3,Clear,12,98
+4387,Structure Fire,Chief,3,Rain,12,81
+4388,Medical,Chief,1,Clear,18,61
+4389,Traffic Accident,Chief,2,Clear,8,83
+4390,Medical,Chief,1,Clear,18,82
+4391,Wellness Check,Ladder,1,Clear,22,53
+4392,Wellness Check,Engine,1,Clear,0,54
+4393,Medical,Rescue Squad,3,Rain,22,94
+4394,False Alarm,Engine,3,Clear,7,115
+4395,False Alarm,Engine,1,Clear,22,47
+4396,Wellness Check,Ambulance,2,Clear,13,71
+4397,Wellness Check,Chief,3,Clear,23,71
+4398,Medical,Chief,2,Clear,15,64
+4399,Structure Fire,Chief,2,Fog,3,62
+4400,Medical,Ambulance,2,Snow,17,123
+4401,Medical,Ladder,2,Rain,13,45
+4402,False Alarm,Ladder,2,Rain,8,100
+4403,Medical,Rescue Squad,2,Clear,14,59
+4404,Traffic Accident,Ladder,2,Rain,2,76
+4405,Wellness Check,Ladder,1,Clear,3,60
+4406,Wellness Check,Chief,2,Clear,22,63
+4407,False Alarm,Engine,1,Clear,17,75
+4408,Medical,Ladder,2,Clear,13,66
+4409,Medical,Ladder,1,Clear,14,54
+4410,Medical,Ambulance,3,Clear,7,111
+4411,Medical,Rescue Squad,2,Clear,9,72
+4412,Medical,Ambulance,2,Rain,23,69
+4413,Medical,Chief,3,Clear,11,76
+4414,Traffic Accident,Engine,3,Clear,20,80
+4415,Structure Fire,Rescue Squad,3,Snow,8,141
+4416,Medical,Ambulance,2,Clear,7,106
+4417,Traffic Accident,Ladder,1,Snow,16,107
+4418,Medical,Ladder,3,Rain,8,116
+4419,Medical,Rescue Squad,3,Clear,12,90
+4420,Traffic Accident,Ladder,3,Clear,13,95
+4421,Traffic Accident,Ambulance,2,Clear,4,66
+4422,Traffic Accident,Ambulance,2,Clear,8,76
+4423,Medical,Ladder,1,Clear,15,30
+4424,Wellness Check,Ladder,2,Clear,18,89
+4425,Traffic Accident,Chief,1,Clear,23,48
+4426,Structure Fire,Engine,1,Clear,22,66
+4427,Traffic Accident,Rescue Squad,2,Clear,6,52
+4428,Wellness Check,Ambulance,2,Rain,11,76
+4429,Structure Fire,Rescue Squad,1,Clear,1,41
+4430,Structure Fire,Chief,3,Rain,17,99
+4431,False Alarm,Ambulance,3,Clear,17,95
+4432,Traffic Accident,Chief,2,Rain,15,70
+4433,Medical,Chief,2,Clear,10,49
+4434,Traffic Accident,Ladder,3,Clear,1,96
+4435,Medical,Rescue Squad,1,Clear,13,36
+4436,Medical,Rescue Squad,2,Clear,3,59
+4437,Structure Fire,Ladder,1,Clear,6,39
+4438,False Alarm,Rescue Squad,2,Clear,1,67
+4439,False Alarm,Ladder,2,Clear,20,68
+4440,Medical,Ambulance,2,Clear,13,65
+4441,Structure Fire,Chief,1,Clear,6,43
+4442,Medical,Chief,1,Clear,8,67
+4443,False Alarm,Rescue Squad,2,Clear,7,76
+4444,False Alarm,Engine,2,Storm,8,127
+4445,Traffic Accident,Chief,2,Clear,6,65
+4446,Wellness Check,Ladder,2,Rain,18,100
+4447,Traffic Accident,Engine,2,Clear,16,88
+4448,Structure Fire,Engine,1,Clear,22,50
+4449,Medical,Chief,1,Clear,12,37
+4450,Medical,Chief,2,Clear,10,74
+4451,Traffic Accident,Chief,2,Fog,21,67
+4452,Traffic Accident,Ladder,1,Clear,17,82
+4453,Medical,Engine,1,Rain,16,64
+4454,False Alarm,Rescue Squad,2,Clear,15,52
+4455,Medical,Ladder,1,Clear,9,71
+4456,Structure Fire,Ambulance,2,Clear,3,78
+4457,Traffic Accident,Chief,2,Clear,3,60
+4458,Traffic Accident,Engine,1,Clear,21,67
+4459,Traffic Accident,Ladder,1,Clear,10,57
+4460,Medical,Ambulance,3,Clear,20,85
+4461,Medical,Ladder,2,Storm,7,128
+4462,Traffic Accident,Ladder,2,Clear,8,88
+4463,Structure Fire,Rescue Squad,2,Rain,15,51
+4464,Medical,Rescue Squad,2,Clear,9,83
+4465,Traffic Accident,Ladder,3,Clear,22,87
+4466,Medical,Ambulance,2,Fog,8,80
+4467,Traffic Accident,Engine,1,Rain,2,45
+4468,Wellness Check,Engine,2,Clear,1,74
+4469,Medical,Chief,2,Clear,8,86
+4470,Medical,Chief,2,Clear,12,61
+4471,Traffic Accident,Engine,2,Rain,5,73
+4472,Traffic Accident,Ladder,3,Clear,3,87
+4473,Traffic Accident,Ladder,2,Rain,13,108
+4474,Wellness Check,Rescue Squad,1,Clear,10,49
+4475,Wellness Check,Rescue Squad,1,Clear,1,46
+4476,False Alarm,Chief,2,Fog,2,67
+4477,Structure Fire,Engine,1,Storm,4,85
+4478,Medical,Ladder,2,Clear,6,64
+4479,Medical,Engine,2,Snow,10,100
+4480,Medical,Ambulance,2,Rain,11,68
+4481,Structure Fire,Engine,3,Rain,10,101
+4482,Medical,Ambulance,2,Storm,18,102
+4483,False Alarm,Rescue Squad,1,Clear,12,43
+4484,Structure Fire,Rescue Squad,1,Rain,3,48
+4485,Structure Fire,Chief,2,Snow,13,99
+4486,Medical,Engine,1,Clear,11,60
+4487,Medical,Engine,2,Clear,1,61
+4488,Medical,Ambulance,1,Clear,7,75
+4489,Medical,Rescue Squad,2,Rain,21,63
+4490,Medical,Ambulance,3,Rain,18,110
+4491,Traffic Accident,Rescue Squad,1,Clear,12,34
+4492,Wellness Check,Ambulance,2,Clear,20,50
+4493,Wellness Check,Rescue Squad,2,Clear,20,78
+4494,Traffic Accident,Ambulance,2,Clear,0,69
+4495,Medical,Rescue Squad,2,Clear,4,59
+4496,Wellness Check,Ambulance,2,Clear,21,59
+4497,Wellness Check,Engine,2,Rain,10,92
+4498,Medical,Chief,2,Clear,10,60
+4499,Traffic Accident,Ambulance,2,Fog,12,58
+4500,Medical,Chief,1,Clear,1,37
+4501,Wellness Check,Engine,2,Storm,18,129
+4502,False Alarm,Engine,3,Clear,15,73
+4503,Medical,Rescue Squad,3,Rain,4,85
+4504,Wellness Check,Chief,3,Clear,13,92
+4505,Traffic Accident,Ladder,2,Clear,18,110
+4506,False Alarm,Rescue Squad,2,Clear,4,52
+4507,Medical,Chief,2,Clear,20,37
+4508,Wellness Check,Ambulance,2,Rain,23,63
+4509,Medical,Ambulance,2,Clear,8,101
+4510,Medical,Engine,2,Storm,23,83
+4511,Medical,Ladder,2,Clear,11,66
+4512,False Alarm,Ambulance,2,Storm,15,87
+4513,Wellness Check,Chief,2,Clear,18,78
+4514,Wellness Check,Chief,1,Clear,14,30
+4515,False Alarm,Ambulance,1,Clear,16,55
+4516,Medical,Chief,3,Fog,14,74
+4517,Medical,Chief,2,Clear,2,41
+4518,Medical,Engine,2,Clear,16,109
+4519,Medical,Ladder,2,Clear,12,85
+4520,Medical,Engine,2,Clear,8,85
+4521,Medical,Ladder,1,Clear,12,62
+4522,Medical,Chief,2,Clear,15,45
+4523,Medical,Ladder,2,Rain,18,97
+4524,Medical,Chief,2,Rain,13,54
+4525,Medical,Chief,2,Fog,7,87
+4526,False Alarm,Engine,1,Clear,21,30
+4527,Traffic Accident,Engine,2,Clear,18,93
+4528,False Alarm,Rescue Squad,1,Storm,23,81
+4529,Medical,Ambulance,2,Clear,2,62
+4530,Medical,Rescue Squad,2,Clear,22,67
+4531,Traffic Accident,Rescue Squad,3,Snow,20,118
+4532,Medical,Ladder,2,Clear,17,60
+4533,Medical,Chief,2,Clear,15,70
+4534,Medical,Chief,2,Clear,13,67
+4535,Medical,Chief,2,Clear,15,75
+4536,Medical,Ambulance,1,Clear,23,45
+4537,Medical,Ladder,2,Clear,16,93
+4538,Traffic Accident,Ladder,3,Clear,19,113
+4539,Medical,Chief,1,Snow,10,47
+4540,Medical,Rescue Squad,2,Clear,12,64
+4541,Wellness Check,Ambulance,3,Rain,10,92
+4542,Medical,Rescue Squad,2,Clear,3,62
+4543,Medical,Engine,2,Snow,13,114
+4544,Wellness Check,Ladder,2,Fog,4,55
+4545,Medical,Ladder,2,Snow,3,116
+4546,Medical,Rescue Squad,2,Snow,0,107
+4547,Medical,Ambulance,2,Clear,13,72
+4548,Medical,Ladder,3,Clear,6,89
+4549,Structure Fire,Rescue Squad,1,Clear,9,67
+4550,Wellness Check,Ambulance,2,Clear,1,59
+4551,Medical,Rescue Squad,1,Clear,9,90
+4552,Structure Fire,Ambulance,1,Clear,2,42
+4553,Structure Fire,Chief,2,Clear,20,74
+4554,Medical,Ambulance,2,Fog,7,83
+4555,Traffic Accident,Engine,1,Rain,9,69
+4556,Medical,Chief,1,Clear,7,49
+4557,Medical,Rescue Squad,2,Clear,13,65
+4558,Medical,Chief,3,Rain,17,113
+4559,Medical,Chief,2,Clear,8,66
+4560,Medical,Rescue Squad,1,Clear,21,59
+4561,Wellness Check,Rescue Squad,3,Clear,8,82
+4562,Medical,Engine,2,Clear,3,77
+4563,Medical,Rescue Squad,3,Clear,2,87
+4564,Medical,Ladder,2,Rain,13,80
+4565,Traffic Accident,Ladder,2,Clear,13,50
+4566,Structure Fire,Engine,3,Clear,20,100
+4567,Traffic Accident,Ambulance,1,Rain,15,43
+4568,Traffic Accident,Ambulance,3,Rain,4,76
+4569,Wellness Check,Ladder,3,Clear,19,98
+4570,Medical,Rescue Squad,3,Rain,22,89
+4571,Structure Fire,Engine,2,Storm,23,71
+4572,Wellness Check,Ambulance,1,Fog,14,32
+4573,False Alarm,Ambulance,2,Rain,20,71
+4574,Wellness Check,Chief,3,Rain,8,105
+4575,Medical,Ladder,2,Clear,6,71
+4576,Medical,Rescue Squad,2,Rain,12,50
+4577,Medical,Engine,2,Rain,22,74
+4578,Traffic Accident,Ambulance,2,Clear,7,94
+4579,Medical,Chief,1,Clear,11,68
+4580,Medical,Ladder,2,Rain,3,66
+4581,Wellness Check,Ladder,3,Storm,15,134
+4582,Medical,Engine,1,Clear,5,73
+4583,Wellness Check,Ambulance,3,Clear,4,65
+4584,Medical,Engine,2,Rain,0,87
+4585,Medical,Engine,2,Clear,13,72
+4586,Medical,Chief,2,Clear,8,90
+4587,Traffic Accident,Ladder,1,Clear,17,69
+4588,Medical,Rescue Squad,2,Clear,5,56
+4589,Medical,Ladder,2,Rain,14,62
+4590,False Alarm,Ladder,2,Clear,15,60
+4591,Medical,Chief,2,Clear,7,90
+4592,Structure Fire,Rescue Squad,1,Clear,18,79
+4593,Structure Fire,Ambulance,2,Clear,4,49
+4594,Medical,Rescue Squad,2,Rain,13,53
+4595,Traffic Accident,Ambulance,2,Clear,6,62
+4596,Medical,Rescue Squad,1,Clear,3,33
+4597,Structure Fire,Engine,3,Clear,20,92
+4598,Medical,Rescue Squad,2,Clear,0,57
+4599,Traffic Accident,Chief,2,Rain,3,43
+4600,Medical,Ambulance,2,Clear,13,64
+4601,Structure Fire,Ladder,2,Snow,22,89
+4602,Medical,Chief,1,Clear,15,55
+4603,Medical,Ambulance,2,Clear,6,58
+4604,Medical,Ambulance,2,Rain,9,77
+4605,Medical,Ladder,2,Fog,9,99
+4606,Wellness Check,Engine,2,Fog,3,82
+4607,Medical,Chief,2,Clear,11,78
+4608,False Alarm,Ladder,2,Clear,5,75
+4609,False Alarm,Ladder,3,Fog,12,84
+4610,Structure Fire,Engine,1,Clear,20,55
+4611,Medical,Chief,3,Snow,0,102
+4612,Medical,Ladder,1,Rain,7,76
+4613,Traffic Accident,Engine,2,Fog,22,67
+4614,Medical,Chief,2,Fog,15,50
+4615,Medical,Rescue Squad,2,Clear,4,69
+4616,Structure Fire,Ambulance,2,Rain,6,68
+4617,Wellness Check,Engine,2,Clear,2,70
+4618,Traffic Accident,Ambulance,1,Clear,23,57
+4619,Medical,Rescue Squad,2,Clear,20,65
+4620,Traffic Accident,Ladder,1,Clear,1,43
+4621,Medical,Ladder,2,Rain,1,66
+4622,Medical,Chief,1,Storm,19,81
+4623,Wellness Check,Engine,1,Clear,22,51
+4624,Medical,Engine,1,Clear,9,67
+4625,Medical,Chief,2,Snow,19,102
+4626,Medical,Ambulance,3,Fog,8,104
+4627,Wellness Check,Ladder,3,Rain,17,121
+4628,Traffic Accident,Ladder,1,Rain,5,54
+4629,Traffic Accident,Engine,2,Fog,19,62
+4630,Traffic Accident,Engine,2,Clear,5,63
+4631,Medical,Chief,2,Fog,9,65
+4632,Medical,Rescue Squad,2,Fog,8,77
+4633,Medical,Ambulance,1,Fog,8,70
+4634,Medical,Rescue Squad,2,Clear,2,72
+4635,Medical,Rescue Squad,2,Fog,11,53
+4636,False Alarm,Engine,1,Clear,10,41
+4637,Medical,Engine,2,Clear,13,81
+4638,Medical,Engine,2,Snow,18,142
+4639,Medical,Rescue Squad,1,Clear,9,80
+4640,Medical,Ambulance,2,Clear,18,72
+4641,False Alarm,Engine,2,Snow,4,117
+4642,Medical,Ladder,3,Snow,21,120
+4643,Medical,Ambulance,2,Snow,8,131
+4644,Traffic Accident,Ladder,2,Clear,0,71
+4645,Medical,Ambulance,2,Rain,14,52
+4646,Medical,Engine,2,Clear,23,65
+4647,Medical,Chief,1,Rain,3,56
+4648,Structure Fire,Engine,2,Clear,6,73
+4649,False Alarm,Rescue Squad,2,Rain,5,46
+4650,Traffic Accident,Rescue Squad,2,Clear,14,77
+4651,Medical,Ambulance,3,Storm,5,130
+4652,Wellness Check,Rescue Squad,2,Clear,6,76
+4653,Medical,Engine,1,Rain,19,66
+4654,Medical,Ladder,1,Clear,21,45
+4655,Medical,Engine,1,Rain,2,58
+4656,Medical,Ambulance,2,Clear,20,66
+4657,Structure Fire,Rescue Squad,2,Clear,12,46
+4658,Traffic Accident,Ladder,3,Rain,1,78
+4659,False Alarm,Chief,2,Snow,2,100
+4660,Structure Fire,Ladder,3,Clear,12,98
+4661,Structure Fire,Ladder,2,Clear,8,108
+4662,Medical,Engine,3,Rain,21,87
+4663,Medical,Chief,2,Snow,18,89
+4664,Structure Fire,Ambulance,2,Clear,17,86
+4665,Medical,Ambulance,2,Fog,4,68
+4666,Wellness Check,Ladder,2,Fog,9,93
+4667,Medical,Ladder,2,Clear,13,71
+4668,Medical,Rescue Squad,1,Clear,20,38
+4669,Medical,Chief,1,Rain,16,73
+4670,Medical,Ladder,2,Storm,2,121
+4671,Medical,Rescue Squad,2,Rain,6,51
+4672,Traffic Accident,Chief,1,Clear,8,57
+4673,Medical,Ambulance,1,Clear,4,38
+4674,Traffic Accident,Rescue Squad,2,Clear,3,41
+4675,Medical,Chief,2,Rain,2,52
+4676,Medical,Rescue Squad,1,Clear,12,30
+4677,Medical,Ladder,1,Clear,8,85
+4678,Wellness Check,Engine,1,Clear,22,65
+4679,Medical,Ambulance,1,Clear,6,42
+4680,Traffic Accident,Ladder,3,Clear,7,110
+4681,Medical,Ladder,1,Clear,9,93
+4682,Traffic Accident,Chief,2,Fog,0,67
+4683,Medical,Rescue Squad,2,Clear,19,80
+4684,Traffic Accident,Ambulance,3,Clear,20,82
+4685,Structure Fire,Ladder,1,Clear,20,69
+4686,False Alarm,Chief,1,Clear,0,45
+4687,Medical,Ambulance,1,Clear,18,70
+4688,Medical,Rescue Squad,1,Clear,1,51
+4689,Medical,Ladder,2,Clear,11,75
+4690,Wellness Check,Ladder,1,Fog,22,48
+4691,Structure Fire,Ladder,1,Clear,12,46
+4692,Traffic Accident,Ambulance,3,Clear,13,80
+4693,Medical,Ambulance,2,Snow,4,69
+4694,Medical,Ambulance,1,Clear,2,41
+4695,Medical,Ambulance,1,Rain,23,35
+4696,False Alarm,Chief,1,Clear,16,64
+4697,Traffic Accident,Engine,3,Clear,0,82
+4698,False Alarm,Chief,3,Clear,13,87
+4699,Medical,Ladder,3,Storm,5,119
+4700,Traffic Accident,Chief,3,Clear,16,101
+4701,Traffic Accident,Rescue Squad,2,Clear,3,56
+4702,Medical,Ambulance,1,Clear,5,55
+4703,Wellness Check,Rescue Squad,2,Clear,0,69
+4704,False Alarm,Rescue Squad,2,Fog,8,79
+4705,Wellness Check,Ladder,3,Clear,3,103
+4706,Traffic Accident,Ambulance,2,Fog,8,76
+4707,Medical,Rescue Squad,2,Clear,8,90
+4708,Medical,Ladder,3,Fog,21,84
+4709,False Alarm,Ambulance,1,Clear,12,41
+4710,Medical,Engine,3,Fog,22,83
+4711,Traffic Accident,Ladder,1,Clear,16,87
+4712,Traffic Accident,Chief,2,Rain,20,63
+4713,Traffic Accident,Ambulance,1,Rain,2,34
+4714,False Alarm,Rescue Squad,2,Clear,5,65
+4715,Medical,Rescue Squad,2,Snow,19,104
+4716,Medical,Chief,2,Rain,14,53
+4717,Medical,Chief,3,Fog,13,72
+4718,Medical,Rescue Squad,2,Clear,12,60
+4719,Medical,Ambulance,2,Clear,8,92
+4720,Medical,Ladder,1,Fog,22,50
+4721,Wellness Check,Chief,3,Clear,14,98
+4722,False Alarm,Chief,1,Clear,13,34
+4723,Medical,Chief,1,Storm,3,67
+4724,Medical,Engine,1,Clear,10,37
+4725,False Alarm,Ambulance,2,Clear,21,50
+4726,Medical,Ambulance,3,Clear,1,77
+4727,Medical,Ambulance,1,Fog,15,47
+4728,Medical,Ambulance,2,Storm,18,123
+4729,Structure Fire,Ambulance,3,Storm,15,99
+4730,Medical,Rescue Squad,2,Rain,6,64
+4731,False Alarm,Chief,2,Clear,10,46
+4732,Medical,Rescue Squad,1,Clear,11,55
+4733,Structure Fire,Engine,2,Clear,3,83
+4734,Medical,Ladder,1,Clear,15,65
+4735,Medical,Chief,3,Clear,15,90
+4736,Traffic Accident,Engine,2,Fog,6,69
+4737,Traffic Accident,Rescue Squad,2,Snow,12,100
+4738,Traffic Accident,Ladder,1,Clear,4,54
+4739,Structure Fire,Engine,1,Storm,0,84
+4740,False Alarm,Ladder,1,Storm,4,75
+4741,Wellness Check,Engine,2,Rain,21,72
+4742,Traffic Accident,Rescue Squad,1,Clear,13,49
+4743,Medical,Ladder,2,Clear,10,79
+4744,Medical,Engine,1,Clear,1,58
+4745,Medical,Rescue Squad,2,Clear,23,68
+4746,Traffic Accident,Chief,1,Clear,17,66
+4747,Medical,Rescue Squad,1,Fog,14,59
+4748,Medical,Rescue Squad,2,Clear,13,57
+4749,Wellness Check,Chief,2,Clear,12,39
+4750,Wellness Check,Rescue Squad,2,Clear,1,56
+4751,False Alarm,Chief,1,Rain,18,69
+4752,Medical,Chief,2,Clear,7,81
+4753,Traffic Accident,Chief,2,Clear,21,40
+4754,Medical,Engine,2,Storm,16,120
+4755,Medical,Ladder,2,Clear,14,71
+4756,Medical,Engine,2,Snow,19,85
+4757,Medical,Chief,1,Clear,20,50
+4758,Medical,Ladder,3,Clear,13,88
+4759,Wellness Check,Ladder,2,Clear,2,50
+4760,Medical,Chief,1,Rain,16,71
+4761,Traffic Accident,Ladder,2,Fog,2,71
+4762,Structure Fire,Ladder,1,Clear,12,70
+4763,Medical,Engine,3,Clear,17,109
+4764,Medical,Ladder,2,Clear,0,67
+4765,Medical,Chief,1,Rain,6,55
+4766,Structure Fire,Ambulance,1,Clear,22,35
+4767,Medical,Ambulance,1,Clear,4,55
+4768,Medical,Ambulance,2,Clear,1,70
+4769,Medical,Chief,2,Clear,16,89
+4770,Structure Fire,Ambulance,1,Fog,20,43
+4771,False Alarm,Engine,1,Rain,9,73
+4772,Medical,Chief,2,Clear,3,52
+4773,Traffic Accident,Chief,1,Clear,8,69
+4774,Traffic Accident,Chief,2,Clear,20,31
+4775,False Alarm,Ladder,2,Clear,10,64
+4776,Wellness Check,Ladder,2,Rain,11,63
+4777,Structure Fire,Ladder,3,Clear,11,80
+4778,Traffic Accident,Rescue Squad,3,Clear,17,104
+4779,Wellness Check,Engine,2,Clear,3,55
+4780,Medical,Chief,2,Rain,8,91
+4781,Medical,Chief,3,Clear,7,105
+4782,Medical,Ladder,1,Snow,18,119
+4783,Wellness Check,Chief,1,Rain,23,39
+4784,Wellness Check,Chief,1,Rain,12,47
+4785,Medical,Ambulance,2,Rain,1,68
+4786,Structure Fire,Chief,2,Clear,18,74
+4787,Medical,Rescue Squad,2,Clear,13,54
+4788,Medical,Ladder,2,Fog,4,71
+4789,False Alarm,Engine,2,Fog,9,84
+4790,Medical,Engine,1,Rain,23,44
+4791,Medical,Ambulance,2,Rain,16,55
+4792,Structure Fire,Engine,1,Clear,19,45
+4793,Traffic Accident,Engine,1,Clear,15,31
+4794,Medical,Ladder,3,Storm,16,131
+4795,Traffic Accident,Ladder,3,Fog,0,104
+4796,Structure Fire,Rescue Squad,3,Clear,20,61
+4797,Medical,Ambulance,2,Clear,21,64
+4798,Medical,Engine,2,Clear,14,82
+4799,Structure Fire,Rescue Squad,2,Clear,16,61
+4800,Medical,Ambulance,2,Clear,10,77
+4801,False Alarm,Engine,2,Rain,21,69
+4802,Wellness Check,Engine,2,Clear,4,83
+4803,False Alarm,Ladder,2,Rain,3,72
+4804,Medical,Chief,2,Rain,20,55
+4805,False Alarm,Ambulance,1,Snow,23,41
+4806,Medical,Engine,2,Snow,8,101
+4807,Medical,Ambulance,2,Clear,15,66
+4808,Medical,Rescue Squad,1,Rain,11,60
+4809,Medical,Rescue Squad,3,Clear,17,85
+4810,Traffic Accident,Chief,1,Storm,21,66
+4811,Medical,Engine,2,Clear,2,65
+4812,Medical,Ladder,1,Fog,14,59
+4813,Traffic Accident,Engine,3,Clear,17,116
+4814,Medical,Ambulance,2,Clear,11,56
+4815,Structure Fire,Rescue Squad,2,Clear,12,66
+4816,Medical,Ambulance,3,Rain,0,73
+4817,Wellness Check,Chief,2,Clear,3,60
+4818,Wellness Check,Rescue Squad,1,Clear,7,73
+4819,Medical,Ladder,1,Snow,18,92
+4820,Medical,Rescue Squad,2,Clear,20,56
+4821,Medical,Engine,2,Clear,20,64
+4822,Wellness Check,Engine,1,Clear,4,59
+4823,Medical,Rescue Squad,1,Clear,10,48
+4824,Medical,Chief,1,Rain,23,39
+4825,Medical,Engine,2,Clear,23,73
+4826,Medical,Engine,1,Storm,16,71
+4827,Medical,Ladder,1,Clear,16,93
+4828,Wellness Check,Rescue Squad,2,Snow,1,109
+4829,Medical,Engine,2,Rain,23,64
+4830,Medical,Chief,2,Fog,0,52
+4831,Wellness Check,Ambulance,2,Clear,3,59
+4832,Wellness Check,Rescue Squad,2,Clear,8,66
+4833,Medical,Ladder,2,Clear,1,62
+4834,Medical,Engine,3,Fog,2,93
+4835,Medical,Chief,1,Clear,5,53
+4836,False Alarm,Rescue Squad,2,Storm,12,98
+4837,Medical,Chief,2,Clear,14,88
+4838,False Alarm,Chief,1,Clear,10,57
+4839,Traffic Accident,Ladder,2,Clear,9,96
+4840,Structure Fire,Rescue Squad,1,Clear,2,51
+4841,Medical,Engine,2,Fog,19,70
+4842,Medical,Ladder,2,Clear,8,91
+4843,Medical,Engine,1,Clear,9,82
+4844,Medical,Ambulance,2,Clear,20,70
+4845,Traffic Accident,Chief,2,Rain,22,57
+4846,False Alarm,Ambulance,2,Clear,23,56
+4847,Structure Fire,Chief,2,Clear,22,71
+4848,Traffic Accident,Ladder,1,Rain,11,50
+4849,Medical,Engine,2,Clear,7,77
+4850,Medical,Engine,3,Clear,20,82
+4851,Medical,Ladder,1,Clear,20,62
+4852,Traffic Accident,Rescue Squad,2,Rain,20,86
+4853,False Alarm,Ambulance,2,Snow,16,106
+4854,Traffic Accident,Ambulance,2,Fog,21,66
+4855,Medical,Engine,1,Snow,4,90
+4856,Medical,Engine,2,Storm,23,125
+4857,Structure Fire,Engine,2,Clear,7,103
+4858,Medical,Ladder,3,Clear,17,128
+4859,Wellness Check,Rescue Squad,1,Clear,10,47
+4860,Wellness Check,Ambulance,3,Clear,21,71
+4861,Traffic Accident,Chief,2,Rain,9,73
+4862,Medical,Ladder,1,Snow,14,77
+4863,Medical,Ambulance,2,Clear,5,64
+4864,Medical,Rescue Squad,2,Clear,18,82
+4865,Medical,Ladder,1,Rain,16,105
+4866,Medical,Ambulance,1,Clear,22,54
+4867,Traffic Accident,Ladder,3,Clear,9,90
+4868,Traffic Accident,Ambulance,3,Rain,4,78
+4869,Medical,Ambulance,2,Clear,15,49
+4870,Medical,Rescue Squad,1,Fog,11,64
+4871,Medical,Chief,2,Storm,20,82
+4872,Medical,Rescue Squad,2,Clear,23,64
+4873,Wellness Check,Ambulance,1,Clear,4,46
+4874,Medical,Ladder,3,Rain,20,98
+4875,Medical,Rescue Squad,1,Clear,0,48
+4876,Medical,Chief,2,Clear,1,80
+4877,Wellness Check,Ambulance,2,Fog,4,69
+4878,Structure Fire,Rescue Squad,2,Clear,22,41
+4879,Medical,Rescue Squad,1,Clear,18,76
+4880,Structure Fire,Rescue Squad,2,Clear,14,62
+4881,Traffic Accident,Rescue Squad,3,Clear,0,94
+4882,False Alarm,Ladder,2,Clear,10,66
+4883,Medical,Chief,2,Clear,17,68
+4884,Wellness Check,Chief,1,Clear,2,32
+4885,False Alarm,Ambulance,3,Clear,8,108
+4886,False Alarm,Engine,3,Storm,23,129
+4887,Traffic Accident,Ladder,2,Fog,3,64
+4888,Traffic Accident,Ambulance,2,Clear,23,33
+4889,Medical,Ambulance,3,Clear,12,90
+4890,Traffic Accident,Rescue Squad,1,Rain,8,51
+4891,Structure Fire,Engine,2,Rain,2,91
+4892,Traffic Accident,Engine,2,Fog,15,55
+4893,Medical,Ladder,2,Rain,21,70
+4894,Traffic Accident,Engine,3,Clear,7,112
+4895,Wellness Check,Ambulance,2,Clear,6,63
+4896,Medical,Engine,1,Snow,22,100
+4897,Wellness Check,Engine,2,Fog,16,94
+4898,Structure Fire,Chief,2,Clear,15,55
+4899,Wellness Check,Ambulance,2,Clear,20,57
+4900,Medical,Engine,1,Clear,21,48
+4901,Medical,Engine,1,Clear,17,78
+4902,False Alarm,Rescue Squad,2,Clear,15,42
+4903,Medical,Engine,3,Fog,14,93
+4904,Wellness Check,Engine,3,Rain,1,89
+4905,Medical,Chief,3,Fog,19,88
+4906,Structure Fire,Ambulance,2,Storm,3,96
+4907,Medical,Ladder,1,Clear,4,61
+4908,Structure Fire,Ambulance,3,Rain,6,85
+4909,Medical,Rescue Squad,2,Fog,14,58
+4910,Medical,Ambulance,2,Clear,16,80
+4911,Medical,Engine,2,Rain,9,83
+4912,Medical,Rescue Squad,3,Clear,19,93
+4913,False Alarm,Ambulance,2,Rain,8,73
+4914,False Alarm,Rescue Squad,1,Clear,15,43
+4915,Medical,Ladder,2,Clear,23,59
+4916,Traffic Accident,Ambulance,1,Clear,2,37
+4917,Medical,Engine,3,Clear,21,106
+4918,Traffic Accident,Rescue Squad,2,Clear,8,80
+4919,Wellness Check,Chief,2,Clear,7,81
+4920,False Alarm,Rescue Squad,3,Clear,22,76
+4921,Medical,Chief,2,Clear,6,60
+4922,Traffic Accident,Engine,2,Clear,16,105
+4923,Medical,Ladder,1,Rain,4,56
+4924,False Alarm,Chief,2,Rain,6,62
+4925,Medical,Ladder,3,Rain,12,80
+4926,Traffic Accident,Rescue Squad,2,Fog,17,80
+4927,Traffic Accident,Engine,3,Clear,21,91
+4928,Traffic Accident,Chief,1,Clear,13,44
+4929,Medical,Rescue Squad,1,Clear,17,65
+4930,False Alarm,Ambulance,1,Fog,2,39
+4931,Medical,Rescue Squad,2,Rain,16,91
+4932,Traffic Accident,Ladder,1,Clear,18,78
+4933,Medical,Engine,1,Clear,6,64
+4934,Medical,Engine,2,Rain,20,71
+4935,Structure Fire,Rescue Squad,2,Clear,3,39
+4936,Medical,Ambulance,2,Clear,14,83
+4937,Medical,Ladder,2,Fog,23,69
+4938,Medical,Rescue Squad,2,Clear,7,83
+4939,Medical,Rescue Squad,2,Fog,15,59
+4940,Traffic Accident,Engine,3,Clear,0,86
+4941,Wellness Check,Ladder,2,Rain,15,61
+4942,Medical,Ambulance,2,Fog,1,66
+4943,Medical,Engine,2,Clear,1,68
+4944,Medical,Rescue Squad,1,Rain,7,65
+4945,Medical,Engine,3,Rain,11,64
+4946,Traffic Accident,Engine,1,Fog,10,52
+4947,Traffic Accident,Chief,3,Clear,5,69
+4948,Medical,Engine,1,Clear,18,67
+4949,Medical,Engine,3,Clear,17,112
+4950,Medical,Ladder,2,Fog,4,63
+4951,Wellness Check,Engine,2,Storm,14,91
+4952,False Alarm,Ambulance,2,Clear,7,79
+4953,Medical,Rescue Squad,2,Clear,5,54
+4954,Medical,Ladder,2,Fog,11,59
+4955,Wellness Check,Engine,1,Clear,18,57
+4956,False Alarm,Ambulance,2,Clear,11,63
+4957,Medical,Rescue Squad,2,Clear,11,54
+4958,Medical,Ladder,1,Clear,8,56
+4959,Medical,Ambulance,3,Rain,23,92
+4960,Structure Fire,Engine,2,Clear,9,98
+4961,Medical,Chief,2,Clear,21,48
+4962,Medical,Chief,3,Fog,16,96
+4963,Structure Fire,Ladder,2,Clear,17,105
+4964,Medical,Ambulance,2,Clear,15,58
+4965,Traffic Accident,Rescue Squad,2,Fog,3,55
+4966,Medical,Ambulance,3,Rain,17,107
+4967,Medical,Chief,1,Clear,2,43
+4968,Structure Fire,Ladder,2,Clear,15,82
+4969,Medical,Engine,2,Clear,13,65
+4970,False Alarm,Ambulance,1,Rain,23,39
+4971,Structure Fire,Chief,1,Clear,8,71
+4972,Medical,Rescue Squad,2,Clear,5,69
+4973,Traffic Accident,Ladder,2,Clear,3,72
+4974,Medical,Engine,3,Snow,1,114
+4975,False Alarm,Ambulance,2,Clear,22,51
+4976,Medical,Rescue Squad,2,Clear,9,74
+4977,Structure Fire,Engine,1,Clear,10,64
+4978,Medical,Chief,1,Clear,6,55
+4979,Medical,Chief,2,Rain,4,70
+4980,Wellness Check,Rescue Squad,2,Rain,3,67
+4981,Wellness Check,Chief,1,Rain,5,49
+4982,Medical,Ladder,2,Rain,1,74
+4983,Medical,Rescue Squad,3,Clear,1,81
+4984,Wellness Check,Chief,2,Rain,15,65
+4985,False Alarm,Ambulance,2,Clear,22,59
+4986,Medical,Chief,2,Clear,22,65
+4987,Medical,Ladder,1,Rain,12,64
+4988,Medical,Engine,1,Fog,20,42
+4989,Wellness Check,Engine,3,Rain,6,100
+4990,Medical,Chief,2,Snow,4,86
+4991,Medical,Engine,2,Storm,16,137
+4992,Traffic Accident,Chief,1,Clear,12,57
+4993,Medical,Ladder,2,Storm,14,99
+4994,Medical,Engine,1,Rain,2,55
+4995,Medical,Ambulance,1,Snow,22,68
+4996,Medical,Chief,2,Rain,3,56
+4997,Medical,Engine,2,Clear,14,73
+4998,Structure Fire,Ladder,1,Rain,17,89
+4999,Medical,Ladder,1,Clear,2,55
+5000,Structure Fire,Ambulance,2,Fog,6,64
+5001,Wellness Check,Ladder,2,Clear,7,80
+5002,Traffic Accident,Ladder,2,Clear,10,69
+5003,Medical,Engine,2,Clear,21,64
+5004,Medical,Chief,3,Clear,8,101
+5005,Medical,Rescue Squad,1,Clear,19,58
+5006,Medical,Ladder,1,Clear,11,54
+5007,Medical,Ladder,2,Clear,4,56
+5008,Traffic Accident,Rescue Squad,1,Clear,0,46
+5009,Medical,Ladder,2,Clear,13,77
+5010,Medical,Engine,2,Clear,2,60
+5011,Medical,Engine,3,Storm,14,145
+5012,Traffic Accident,Rescue Squad,3,Clear,9,95
+5013,Medical,Ladder,3,Clear,9,111
+5014,Traffic Accident,Ladder,1,Clear,23,37
+5015,Medical,Chief,3,Clear,2,82
+5016,Wellness Check,Ladder,1,Rain,5,73
+5017,Wellness Check,Engine,2,Clear,4,73
+5018,Medical,Ambulance,2,Clear,23,52
+5019,Medical,Ambulance,1,Clear,18,71
+5020,Medical,Ambulance,2,Rain,13,68
+5021,Medical,Ambulance,1,Rain,16,85
+5022,Traffic Accident,Ladder,1,Clear,11,42
+5023,Wellness Check,Ladder,3,Clear,8,134
+5024,Traffic Accident,Chief,1,Clear,2,47
+5025,Wellness Check,Ladder,1,Rain,17,97
+5026,Medical,Ambulance,2,Clear,3,61
+5027,Medical,Rescue Squad,3,Clear,13,85
+5028,Traffic Accident,Rescue Squad,1,Clear,23,35
+5029,Medical,Engine,2,Clear,5,79
+5030,Traffic Accident,Engine,3,Clear,14,79
+5031,Medical,Ladder,1,Clear,16,72
+5032,Medical,Rescue Squad,2,Clear,23,55
+5033,False Alarm,Ambulance,2,Clear,4,59
+5034,Medical,Ambulance,2,Clear,5,70
+5035,False Alarm,Ambulance,3,Clear,20,76
+5036,False Alarm,Ladder,1,Rain,4,66
+5037,Traffic Accident,Ladder,3,Rain,18,106
+5038,Traffic Accident,Chief,3,Rain,13,81
+5039,Structure Fire,Ambulance,1,Fog,3,66
+5040,Wellness Check,Ambulance,1,Clear,4,46
+5041,Medical,Ladder,3,Clear,10,89
+5042,Medical,Ladder,2,Rain,1,71
+5043,Traffic Accident,Chief,2,Clear,21,56
+5044,Medical,Chief,2,Clear,1,49
+5045,Medical,Engine,2,Clear,19,90
+5046,Medical,Rescue Squad,3,Clear,11,75
+5047,Structure Fire,Ambulance,1,Fog,15,30
+5048,Wellness Check,Ambulance,1,Clear,16,72
+5049,Medical,Chief,3,Storm,3,125
+5050,False Alarm,Chief,3,Clear,13,77
+5051,Traffic Accident,Engine,2,Clear,6,69
+5052,Wellness Check,Rescue Squad,3,Clear,14,78
+5053,Structure Fire,Engine,2,Clear,15,74
+5054,Traffic Accident,Rescue Squad,1,Rain,7,71
+5055,Medical,Ambulance,3,Clear,1,78
+5056,Wellness Check,Engine,2,Clear,18,116
+5057,Medical,Chief,1,Clear,0,55
+5058,Wellness Check,Engine,2,Clear,22,69
+5059,False Alarm,Engine,2,Clear,3,56
+5060,Medical,Ambulance,3,Storm,23,122
+5061,Medical,Chief,1,Clear,20,53
+5062,Traffic Accident,Chief,1,Fog,21,53
+5063,Medical,Ladder,2,Clear,10,51
+5064,Wellness Check,Ladder,3,Clear,9,114
+5065,Medical,Ladder,2,Clear,17,92
+5066,Medical,Ambulance,2,Clear,0,74
+5067,False Alarm,Engine,2,Storm,16,140
+5068,Traffic Accident,Chief,1,Rain,15,30
+5069,Wellness Check,Chief,2,Fog,11,63
+5070,Medical,Engine,1,Snow,15,58
+5071,Traffic Accident,Chief,3,Clear,8,101
+5072,Structure Fire,Engine,1,Rain,16,97
+5073,Traffic Accident,Ambulance,2,Rain,2,73
+5074,Traffic Accident,Ambulance,1,Rain,17,76
+5075,Structure Fire,Ambulance,2,Clear,14,53
+5076,Medical,Engine,1,Clear,14,67
+5077,Medical,Engine,2,Clear,15,76
+5078,Traffic Accident,Rescue Squad,1,Clear,19,42
+5079,Medical,Chief,2,Clear,0,54
+5080,Traffic Accident,Chief,2,Fog,0,50
+5081,Medical,Rescue Squad,2,Clear,3,63
+5082,Traffic Accident,Rescue Squad,2,Clear,12,55
+5083,Traffic Accident,Ambulance,2,Clear,3,61
+5084,Medical,Rescue Squad,2,Rain,22,69
+5085,Medical,Engine,3,Clear,7,107
+5086,Medical,Ladder,2,Storm,12,98
+5087,Traffic Accident,Engine,1,Storm,23,95
+5088,Wellness Check,Rescue Squad,3,Fog,7,104
+5089,Medical,Chief,1,Clear,13,51
+5090,Traffic Accident,Engine,3,Clear,0,94
+5091,Medical,Chief,1,Fog,8,72
+5092,Medical,Engine,2,Snow,23,116
+5093,False Alarm,Chief,1,Fog,0,61
+5094,Medical,Engine,3,Clear,6,98
+5095,Medical,Chief,2,Clear,19,58
+5096,Medical,Ladder,2,Clear,12,68
+5097,Medical,Ambulance,1,Snow,14,80
+5098,Medical,Engine,2,Rain,8,94
+5099,Medical,Ladder,2,Clear,15,64
+5100,Traffic Accident,Ambulance,2,Clear,16,78
+5101,Medical,Engine,1,Clear,8,77
+5102,Structure Fire,Ladder,2,Rain,5,70
+5103,Medical,Ladder,2,Clear,19,84
+5104,Medical,Ladder,1,Clear,11,32
+5105,Traffic Accident,Rescue Squad,1,Clear,15,47
+5106,False Alarm,Chief,2,Clear,20,55
+5107,Medical,Ambulance,3,Fog,14,88
+5108,Wellness Check,Chief,1,Rain,6,42
+5109,Structure Fire,Chief,2,Rain,9,78
+5110,Structure Fire,Chief,1,Rain,3,54
+5111,Structure Fire,Ladder,2,Clear,23,82
+5112,Medical,Chief,2,Rain,2,59
+5113,Medical,Rescue Squad,1,Storm,17,81
+5114,Traffic Accident,Engine,2,Rain,0,82
+5115,Medical,Ladder,3,Clear,12,101
+5116,False Alarm,Ambulance,3,Rain,21,90
+5117,Medical,Engine,1,Fog,17,66
+5118,Medical,Engine,1,Clear,7,71
+5119,Traffic Accident,Engine,3,Clear,10,106
+5120,Medical,Chief,1,Fog,9,75
+5121,Structure Fire,Chief,2,Fog,3,52
+5122,Traffic Accident,Ladder,1,Clear,3,53
+5123,False Alarm,Chief,2,Clear,3,60
+5124,Traffic Accident,Chief,1,Clear,11,43
+5125,Traffic Accident,Chief,3,Clear,7,92
+5126,Traffic Accident,Ladder,3,Fog,12,102
+5127,False Alarm,Ladder,1,Clear,7,79
+5128,Medical,Rescue Squad,3,Clear,20,102
+5129,Medical,Rescue Squad,2,Fog,2,72
+5130,Medical,Rescue Squad,1,Clear,11,46
+5131,Medical,Rescue Squad,2,Rain,17,101
+5132,Traffic Accident,Engine,2,Clear,14,73
+5133,Traffic Accident,Engine,1,Snow,13,101
+5134,Structure Fire,Rescue Squad,1,Storm,8,88
+5135,Medical,Rescue Squad,3,Clear,4,84
+5136,Traffic Accident,Ambulance,3,Snow,14,115
+5137,Medical,Engine,3,Storm,7,142
+5138,Traffic Accident,Ambulance,1,Storm,22,70
+5139,Structure Fire,Ambulance,2,Clear,2,72
+5140,Medical,Chief,1,Clear,11,47
+5141,Medical,Ladder,3,Clear,4,65
+5142,Medical,Engine,1,Clear,8,76
+5143,Wellness Check,Rescue Squad,2,Clear,19,50
+5144,False Alarm,Rescue Squad,2,Clear,2,55
+5145,Traffic Accident,Ladder,3,Rain,22,101
+5146,Medical,Engine,2,Clear,7,73
+5147,Medical,Rescue Squad,2,Fog,20,47
+5148,Traffic Accident,Rescue Squad,2,Snow,12,80
+5149,Traffic Accident,Chief,3,Clear,7,94
+5150,Medical,Ambulance,1,Clear,4,30
+5151,Medical,Rescue Squad,3,Rain,6,63
+5152,Traffic Accident,Engine,3,Clear,4,87
+5153,Medical,Ladder,1,Clear,8,82
+5154,Medical,Chief,1,Fog,4,35
+5155,Medical,Engine,2,Clear,7,91
+5156,Structure Fire,Chief,1,Fog,11,46
+5157,Wellness Check,Ambulance,2,Fog,3,65
+5158,False Alarm,Rescue Squad,2,Clear,8,70
+5159,Structure Fire,Engine,2,Snow,21,131
+5160,Structure Fire,Ladder,1,Clear,21,43
+5161,Medical,Ambulance,2,Fog,13,53
+5162,Structure Fire,Ambulance,2,Snow,18,120
+5163,Medical,Chief,3,Clear,12,81
+5164,Traffic Accident,Ambulance,1,Clear,2,53
+5165,Medical,Engine,2,Rain,3,66
+5166,Medical,Chief,3,Clear,0,67
+5167,Medical,Ambulance,2,Storm,21,79
+5168,Medical,Ladder,2,Clear,0,87
+5169,Medical,Engine,1,Clear,10,51
+5170,Medical,Ladder,3,Clear,15,88
+5171,False Alarm,Ladder,2,Rain,3,88
+5172,Medical,Chief,3,Snow,6,110
+5173,Structure Fire,Rescue Squad,3,Clear,11,80
+5174,Wellness Check,Chief,2,Rain,5,49
+5175,False Alarm,Engine,2,Rain,23,56
+5176,Structure Fire,Engine,1,Clear,19,73
+5177,Wellness Check,Chief,1,Clear,8,80
+5178,Medical,Rescue Squad,2,Clear,7,92
+5179,Medical,Chief,2,Clear,13,69
+5180,Medical,Engine,2,Clear,14,77
+5181,Traffic Accident,Rescue Squad,3,Fog,20,72
+5182,Traffic Accident,Engine,1,Storm,21,84
+5183,Medical,Rescue Squad,2,Clear,4,54
+5184,Medical,Rescue Squad,2,Clear,14,34
+5185,Traffic Accident,Chief,2,Clear,5,71
+5186,Medical,Chief,3,Snow,0,117
+5187,Structure Fire,Chief,2,Clear,19,46
+5188,Traffic Accident,Rescue Squad,2,Rain,8,83
+5189,Traffic Accident,Rescue Squad,2,Clear,3,70
+5190,Traffic Accident,Engine,1,Rain,1,56
+5191,Wellness Check,Ladder,2,Clear,5,53
+5192,Medical,Chief,2,Clear,1,47
+5193,Traffic Accident,Engine,3,Clear,2,108
+5194,Traffic Accident,Engine,3,Clear,6,90
+5195,Medical,Ambulance,2,Fog,19,70
+5196,Medical,Chief,2,Clear,16,95
+5197,Medical,Engine,1,Clear,8,67
+5198,Medical,Ambulance,1,Fog,21,48
+5199,Traffic Accident,Chief,2,Clear,8,59
+5200,Wellness Check,Rescue Squad,2,Clear,18,83
+5201,Medical,Ambulance,1,Fog,4,50
+5202,Medical,Rescue Squad,2,Rain,5,58
+5203,False Alarm,Ladder,2,Clear,17,100
+5204,Medical,Ladder,1,Rain,0,64
+5205,Medical,Ladder,2,Rain,16,90
+5206,Structure Fire,Ladder,1,Clear,13,58
+5207,Structure Fire,Engine,2,Rain,14,71
+5208,Medical,Ladder,3,Rain,4,84
+5209,Medical,Engine,2,Storm,16,109
+5210,Medical,Engine,3,Storm,20,139
+5211,Structure Fire,Chief,1,Clear,20,52
+5212,Structure Fire,Engine,2,Clear,22,62
+5213,Medical,Engine,2,Clear,22,70
+5214,Traffic Accident,Ladder,2,Clear,10,56
+5215,Wellness Check,Engine,3,Clear,9,107
+5216,Medical,Rescue Squad,2,Rain,16,94
+5217,Medical,Ladder,2,Clear,0,72
+5218,Traffic Accident,Ambulance,1,Clear,4,46
+5219,Medical,Ladder,2,Snow,15,86
+5220,Medical,Engine,2,Rain,6,59
+5221,Traffic Accident,Rescue Squad,2,Rain,11,69
+5222,Wellness Check,Ladder,3,Clear,7,130
+5223,Wellness Check,Rescue Squad,1,Rain,17,76
+5224,Structure Fire,Ambulance,2,Fog,0,58
+5225,Traffic Accident,Ambulance,2,Clear,19,72
+5226,Medical,Chief,3,Clear,11,71
+5227,Traffic Accident,Chief,3,Storm,3,131
+5228,Medical,Ladder,2,Clear,11,64
+5229,Medical,Chief,1,Clear,21,39
+5230,Traffic Accident,Rescue Squad,2,Clear,0,56
+5231,Structure Fire,Chief,2,Clear,0,58
+5232,Medical,Rescue Squad,3,Clear,2,89
+5233,False Alarm,Chief,2,Clear,20,46
+5234,Medical,Chief,2,Clear,11,53
+5235,Medical,Chief,2,Clear,21,62
+5236,Medical,Engine,2,Rain,20,75
+5237,Traffic Accident,Engine,3,Storm,12,103
+5238,Traffic Accident,Chief,1,Clear,12,37
+5239,Medical,Rescue Squad,2,Rain,20,42
+5240,Traffic Accident,Ladder,3,Clear,8,108
+5241,Medical,Ambulance,1,Clear,17,60
+5242,Traffic Accident,Engine,2,Storm,0,105
+5243,Medical,Chief,2,Clear,5,37
+5244,Medical,Ambulance,2,Clear,22,66
+5245,False Alarm,Engine,1,Clear,23,49
+5246,Medical,Ladder,2,Rain,4,66
+5247,Medical,Rescue Squad,2,Clear,3,69
+5248,Structure Fire,Chief,1,Clear,5,58
+5249,False Alarm,Ladder,2,Snow,2,105
+5250,Medical,Engine,1,Clear,16,77
+5251,Medical,Chief,2,Clear,10,56
+5252,Medical,Ambulance,3,Clear,3,73
+5253,Structure Fire,Rescue Squad,1,Clear,19,30
+5254,Medical,Engine,1,Clear,0,54
+5255,Traffic Accident,Rescue Squad,3,Rain,3,73
+5256,False Alarm,Chief,2,Rain,22,60
+5257,Medical,Ladder,1,Clear,2,72
+5258,Medical,Rescue Squad,2,Clear,9,84
+5259,Medical,Ambulance,1,Clear,21,37
+5260,Medical,Engine,1,Clear,0,52
+5261,Wellness Check,Ambulance,3,Clear,3,81
+5262,Medical,Rescue Squad,2,Clear,18,78
+5263,Medical,Ladder,2,Clear,0,64
+5264,Traffic Accident,Ladder,1,Clear,15,38
+5265,Medical,Ambulance,1,Clear,18,78
+5266,Traffic Accident,Chief,3,Clear,19,71
+5267,Medical,Chief,1,Clear,20,59
+5268,Wellness Check,Ladder,2,Clear,21,66
+5269,False Alarm,Ambulance,1,Rain,17,55
+5270,Traffic Accident,Ambulance,2,Clear,1,55
+5271,False Alarm,Ambulance,1,Clear,5,46
+5272,Medical,Rescue Squad,2,Clear,20,51
+5273,Medical,Chief,3,Clear,0,73
+5274,Traffic Accident,Chief,2,Rain,18,82
+5275,Structure Fire,Rescue Squad,1,Storm,4,71
+5276,Medical,Engine,2,Clear,1,75
+5277,Medical,Rescue Squad,1,Rain,0,53
+5278,Medical,Ambulance,2,Clear,15,66
+5279,Medical,Rescue Squad,2,Clear,20,62
+5280,Medical,Ambulance,1,Clear,1,30
+5281,Traffic Accident,Ladder,2,Fog,3,57
+5282,Medical,Ambulance,2,Clear,2,46
+5283,Medical,Chief,3,Storm,22,103
+5284,Structure Fire,Rescue Squad,2,Clear,16,89
+5285,Structure Fire,Ambulance,1,Clear,14,33
+5286,Wellness Check,Engine,2,Rain,9,89
+5287,Structure Fire,Ladder,2,Fog,11,76
+5288,Medical,Engine,2,Snow,11,90
+5289,Wellness Check,Engine,2,Rain,19,61
+5290,Structure Fire,Engine,2,Clear,6,81
+5291,Medical,Ladder,1,Clear,9,70
+5292,Structure Fire,Ladder,1,Clear,4,58
+5293,False Alarm,Ladder,2,Clear,19,82
+5294,Medical,Ladder,2,Storm,19,97
+5295,Medical,Engine,3,Rain,10,78
+5296,Medical,Chief,2,Snow,1,89
+5297,Medical,Chief,3,Clear,23,80
+5298,Medical,Ladder,3,Rain,15,83
+5299,Structure Fire,Rescue Squad,3,Fog,11,99
+5300,Medical,Ambulance,1,Clear,15,50
+5301,False Alarm,Rescue Squad,3,Clear,3,71
+5302,Traffic Accident,Rescue Squad,1,Rain,1,31
+5303,Structure Fire,Rescue Squad,1,Clear,9,62
+5304,Wellness Check,Chief,2,Storm,12,103
+5305,Medical,Ambulance,1,Clear,22,63
+5306,Medical,Rescue Squad,1,Clear,18,65
+5307,Traffic Accident,Ladder,1,Clear,14,52
+5308,Wellness Check,Chief,1,Clear,22,35
+5309,Traffic Accident,Ladder,2,Clear,0,73
+5310,Medical,Ladder,1,Clear,16,82
+5311,False Alarm,Rescue Squad,2,Fog,19,42
+5312,Medical,Ladder,3,Fog,3,90
+5313,Wellness Check,Ambulance,2,Clear,19,49
+5314,False Alarm,Ladder,2,Clear,8,80
+5315,Medical,Rescue Squad,3,Clear,5,96
+5316,Traffic Accident,Ladder,1,Rain,2,63
+5317,Medical,Chief,2,Clear,21,53
+5318,Medical,Chief,3,Clear,1,78
+5319,Structure Fire,Chief,3,Clear,17,93
+5320,Structure Fire,Engine,2,Rain,22,58
+5321,False Alarm,Chief,1,Clear,18,69
+5322,Traffic Accident,Chief,3,Rain,6,87
+5323,Medical,Engine,1,Storm,2,85
+5324,Wellness Check,Chief,2,Clear,17,94
+5325,False Alarm,Rescue Squad,2,Clear,19,54
+5326,Medical,Chief,2,Clear,19,48
+5327,False Alarm,Chief,2,Clear,18,92
+5328,Medical,Engine,3,Clear,8,98
+5329,Wellness Check,Rescue Squad,2,Clear,15,77
+5330,Medical,Ladder,1,Snow,5,88
+5331,Medical,Ambulance,2,Clear,20,61
+5332,Medical,Rescue Squad,2,Clear,11,55
+5333,Traffic Accident,Ladder,2,Clear,5,66
+5334,Medical,Rescue Squad,3,Clear,12,82
+5335,Medical,Ladder,3,Clear,23,91
+5336,Structure Fire,Ladder,2,Clear,4,60
+5337,False Alarm,Rescue Squad,1,Clear,12,45
+5338,Medical,Engine,2,Fog,19,72
+5339,Medical,Rescue Squad,3,Clear,6,76
+5340,Medical,Rescue Squad,2,Rain,11,82
+5341,Medical,Ladder,3,Clear,20,88
+5342,Wellness Check,Ambulance,2,Rain,3,42
+5343,Wellness Check,Ladder,2,Clear,4,59
+5344,Structure Fire,Chief,2,Snow,15,88
+5345,Medical,Rescue Squad,2,Clear,3,52
+5346,Traffic Accident,Rescue Squad,3,Clear,7,85
+5347,Structure Fire,Engine,1,Clear,15,68
+5348,Wellness Check,Ladder,1,Clear,7,78
+5349,Traffic Accident,Engine,2,Clear,16,80
+5350,Traffic Accident,Rescue Squad,1,Fog,13,30
+5351,Structure Fire,Ladder,2,Clear,11,76
+5352,Medical,Ladder,1,Rain,2,55
+5353,False Alarm,Chief,1,Clear,19,58
+5354,Structure Fire,Chief,2,Clear,1,49
+5355,Traffic Accident,Ambulance,2,Clear,12,56
+5356,Medical,Chief,1,Clear,20,47
+5357,Traffic Accident,Ladder,1,Clear,10,67
+5358,Structure Fire,Chief,1,Rain,23,47
+5359,Medical,Ambulance,2,Clear,11,52
+5360,Medical,Rescue Squad,1,Rain,17,80
+5361,Traffic Accident,Chief,2,Rain,8,76
+5362,Traffic Accident,Ladder,2,Clear,6,71
+5363,Structure Fire,Rescue Squad,2,Rain,5,67
+5364,Medical,Ladder,1,Clear,23,70
+5365,Traffic Accident,Rescue Squad,2,Clear,13,63
+5366,Medical,Ladder,3,Clear,17,135
+5367,Medical,Chief,2,Clear,13,59
+5368,Medical,Chief,2,Rain,4,62
+5369,Medical,Ambulance,2,Fog,19,53
+5370,Medical,Rescue Squad,1,Clear,23,48
+5371,Medical,Ambulance,2,Clear,12,62
+5372,Medical,Engine,3,Clear,0,100
+5373,Medical,Chief,2,Rain,11,64
+5374,Structure Fire,Rescue Squad,2,Clear,18,79
+5375,Medical,Ambulance,2,Clear,9,80
+5376,Medical,Ambulance,1,Rain,23,38
+5377,Wellness Check,Engine,1,Clear,4,60
+5378,Medical,Ambulance,3,Storm,19,113
+5379,Structure Fire,Ladder,3,Clear,5,76
+5380,Medical,Chief,2,Storm,11,83
+5381,Medical,Ambulance,3,Clear,20,68
+5382,Structure Fire,Ambulance,2,Clear,2,54
+5383,Structure Fire,Engine,1,Rain,13,46
+5384,Wellness Check,Ladder,2,Rain,20,69
+5385,Structure Fire,Ambulance,1,Snow,3,83
+5386,False Alarm,Chief,3,Clear,16,105
+5387,Medical,Chief,3,Fog,16,113
+5388,Medical,Ambulance,3,Clear,13,76
+5389,Medical,Ladder,2,Clear,14,82
+5390,Medical,Chief,1,Clear,6,35
+5391,Structure Fire,Chief,1,Rain,3,55
+5392,Traffic Accident,Ladder,2,Rain,16,95
+5393,Medical,Ladder,2,Clear,5,66
+5394,False Alarm,Ambulance,2,Clear,10,71
+5395,Wellness Check,Rescue Squad,3,Clear,11,85
+5396,Medical,Engine,3,Clear,14,79
+5397,Medical,Rescue Squad,1,Clear,11,48
+5398,Medical,Rescue Squad,1,Rain,10,48
+5399,Medical,Chief,2,Rain,16,99
+5400,Medical,Ladder,1,Fog,7,76
+5401,Structure Fire,Chief,2,Clear,11,66
+5402,Medical,Engine,2,Clear,8,91
+5403,Medical,Ambulance,1,Clear,10,42
+5404,False Alarm,Engine,2,Rain,2,67
+5405,Traffic Accident,Chief,2,Clear,6,44
+5406,False Alarm,Chief,3,Fog,20,92
+5407,Medical,Chief,1,Rain,2,33
+5408,Medical,Chief,3,Clear,20,82
+5409,Structure Fire,Rescue Squad,2,Clear,15,56
+5410,Medical,Ambulance,2,Rain,9,84
+5411,Medical,Rescue Squad,1,Rain,22,51
+5412,Traffic Accident,Chief,2,Clear,6,52
+5413,Traffic Accident,Ladder,2,Clear,23,74
+5414,Medical,Rescue Squad,2,Clear,19,64
+5415,Medical,Chief,2,Rain,14,52
+5416,Medical,Chief,2,Clear,20,69
+5417,Medical,Ambulance,3,Clear,20,93
+5418,Medical,Engine,1,Clear,9,91
+5419,Medical,Rescue Squad,3,Fog,11,77
+5420,Medical,Rescue Squad,1,Clear,17,70
+5421,False Alarm,Rescue Squad,3,Rain,22,82
+5422,Structure Fire,Chief,3,Clear,22,86
+5423,Traffic Accident,Ambulance,2,Clear,8,104
+5424,Medical,Chief,2,Clear,8,88
+5425,Medical,Chief,2,Clear,3,65
+5426,Medical,Ladder,1,Rain,4,44
+5427,Medical,Ambulance,2,Clear,6,80
+5428,Medical,Rescue Squad,2,Clear,6,55
+5429,Traffic Accident,Engine,3,Clear,10,63
+5430,Traffic Accident,Rescue Squad,3,Rain,9,73
+5431,Structure Fire,Chief,2,Clear,10,63
+5432,Medical,Ambulance,2,Clear,23,47
+5433,False Alarm,Ambulance,2,Clear,23,60
+5434,Medical,Ambulance,2,Fog,17,70
+5435,Medical,Ladder,2,Clear,11,73
+5436,Medical,Rescue Squad,2,Rain,15,65
+5437,Traffic Accident,Ladder,3,Clear,3,91
+5438,False Alarm,Engine,2,Clear,16,78
+5439,Medical,Chief,2,Clear,16,96
+5440,Wellness Check,Ladder,2,Clear,20,66
+5441,Wellness Check,Ladder,2,Rain,22,68
+5442,Medical,Chief,2,Clear,4,54
+5443,Medical,Ambulance,2,Clear,12,57
+5444,Medical,Chief,1,Rain,2,63
+5445,False Alarm,Rescue Squad,2,Clear,22,59
+5446,Medical,Chief,2,Clear,16,62
+5447,Traffic Accident,Ambulance,2,Fog,10,50
+5448,Medical,Chief,2,Clear,0,57
+5449,Traffic Accident,Ladder,2,Rain,17,79
+5450,Medical,Engine,2,Clear,16,98
+5451,Structure Fire,Ladder,3,Clear,8,100
+5452,Wellness Check,Engine,2,Clear,19,68
+5453,Wellness Check,Chief,3,Fog,6,90
+5454,Wellness Check,Rescue Squad,2,Clear,4,53
+5455,Medical,Chief,2,Clear,15,64
+5456,Traffic Accident,Ambulance,2,Snow,6,104
+5457,Medical,Chief,1,Clear,12,44
+5458,Medical,Engine,1,Rain,12,60
+5459,Structure Fire,Ladder,2,Clear,14,51
+5460,Medical,Rescue Squad,2,Clear,22,72
+5461,Structure Fire,Chief,2,Clear,16,57
+5462,False Alarm,Chief,2,Clear,16,88
+5463,Medical,Ladder,2,Rain,18,94
+5464,Traffic Accident,Rescue Squad,1,Rain,9,77
+5465,Medical,Chief,2,Rain,1,76
+5466,Medical,Chief,1,Fog,13,56
+5467,Medical,Engine,2,Clear,22,78
+5468,False Alarm,Engine,2,Fog,2,67
+5469,Wellness Check,Ambulance,2,Fog,6,56
+5470,False Alarm,Ladder,1,Clear,10,63
+5471,False Alarm,Rescue Squad,1,Clear,16,71
+5472,Medical,Chief,2,Rain,14,63
+5473,Medical,Chief,2,Clear,18,79
+5474,Traffic Accident,Ambulance,1,Rain,10,40
+5475,Medical,Chief,3,Clear,14,66
+5476,Medical,Ladder,1,Clear,14,61
+5477,Medical,Ambulance,2,Clear,5,58
+5478,Structure Fire,Ladder,1,Clear,14,52
+5479,Structure Fire,Ambulance,2,Clear,8,65
+5480,Medical,Chief,2,Clear,4,60
+5481,Medical,Ambulance,1,Clear,18,50
+5482,Structure Fire,Engine,2,Snow,23,95
+5483,Structure Fire,Rescue Squad,2,Clear,4,67
+5484,Medical,Chief,2,Rain,21,60
+5485,Traffic Accident,Rescue Squad,1,Clear,12,43
+5486,Medical,Chief,2,Rain,17,72
+5487,Medical,Rescue Squad,1,Fog,19,39
+5488,Traffic Accident,Engine,2,Clear,16,112
+5489,Structure Fire,Rescue Squad,2,Fog,14,67
+5490,Medical,Ambulance,3,Clear,13,75
+5491,Traffic Accident,Rescue Squad,2,Clear,15,58
+5492,Structure Fire,Chief,2,Fog,3,62
+5493,Traffic Accident,Ladder,2,Clear,16,103
+5494,Traffic Accident,Rescue Squad,1,Clear,19,44
+5495,Traffic Accident,Rescue Squad,1,Clear,13,30
+5496,Medical,Rescue Squad,2,Rain,17,86
+5497,Medical,Chief,2,Rain,5,59
+5498,Medical,Rescue Squad,1,Clear,21,65
+5499,Medical,Chief,2,Storm,7,140
+5500,Structure Fire,Chief,2,Rain,8,83
+5501,Structure Fire,Ladder,2,Fog,23,63
+5502,Medical,Ambulance,1,Clear,0,51
+5503,Medical,Chief,2,Rain,12,43
+5504,Medical,Engine,1,Fog,2,49
+5505,Medical,Rescue Squad,1,Clear,5,30
+5506,Traffic Accident,Engine,2,Storm,16,138
+5507,Medical,Rescue Squad,2,Clear,7,76
+5508,Structure Fire,Ladder,2,Clear,5,67
+5509,False Alarm,Chief,1,Fog,15,44
+5510,Medical,Ambulance,2,Storm,0,84
+5511,Medical,Chief,1,Clear,9,66
+5512,Medical,Rescue Squad,2,Clear,17,88
+5513,Traffic Accident,Ambulance,2,Rain,21,47
+5514,Structure Fire,Chief,2,Fog,13,77
+5515,Medical,Ambulance,3,Rain,23,69
+5516,Structure Fire,Rescue Squad,2,Rain,4,60
+5517,Wellness Check,Ladder,2,Rain,16,95
+5518,Medical,Ladder,2,Clear,13,76
+5519,Medical,Chief,1,Storm,17,118
+5520,Wellness Check,Engine,3,Clear,3,74
+5521,Structure Fire,Rescue Squad,2,Rain,19,50
+5522,Wellness Check,Chief,1,Clear,22,46
+5523,Structure Fire,Chief,2,Clear,1,64
+5524,Wellness Check,Ladder,1,Rain,6,67
+5525,Medical,Ambulance,3,Storm,6,117
+5526,Traffic Accident,Rescue Squad,3,Rain,6,70
+5527,False Alarm,Ambulance,2,Rain,12,54
+5528,Structure Fire,Rescue Squad,1,Clear,18,93
+5529,Medical,Engine,1,Snow,21,91
+5530,Medical,Ladder,1,Clear,5,53
+5531,Medical,Engine,1,Clear,19,67
+5532,Medical,Chief,2,Clear,16,82
+5533,Medical,Ladder,3,Rain,17,124
+5534,Structure Fire,Chief,2,Storm,23,73
+5535,Structure Fire,Engine,2,Rain,0,73
+5536,Medical,Rescue Squad,2,Clear,22,70
+5537,Traffic Accident,Chief,3,Clear,12,76
+5538,Medical,Ambulance,1,Clear,18,68
+5539,Medical,Rescue Squad,2,Clear,15,54
+5540,Medical,Rescue Squad,2,Clear,9,79
+5541,Structure Fire,Engine,3,Rain,12,85
+5542,Medical,Engine,3,Storm,9,145
+5543,Medical,Ladder,2,Clear,13,57
+5544,Medical,Ladder,1,Clear,8,63
+5545,Wellness Check,Ambulance,2,Snow,20,93
+5546,Medical,Rescue Squad,1,Rain,10,30
+5547,Traffic Accident,Ambulance,2,Fog,2,53
+5548,Traffic Accident,Ambulance,2,Clear,7,79
+5549,Traffic Accident,Engine,2,Clear,11,73
+5550,False Alarm,Ambulance,3,Storm,2,107
+5551,Medical,Ambulance,2,Clear,6,48
+5552,Medical,Chief,2,Rain,13,72
+5553,Wellness Check,Ladder,1,Clear,6,65
+5554,Medical,Ladder,3,Clear,6,86
+5555,Structure Fire,Rescue Squad,1,Snow,13,51
+5556,Traffic Accident,Ladder,1,Clear,11,58
+5557,Traffic Accident,Rescue Squad,1,Snow,0,67
+5558,False Alarm,Chief,2,Clear,4,53
+5559,False Alarm,Ladder,1,Storm,10,60
+5560,Traffic Accident,Chief,3,Clear,0,77
+5561,Medical,Ladder,3,Clear,22,97
+5562,Wellness Check,Ladder,3,Clear,12,99
+5563,Medical,Chief,1,Rain,23,44
+5564,Medical,Ambulance,3,Snow,22,110
+5565,Wellness Check,Ambulance,3,Clear,16,103
+5566,Medical,Ambulance,3,Clear,2,68
+5567,Medical,Ambulance,2,Snow,9,97
+5568,Medical,Ladder,2,Snow,18,114
+5569,Wellness Check,Engine,1,Rain,6,70
+5570,Structure Fire,Chief,3,Snow,19,118
+5571,Traffic Accident,Engine,1,Clear,2,41
+5572,Medical,Engine,2,Clear,21,65
+5573,Traffic Accident,Rescue Squad,3,Clear,11,104
+5574,Traffic Accident,Ambulance,2,Storm,21,77
+5575,Medical,Ladder,1,Clear,9,91
+5576,Medical,Ambulance,3,Clear,20,89
+5577,Medical,Ambulance,3,Fog,11,91
+5578,False Alarm,Engine,1,Clear,14,50
+5579,Traffic Accident,Rescue Squad,3,Snow,5,104
+5580,False Alarm,Ambulance,2,Snow,18,105
+5581,Medical,Chief,2,Storm,4,109
+5582,Traffic Accident,Chief,1,Clear,19,30
+5583,Traffic Accident,Ambulance,1,Clear,1,43
+5584,Traffic Accident,Engine,1,Fog,20,71
+5585,False Alarm,Engine,1,Clear,18,88
+5586,Medical,Ladder,3,Clear,18,126
+5587,Medical,Rescue Squad,2,Rain,3,43
+5588,Traffic Accident,Engine,3,Clear,19,80
+5589,Traffic Accident,Ladder,2,Fog,4,81
+5590,Structure Fire,Chief,1,Rain,6,46
+5591,Medical,Chief,3,Clear,3,69
+5592,Structure Fire,Chief,3,Clear,10,86
+5593,Medical,Ambulance,2,Clear,22,54
+5594,Medical,Rescue Squad,1,Clear,2,70
+5595,Traffic Accident,Ladder,2,Rain,4,75
+5596,Traffic Accident,Rescue Squad,2,Clear,19,50
+5597,Medical,Ambulance,3,Clear,14,88
+5598,Medical,Ladder,1,Fog,20,71
+5599,Medical,Ladder,1,Clear,17,74
+5600,Medical,Engine,2,Clear,15,62
+5601,Traffic Accident,Rescue Squad,2,Storm,15,101
+5602,False Alarm,Rescue Squad,1,Clear,9,56
+5603,Medical,Engine,2,Fog,0,67
+5604,Traffic Accident,Chief,2,Rain,22,46
+5605,Wellness Check,Ambulance,2,Rain,10,68
+5606,Wellness Check,Rescue Squad,2,Rain,16,65
+5607,Medical,Engine,2,Clear,23,76
+5608,False Alarm,Ladder,3,Snow,14,108
+5609,Medical,Engine,3,Snow,6,135
+5610,Medical,Chief,1,Clear,5,40
+5611,Medical,Ambulance,1,Clear,14,46
+5612,Medical,Chief,3,Fog,14,84
+5613,Medical,Ladder,2,Clear,6,66
+5614,Medical,Ladder,2,Fog,2,52
+5615,Medical,Ladder,2,Rain,13,73
+5616,Wellness Check,Ladder,1,Clear,8,78
+5617,Wellness Check,Engine,2,Clear,2,55
+5618,Medical,Ladder,2,Clear,5,60
+5619,Wellness Check,Ladder,2,Clear,19,66
+5620,Wellness Check,Engine,1,Clear,8,60
+5621,Traffic Accident,Ladder,3,Rain,0,97
+5622,Medical,Chief,2,Rain,8,74
+5623,Traffic Accident,Chief,2,Rain,11,62
+5624,False Alarm,Rescue Squad,3,Snow,3,112
+5625,Traffic Accident,Chief,2,Clear,15,80
+5626,Medical,Ambulance,2,Rain,4,45
+5627,Structure Fire,Ambulance,3,Clear,16,103
+5628,Traffic Accident,Ambulance,2,Clear,16,100
+5629,Structure Fire,Engine,2,Clear,5,58
+5630,Medical,Chief,3,Clear,14,80
+5631,Medical,Ambulance,1,Clear,0,51
+5632,Wellness Check,Rescue Squad,1,Clear,12,30
+5633,Wellness Check,Engine,3,Clear,15,83
+5634,Medical,Rescue Squad,3,Storm,1,114
+5635,False Alarm,Chief,3,Clear,18,112
+5636,Medical,Ladder,1,Rain,22,46
+5637,Traffic Accident,Rescue Squad,1,Clear,1,63
+5638,Traffic Accident,Ladder,1,Clear,20,59
+5639,Wellness Check,Engine,2,Clear,11,77
+5640,False Alarm,Rescue Squad,2,Clear,11,67
+5641,Medical,Rescue Squad,2,Rain,7,73
+5642,Wellness Check,Engine,1,Clear,11,53
+5643,Medical,Engine,2,Clear,23,69
+5644,Traffic Accident,Ambulance,2,Clear,10,57
+5645,Traffic Accident,Chief,1,Clear,1,47
+5646,Traffic Accident,Rescue Squad,3,Rain,0,58
+5647,Medical,Rescue Squad,1,Clear,3,46
+5648,Wellness Check,Engine,2,Clear,8,86
+5649,Medical,Engine,3,Clear,6,68
+5650,Medical,Chief,2,Clear,21,64
+5651,Traffic Accident,Engine,1,Clear,9,64
+5652,Medical,Ladder,2,Clear,19,66
+5653,Wellness Check,Ladder,3,Clear,13,87
+5654,Medical,Ladder,1,Rain,0,36
+5655,Medical,Ladder,2,Rain,4,52
+5656,Wellness Check,Chief,3,Clear,12,85
+5657,Structure Fire,Rescue Squad,3,Clear,5,73
+5658,Medical,Ladder,2,Clear,21,66
+5659,Traffic Accident,Engine,3,Rain,16,116
+5660,Structure Fire,Ladder,3,Clear,14,72
+5661,Traffic Accident,Chief,2,Fog,6,55
+5662,Medical,Engine,1,Clear,7,73
+5663,Wellness Check,Ladder,1,Clear,20,72
+5664,Wellness Check,Rescue Squad,1,Rain,1,35
+5665,Traffic Accident,Engine,3,Clear,17,124
+5666,Medical,Engine,2,Clear,20,69
+5667,Wellness Check,Rescue Squad,3,Clear,22,68
+5668,Traffic Accident,Engine,2,Clear,6,63
+5669,Traffic Accident,Ladder,2,Snow,19,100
+5670,Medical,Engine,2,Rain,15,77
+5671,Wellness Check,Ladder,1,Clear,18,72
+5672,Traffic Accident,Rescue Squad,3,Clear,8,100
+5673,Medical,Ambulance,2,Clear,11,49
+5674,Medical,Rescue Squad,2,Snow,13,85
+5675,Wellness Check,Ladder,1,Clear,6,50
+5676,Medical,Chief,3,Clear,1,89
+5677,False Alarm,Rescue Squad,3,Clear,16,103
+5678,Traffic Accident,Chief,2,Clear,10,53
+5679,Traffic Accident,Chief,2,Rain,17,81
+5680,Medical,Ladder,2,Rain,11,69
+5681,Medical,Ladder,1,Clear,2,53
+5682,False Alarm,Ambulance,1,Rain,20,42
+5683,Medical,Engine,2,Clear,13,66
+5684,Traffic Accident,Rescue Squad,1,Clear,14,58
+5685,Medical,Ladder,2,Clear,18,83
+5686,Medical,Rescue Squad,2,Clear,9,90
+5687,Medical,Chief,2,Rain,8,111
+5688,Structure Fire,Engine,1,Fog,9,69
+5689,False Alarm,Ambulance,2,Clear,19,61
+5690,Medical,Rescue Squad,2,Clear,22,62
+5691,Medical,Engine,2,Clear,3,69
+5692,Medical,Ambulance,2,Snow,18,104
+5693,Structure Fire,Rescue Squad,3,Snow,9,117
+5694,Medical,Engine,1,Clear,16,81
+5695,Wellness Check,Ladder,3,Rain,11,71
+5696,Structure Fire,Rescue Squad,1,Rain,0,62
+5697,Structure Fire,Engine,2,Clear,10,87
+5698,Medical,Ambulance,2,Clear,12,56
+5699,False Alarm,Engine,2,Rain,0,80
+5700,Medical,Ladder,2,Clear,0,67
+5701,Medical,Rescue Squad,2,Clear,20,60
+5702,Traffic Accident,Rescue Squad,2,Clear,15,53
+5703,Structure Fire,Rescue Squad,3,Clear,6,88
+5704,Medical,Ladder,1,Snow,22,93
+5705,Medical,Ambulance,1,Clear,9,70
+5706,Traffic Accident,Rescue Squad,1,Clear,15,44
+5707,Medical,Ambulance,1,Clear,0,44
+5708,Wellness Check,Engine,2,Rain,21,55
+5709,Traffic Accident,Ambulance,2,Clear,8,84
+5710,Medical,Ambulance,1,Clear,5,33
+5711,Medical,Rescue Squad,1,Clear,14,45
+5712,Medical,Chief,2,Rain,3,79
+5713,Traffic Accident,Chief,2,Fog,14,46
+5714,Structure Fire,Ladder,3,Fog,9,117
+5715,Medical,Ladder,3,Clear,15,83
+5716,Structure Fire,Chief,3,Rain,12,69
+5717,False Alarm,Engine,2,Clear,18,89
+5718,Medical,Rescue Squad,2,Rain,19,74
+5719,False Alarm,Rescue Squad,1,Clear,3,62
+5720,Medical,Engine,2,Rain,19,59
+5721,Medical,Engine,1,Clear,21,59
+5722,Medical,Chief,3,Fog,15,70
+5723,Medical,Ladder,2,Rain,10,63
+5724,Medical,Engine,2,Clear,14,49
+5725,Medical,Ladder,1,Fog,10,76
+5726,False Alarm,Ambulance,2,Clear,22,70
+5727,Wellness Check,Rescue Squad,2,Storm,10,94
+5728,Traffic Accident,Chief,1,Rain,2,47
+5729,Medical,Rescue Squad,2,Storm,23,96
+5730,Medical,Chief,1,Clear,23,54
+5731,Medical,Ambulance,2,Clear,16,76
+5732,Traffic Accident,Rescue Squad,2,Rain,4,58
+5733,False Alarm,Ambulance,3,Fog,12,73
+5734,Medical,Chief,2,Clear,9,94
+5735,Medical,Engine,2,Clear,4,92
+5736,Structure Fire,Rescue Squad,3,Clear,11,77
+5737,Medical,Ambulance,2,Fog,7,86
+5738,Medical,Rescue Squad,2,Rain,23,59
+5739,Traffic Accident,Rescue Squad,2,Clear,11,62
+5740,Traffic Accident,Rescue Squad,3,Clear,15,77
+5741,Medical,Ladder,2,Clear,1,66
+5742,Medical,Ambulance,2,Clear,2,60
+5743,False Alarm,Ambulance,2,Rain,17,64
+5744,Medical,Rescue Squad,1,Clear,16,59
+5745,Medical,Engine,3,Rain,1,69
+5746,Medical,Rescue Squad,2,Fog,21,55
+5747,Medical,Ladder,2,Clear,11,60
+5748,Medical,Chief,2,Clear,16,87
+5749,Wellness Check,Ladder,1,Rain,5,47
+5750,Medical,Engine,3,Clear,16,106
+5751,Medical,Rescue Squad,3,Fog,1,58
+5752,Traffic Accident,Ambulance,2,Clear,7,88
+5753,Structure Fire,Rescue Squad,3,Snow,13,104
+5754,Wellness Check,Engine,1,Clear,5,50
+5755,Wellness Check,Ambulance,3,Clear,8,111
+5756,Medical,Ladder,2,Clear,0,77
+5757,Traffic Accident,Chief,2,Storm,4,80
+5758,Medical,Chief,1,Storm,6,72
+5759,False Alarm,Rescue Squad,2,Clear,8,75
+5760,Medical,Ladder,1,Clear,13,57
+5761,False Alarm,Engine,3,Clear,8,99
+5762,Traffic Accident,Chief,3,Clear,3,69
+5763,Medical,Ladder,1,Rain,19,55
+5764,Structure Fire,Rescue Squad,1,Clear,14,37
+5765,False Alarm,Ambulance,3,Rain,3,100
+5766,Wellness Check,Rescue Squad,2,Rain,2,53
+5767,Medical,Rescue Squad,1,Clear,23,33
+5768,Traffic Accident,Ladder,2,Snow,20,83
+5769,Medical,Chief,2,Clear,22,59
+5770,Medical,Ladder,1,Clear,21,56
+5771,Medical,Ambulance,2,Rain,13,63
+5772,Medical,Ladder,2,Clear,8,103
+5773,Wellness Check,Engine,1,Clear,18,59
+5774,Medical,Rescue Squad,3,Fog,5,89
+5775,Wellness Check,Chief,2,Rain,2,50
+5776,Medical,Ambulance,1,Clear,17,64
+5777,Medical,Rescue Squad,1,Rain,15,62
+5778,Medical,Ladder,1,Clear,2,47
+5779,Medical,Engine,2,Storm,1,90
+5780,Medical,Ladder,1,Clear,1,44
+5781,Medical,Rescue Squad,2,Rain,22,56
+5782,Structure Fire,Ambulance,1,Rain,9,84
+5783,Medical,Chief,2,Clear,14,48
+5784,Medical,Rescue Squad,2,Rain,2,55
+5785,Medical,Ambulance,2,Fog,7,93
+5786,Wellness Check,Rescue Squad,2,Rain,17,86
+5787,False Alarm,Engine,3,Clear,10,85
+5788,Medical,Ladder,2,Clear,6,67
+5789,Medical,Chief,2,Fog,18,87
+5790,Medical,Ambulance,2,Clear,6,75
+5791,False Alarm,Chief,3,Rain,1,97
+5792,Medical,Chief,1,Clear,5,58
+5793,Medical,Chief,2,Clear,4,53
+5794,Medical,Ambulance,2,Clear,13,78
+5795,Medical,Ambulance,2,Storm,17,116
+5796,Medical,Chief,2,Rain,3,43
+5797,Traffic Accident,Ladder,2,Clear,3,71
+5798,Medical,Rescue Squad,1,Fog,23,59
+5799,Traffic Accident,Chief,3,Clear,12,86
+5800,Medical,Engine,1,Rain,22,54
+5801,Medical,Chief,1,Clear,20,47
+5802,False Alarm,Ambulance,2,Fog,0,65
+5803,Medical,Rescue Squad,3,Clear,19,81
+5804,Wellness Check,Engine,2,Rain,4,67
+5805,Structure Fire,Rescue Squad,3,Clear,23,72
+5806,Medical,Rescue Squad,1,Clear,2,46
+5807,False Alarm,Engine,2,Clear,20,68
+5808,Medical,Chief,1,Fog,18,69
+5809,Wellness Check,Chief,3,Clear,12,90
+5810,Medical,Chief,2,Rain,6,57
+5811,Wellness Check,Ladder,1,Clear,9,80
+5812,Medical,Chief,2,Clear,2,61
+5813,Structure Fire,Engine,2,Clear,22,96
+5814,Traffic Accident,Ladder,2,Rain,1,59
+5815,False Alarm,Chief,3,Rain,6,90
+5816,False Alarm,Ladder,1,Storm,8,110
+5817,Wellness Check,Engine,1,Fog,20,54
+5818,Wellness Check,Chief,1,Clear,11,31
+5819,Medical,Ambulance,2,Snow,21,121
+5820,Medical,Engine,1,Clear,9,83
+5821,Medical,Rescue Squad,2,Fog,18,95
+5822,Medical,Rescue Squad,1,Clear,12,30
+5823,Medical,Engine,3,Snow,9,142
+5824,Structure Fire,Rescue Squad,1,Clear,4,49
+5825,Medical,Engine,1,Clear,14,53
+5826,Traffic Accident,Ambulance,1,Clear,20,49
+5827,Medical,Engine,2,Clear,2,91
+5828,Medical,Chief,2,Clear,7,89
+5829,Structure Fire,Chief,3,Snow,5,117
+5830,Traffic Accident,Ladder,2,Rain,18,79
+5831,Traffic Accident,Rescue Squad,3,Clear,16,97
+5832,Traffic Accident,Rescue Squad,2,Clear,9,83
+5833,Medical,Engine,1,Clear,0,51
+5834,Structure Fire,Rescue Squad,3,Fog,12,81
+5835,Medical,Chief,3,Clear,9,102
+5836,Medical,Ambulance,3,Clear,11,84
+5837,Medical,Engine,1,Clear,1,56
+5838,Medical,Rescue Squad,2,Clear,9,86
+5839,Medical,Chief,1,Clear,20,70
+5840,False Alarm,Ladder,1,Clear,22,47
+5841,False Alarm,Rescue Squad,2,Clear,0,59
+5842,Medical,Ambulance,3,Clear,0,62
+5843,Medical,Ambulance,2,Clear,19,56
+5844,Medical,Rescue Squad,3,Rain,14,71
+5845,Medical,Rescue Squad,1,Clear,21,37
+5846,False Alarm,Chief,1,Clear,0,33
+5847,Medical,Rescue Squad,2,Clear,20,46
+5848,Traffic Accident,Ladder,2,Fog,8,98
+5849,Medical,Chief,3,Rain,23,87
+5850,False Alarm,Engine,2,Rain,6,62
+5851,Medical,Ladder,2,Clear,15,49
+5852,Traffic Accident,Chief,2,Clear,15,61
+5853,Medical,Chief,1,Clear,12,49
+5854,Traffic Accident,Ambulance,3,Clear,9,106
+5855,Medical,Chief,2,Clear,17,70
+5856,Medical,Ladder,2,Fog,8,87
+5857,False Alarm,Rescue Squad,3,Fog,11,68
+5858,False Alarm,Ladder,2,Clear,23,62
+5859,Wellness Check,Engine,3,Clear,12,82
+5860,Traffic Accident,Chief,1,Clear,10,39
+5861,Wellness Check,Chief,1,Clear,14,42
+5862,Medical,Chief,3,Fog,9,103
+5863,Medical,Chief,3,Clear,9,87
+5864,Medical,Ambulance,2,Storm,8,97
+5865,Traffic Accident,Ambulance,2,Clear,2,50
+5866,Medical,Rescue Squad,3,Clear,22,62
+5867,Medical,Chief,1,Clear,15,50
+5868,Structure Fire,Engine,1,Rain,11,48
+5869,Wellness Check,Rescue Squad,2,Clear,16,61
+5870,Medical,Chief,1,Clear,14,50
+5871,Medical,Ambulance,1,Clear,2,42
+5872,Medical,Engine,3,Clear,4,94
+5873,Medical,Rescue Squad,1,Clear,12,49
+5874,Medical,Engine,3,Clear,23,79
+5875,Traffic Accident,Chief,2,Rain,5,69
+5876,Traffic Accident,Ladder,2,Rain,8,70
+5877,Traffic Accident,Engine,2,Clear,18,92
+5878,Medical,Engine,2,Rain,6,65
+5879,Wellness Check,Ambulance,1,Clear,12,37
+5880,Medical,Chief,1,Rain,21,57
+5881,Medical,Engine,2,Clear,4,73
+5882,Wellness Check,Chief,1,Clear,15,30
+5883,Medical,Ambulance,1,Clear,3,32
+5884,Medical,Chief,3,Rain,4,101
+5885,Wellness Check,Ambulance,3,Clear,19,75
+5886,Medical,Ambulance,2,Clear,18,75
+5887,Traffic Accident,Rescue Squad,1,Clear,22,56
+5888,Medical,Chief,2,Clear,5,42
+5889,Traffic Accident,Ladder,3,Rain,3,103
+5890,Medical,Rescue Squad,1,Clear,0,37
+5891,Medical,Ambulance,1,Fog,16,76
+5892,Traffic Accident,Ladder,3,Clear,8,101
+5893,Medical,Engine,3,Clear,15,74
+5894,Medical,Engine,2,Rain,22,71
+5895,Medical,Rescue Squad,1,Rain,1,54
+5896,Medical,Ladder,2,Clear,10,46
+5897,Medical,Chief,2,Clear,4,48
+5898,Medical,Ladder,1,Rain,12,67
+5899,False Alarm,Rescue Squad,1,Clear,19,48
+5900,Medical,Chief,1,Rain,16,71
+5901,Medical,Chief,2,Clear,14,69
+5902,Medical,Engine,2,Fog,21,74
+5903,Medical,Ladder,3,Clear,11,91
+5904,False Alarm,Chief,2,Clear,5,71
+5905,Medical,Rescue Squad,3,Clear,19,76
+5906,False Alarm,Engine,3,Storm,12,117
+5907,Medical,Chief,1,Rain,17,81
+5908,Traffic Accident,Ladder,2,Clear,23,62
+5909,Structure Fire,Engine,2,Clear,14,84
+5910,Wellness Check,Ladder,1,Clear,14,57
+5911,Structure Fire,Ladder,3,Clear,7,104
+5912,Structure Fire,Ladder,1,Clear,18,81
+5913,Medical,Engine,2,Clear,22,56
+5914,Medical,Chief,2,Clear,13,60
+5915,False Alarm,Ambulance,2,Clear,6,56
+5916,Medical,Chief,2,Rain,13,51
+5917,Medical,Engine,2,Clear,4,52
+5918,Traffic Accident,Ambulance,1,Clear,14,37
+5919,Medical,Ambulance,1,Clear,20,43
+5920,False Alarm,Ambulance,3,Rain,14,76
+5921,Traffic Accident,Rescue Squad,1,Rain,23,30
+5922,Structure Fire,Engine,1,Rain,3,55
+5923,Wellness Check,Rescue Squad,2,Clear,0,50
+5924,Medical,Ambulance,1,Clear,16,69
+5925,Medical,Rescue Squad,2,Fog,19,70
+5926,Medical,Rescue Squad,2,Clear,0,57
+5927,Medical,Engine,2,Clear,15,85
+5928,Traffic Accident,Ladder,2,Rain,12,68
+5929,False Alarm,Rescue Squad,1,Clear,17,57
+5930,Medical,Rescue Squad,2,Clear,9,94
+5931,Medical,Ambulance,1,Clear,22,61
+5932,False Alarm,Ambulance,1,Clear,17,82
+5933,Medical,Ambulance,2,Clear,16,74
+5934,Medical,Chief,1,Clear,8,55
+5935,Medical,Rescue Squad,2,Fog,13,56
+5936,False Alarm,Ambulance,2,Clear,20,84
+5937,Structure Fire,Engine,3,Clear,12,78
+5938,Traffic Accident,Chief,2,Clear,19,68
+5939,Wellness Check,Ladder,1,Rain,19,54
+5940,Medical,Rescue Squad,2,Clear,13,69
+5941,Medical,Rescue Squad,1,Rain,10,32
+5942,Wellness Check,Engine,2,Snow,12,88
+5943,Medical,Ladder,1,Rain,16,71
+5944,Traffic Accident,Ladder,1,Clear,2,46
+5945,False Alarm,Chief,2,Rain,0,67
+5946,Traffic Accident,Rescue Squad,2,Clear,20,48
+5947,Traffic Accident,Ambulance,2,Clear,4,62
+5948,Wellness Check,Engine,2,Clear,12,70
+5949,Wellness Check,Engine,2,Fog,23,60
+5950,Medical,Engine,2,Clear,4,62
+5951,Medical,Engine,2,Snow,4,100
+5952,Medical,Ambulance,1,Clear,22,44
+5953,Traffic Accident,Ambulance,2,Clear,11,60
+5954,Medical,Chief,2,Rain,1,57
+5955,Traffic Accident,Rescue Squad,1,Clear,22,42
+5956,Medical,Ambulance,1,Rain,15,44
+5957,Traffic Accident,Chief,1,Rain,16,74
+5958,Medical,Ladder,2,Clear,4,75
+5959,Traffic Accident,Rescue Squad,2,Clear,11,58
+5960,Structure Fire,Ambulance,2,Clear,14,49
+5961,Medical,Ladder,2,Clear,5,65
+5962,Medical,Chief,3,Clear,12,70
+5963,Traffic Accident,Ambulance,1,Clear,10,37
+5964,Medical,Ambulance,1,Fog,16,42
+5965,Medical,Ladder,2,Clear,8,99
+5966,False Alarm,Ambulance,2,Rain,15,80
+5967,Traffic Accident,Engine,2,Clear,16,92
+5968,False Alarm,Ambulance,2,Clear,19,67
+5969,Medical,Rescue Squad,3,Clear,23,89
+5970,Medical,Ladder,2,Rain,17,95
+5971,Wellness Check,Rescue Squad,1,Clear,12,42
+5972,Structure Fire,Chief,2,Snow,10,90
+5973,Traffic Accident,Rescue Squad,1,Clear,12,46
+5974,Medical,Engine,2,Clear,23,70
+5975,Medical,Engine,1,Clear,12,46
+5976,Medical,Rescue Squad,2,Clear,11,71
+5977,Medical,Chief,2,Clear,13,52
+5978,Medical,Ambulance,3,Rain,12,108
+5979,Medical,Engine,2,Fog,8,103
+5980,False Alarm,Rescue Squad,2,Rain,13,59
+5981,Medical,Rescue Squad,1,Snow,0,106
+5982,Traffic Accident,Rescue Squad,3,Fog,8,85
+5983,Wellness Check,Ambulance,2,Fog,3,57
+5984,Structure Fire,Ladder,1,Clear,11,50
+5985,Medical,Chief,3,Clear,23,78
+5986,Traffic Accident,Ladder,2,Clear,13,72
+5987,Traffic Accident,Chief,2,Clear,8,77
+5988,Traffic Accident,Chief,2,Fog,2,74
+5989,Traffic Accident,Rescue Squad,1,Clear,5,49
+5990,False Alarm,Engine,3,Rain,2,94
+5991,Structure Fire,Rescue Squad,2,Rain,0,64
+5992,Medical,Ambulance,1,Clear,21,32
+5993,Traffic Accident,Chief,3,Clear,20,82
+5994,Medical,Engine,2,Clear,2,72
+5995,Wellness Check,Chief,1,Clear,13,33
+5996,Medical,Chief,1,Clear,19,53
+5997,Medical,Rescue Squad,2,Clear,1,39
+5998,Wellness Check,Engine,1,Clear,11,80
+5999,Structure Fire,Engine,3,Clear,9,106
