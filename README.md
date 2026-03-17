@@ -23,5 +23,6 @@ To ensure the model learns realistic operational patterns, I developed a custom 
 - **Phase 2:** Feature Engineering & Preprocessing (One-Hot Encoding for categorical data).
 - **Phase 3:** Building and training a Deep Neural Network (DNN) to minimize Mean Absolute Error (MAE) in turnout predictions.
 
--
-![Demo Image](./images/learning_curve.png)
+-<img width="584" height="382" alt="Screenshot 2026-03-17 at 9 12 16 PM" src="https://github.com/user-attachments/assets/be215eef-9855-42c1-acb4-78ae93d7b2e7" />
+
+
