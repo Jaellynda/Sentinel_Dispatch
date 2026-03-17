@@ -24,4 +24,4 @@ To ensure the model learns realistic operational patterns, I developed a custom 
 - **Phase 3:** Building and training a Deep Neural Network (DNN) to minimize Mean Absolute Error (MAE) in turnout predictions.
 
 -
-![Demo Image](images/learning_curve.png)
+![Demo Image](./images/learning_curve.png)
