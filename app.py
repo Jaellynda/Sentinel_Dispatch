@@ -10,7 +10,7 @@ import os
 
 # 1. Page Configuration
 st.set_page_config(page_title="Sentinel Dispatch AI", layout="wide")
-st.title("🚨 Sentinel Dispatch: Emergency Logistics Dashboard")
+st.title("Sentinel Dispatch: Emergency Logistics Dashboard")
 
 # 2. Sidebar for Inputs
 st.sidebar.header("Incident Configuration")
