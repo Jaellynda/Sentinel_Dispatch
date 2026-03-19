@@ -1,4 +1,6 @@
 # Sentinel Dispatch: Predictive Emergency Response Turnout
+<img width="3018" height="1596" alt="image" src="https://github.com/user-attachments/assets/b216561b-7a0b-4d34-ab24-817376f765b9" />
+
 
 ## Project Overview
 **Sentinel Dispatch Project Overview** 
@@ -26,6 +28,7 @@ and Seattle Fire Station 28: https://www.google.com/maps?cid=1209275779978953451
 Dynamic Hazards: Simulated road closures, weather indices (storm/snow), and neighborhood-specific traffic multipliers.
 
 Geospatial Logic: Implemented Haversine distance calculations to establish proximity-based response delays.
+<img width="1222" height="732" alt="image" src="https://github.com/user-attachments/assets/5a856922-2e10-4606-8e89-6800c5854b23" />
 
 
 ## Phase 2 & 3: Preprocessing & Deep Learning
