@@ -66,7 +66,7 @@ with col2:
             chain = prompt | llm | StrOutputParser()
             st.info(chain.invoke({"pred": pred, "i": incident, "w": weather}))
         
-        st.metric("Predicted Turnout", f"{pred} Seconds", delta="-4.2s" if p==1 else "Delay Expected")
+        st.metric("Predicted Turnout", f"{pred} Seconds", delta="-4.2s" if priority==1 else "Delay Expected")
 
 # --- 5. EXPLAINABLE AI (XAI) SECTION ---
 st.divider()
