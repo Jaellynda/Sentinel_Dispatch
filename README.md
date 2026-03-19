@@ -2,6 +2,8 @@
 <img width="3018" height="1596" alt="image" src="https://github.com/user-attachments/assets/b216561b-7a0b-4d34-ab24-817376f765b9" />
 
 
+## Link to live app
+https://sentinel-dispatch.streamlit.app/
 ## Project Overview
 **Sentinel Dispatch Project Overview** 
 Sentinel Dispatch is a Deep Learning and Agentic AI project designed to predict emergency response turnout times (the interval between dispatch and unit movement) and provide real-time tactical advisories.
