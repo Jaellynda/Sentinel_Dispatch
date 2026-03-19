@@ -44,13 +44,19 @@ col1, col2 = st.columns([1.5, 1])
 
 with col1:
     st.subheader("Geospatial Operational View")
-    m = folium.Map(location=[47.6062, -122.3321], zoom_start=12, tiles="cartodbpositron")
-    stations = [
-        {"n": "Station 10", "l": [47.6011, -122.3285]},
-        {"n": "Station 18", "l": [47.6683, -122.3772]}
-    ]
-    for s in stations:
-        folium.Marker(s['l'], popup=s['n'], icon=folium.Icon(color='red', icon='fire')).add_to(m)
+    # Initialize Map
+    m = folium.Map(location=[47.6062, -122.3321], zoom_start=11, tiles="cartodbpositron")
+    
+    # 🚨 THE FIX: Use the full list from load_assets()
+    all_stations = load_assets() 
+    
+    for s in all_stations:
+        folium.Marker(
+            location=s['loc'], 
+            popup=s['name'], 
+            icon=folium.Icon(color='red', icon='fire')
+        ).add_to(m)
+        
     st_folium(m, width="100%", height=450)
 
 with col2:
