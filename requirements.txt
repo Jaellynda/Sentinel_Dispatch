@@ -1,4 +1,8 @@
 streamlit
-langchain-groq
-folium
 streamlit-folium
+folium
+langchain-groq
+shap
+pandas
+numpy
+matplotlib
