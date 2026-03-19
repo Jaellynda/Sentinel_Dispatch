@@ -20,7 +20,7 @@ Geospatial Logic: Implemented Haversine distance calculations to establish proxi
 
 Seattle Fire Station 10
 
-Spatial Mapping: Integrated real-world assets like Seattle Fire Station 10Click to open side panel for more information, Seattle Fire Station 18Click to open side panel for more information, Seattle Fire Station 22Click to open side panel for more information, and Seattle Fire Station 28Click to open side panel for more information.
+Spatial Mapping: Integrated real-world assets like Seattle Fire Station 10 https://www.google.com/maps?cid=17687369618003697318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ  for more information, Seattle Fire Station 18Click to open side panel for more information, Seattle Fire Station 22Click to open side panel for more information, and Seattle Fire Station 28Click to open side panel for more information.
 
 Dynamic Hazards: Simulated road closures, weather indices (storm/snow), and neighborhood-specific traffic multipliers.
 
