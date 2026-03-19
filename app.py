@@ -31,19 +31,27 @@ def load_assets():
     ]
 
 # 4. Agent Logic (Simplified for the Dashboard)
+
 def get_agent_response(z, p, i, w):
-    # Using st.secrets for when we deploy to Streamlit Cloud later
-    # For now, we'll try to get it from environment variables
     api_key = os.environ.get("GROQ_API_KEY") 
     llm = ChatGroq(model_name="llama-3.1-8b-instant", groq_api_key=api_key)
     
-    # Static prediction for dashboard demo
+    # Mock data for the dashboard demo
     prediction = 48.5 if p == 1 else 102.3
     hazards = 15 if z == "98101" else 0
     
-    prompt = ChatPromptTemplate.from_template("Provide a 2-sentence dispatch advisory for {i} in {z}. Turnout: {t}s, Hazards: {h}.")
+    # Professional, high-authority prompt
+    prompt = ChatPromptTemplate.from_template("""
+    Role: Senior Emergency Logistics Coordinator
+    Context: {i} incident in Zip {z}.
+    Data: Predicted Turnout: {t}s | Active Hazards: {h} | Weather: {w}.
+    
+    Task: Provide a critical dispatch advisory in 2 sentences. 
+    Tone: Authoritative, concise, and focused on operational safety.
+    """)
+    
     chain = prompt | llm | StrOutputParser()
-    return chain.invoke({"i": i, "z": z, "t": prediction, "h": hazards})
+    return chain.invoke({"i": i, "z": z, "t": prediction, "h": hazards, "w": w})
 
 # 5. Layout
 col1, col2 = st.columns([2, 1])
